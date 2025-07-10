@@ -1,86 +1,68 @@
 package org.acme;
 
-import jakarta.annotation.PostConstruct;
+import io.quarkus.redis.datasource.RedisDataSource;
+import io.quarkus.redis.datasource.hash.HashCommands;
 import jakarta.enterprise.context.ApplicationScoped;
 
-import java.math.BigDecimal;
-import java.time.OffsetDateTime;
-import java.util.Collections;
+import java.time.Instant;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
-import java.util.concurrent.Callable;
-import java.util.concurrent.locks.ReentrantLock;
+import java.util.function.Predicate;
+
+import static java.util.Optional.of;
 
 @ApplicationScoped
 public class Payments {
 
-    ReentrantLock lock = new ReentrantLock();
-    Map<String, Payment> paymentsByCorrelationId = new HashMap<>();
-    Map<String, PaymentSummary> summaryByPaymentService = new HashMap<>();
+    private final static String HASH = "payments";
+    private final HashCommands<String, String, Payment> paymentHashCommands;
 
-    @PostConstruct
-    void postConstruct() {
-        runSync(() -> {
-            summaryByPaymentService.put("default", PaymentSummary.ZERO);
-            summaryByPaymentService.put("fallback", PaymentSummary.ZERO);
-        });
+    public Payments(RedisDataSource ds) {
+        this.paymentHashCommands = ds.hash(Payment.class);
     }
 
-    Payment register(Payment newPayment) {
-        runSync(() -> {
-            paymentsByCorrelationId.put(newPayment.correlationId(), newPayment);
-            PaymentSummary newPaymentSummary = summaryByPaymentService.computeIfAbsent(
-                            newPayment.paymentService(),
-                            k -> new PaymentSummary(0, BigDecimal.ZERO.setScale(2)))
-                    .increment(newPayment);
-            summaryByPaymentService.put(newPayment.paymentService(), newPaymentSummary);
-        });
+    public Payment register(Payment newPayment) {
+        paymentHashCommands.hsetnx(HASH, newPayment.correlationId(), newPayment);
         return newPayment;
     }
 
-    private <T> T runSync(Callable<T> callable) {
-        try {
-            lock.lock();
-            return callable.call();
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        } finally {
-            lock.unlock();
-        }
-    }
-
-    private void runSync(Runnable runnable) {
-        try {
-            lock.lock();
-            runnable.run();
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        } finally {
-            lock.unlock();
-        }
-    }
-
-
     Optional<Payment> getByCorrelationId(String correlationId) {
-        return Optional.ofNullable(runSync(() -> paymentsByCorrelationId.get(correlationId)));
+        return Optional.ofNullable(paymentHashCommands.hget(HASH, correlationId));
     }
 
-    public PaymentsSummary getSummary(OffsetDateTime from, OffsetDateTime to) {
+    public PaymentsSummary getSummary(Instant from, Instant to) {
 
-        Map<String, PaymentSummary> summary = runSync(() -> Collections.unmodifiableMap(summaryByPaymentService));
+        Map<RemotePaymentName, PaymentSummary> summary = new HashMap<>();
 
-        return new PaymentsSummary(
-                summary.getOrDefault("default", PaymentSummary.ZERO),
-                summary.getOrDefault("fallback", PaymentSummary.ZERO)
-        );
+        Predicate<Payment> fromWasOmitted = payment -> from == null;
+        Predicate<Payment> toWasOmitted = payment -> to == null;
+
+        Predicate<Payment> fromOrAfter = payment -> payment.createAt().isAfter(from);
+        Predicate<Payment> toOrBefore = payment -> payment.createAt().isBefore(to);
+
+        Predicate<Payment> fromTo = fromWasOmitted.or(fromOrAfter)
+                .and(toWasOmitted.or(toOrBefore));
+
+        Collection<Payment> payments = paymentHashCommands.hgetall(HASH)
+                .values();
+        payments
+                .stream()
+                .filter(fromTo)
+                .forEach(payment -> {
+                    summary.put(payment.processedBy(), summary.computeIfAbsent(
+                                    payment.processedBy(), k -> PaymentSummary.ZERO)
+                            .increment(payment));
+                });
+
+        return PaymentsSummary.of(summary);
+
     }
 
     public void purge() {
-        runSync(() -> {
-            paymentsByCorrelationId.clear();
-            summaryByPaymentService.put("default", PaymentSummary.ZERO);
-            summaryByPaymentService.put("fallback", PaymentSummary.ZERO);
-        });
+        of(paymentHashCommands.hkeys(HASH))
+                .filter(Predicate.not(Collection::isEmpty))
+                .ifPresent(keys -> paymentHashCommands.hdel(HASH, keys.toArray(new String[0])));
     }
 }

@@ -16,17 +16,13 @@ public class PaymentsSummaryResource {
     @Inject
     Payments payments;
 
-    record Params( @QueryParam("from")
-                   String rawFrom,
-                   @QueryParam("to")
-                   String rawTo){
-    }
-
     @GET
-    public PaymentsSummary get(Params params
-           ) {
-//        params.to().atOffset(ZoneOffset.UTC)
-        return payments.getSummary(null, null);
+    public PaymentsSummary get(@QueryParam("from")
+                               String from,
+                               @QueryParam("to")
+                               String to) {
+
+        return payments.getSummary(Iso8601InstantConverter.parse(from), Iso8601InstantConverter.parse(to));
     }
 
 }

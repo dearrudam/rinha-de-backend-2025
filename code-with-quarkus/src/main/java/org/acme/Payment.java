@@ -1,21 +1,21 @@
 package org.acme;
 
 import java.math.BigDecimal;
-import java.time.OffsetDateTime;
+import java.time.Instant;
 
 public record Payment(String correlationId,
-                      String paymentService,
+                      RemotePaymentName processedBy,
                       BigDecimal amount,
-                      OffsetDateTime dateTime) {
+                      Instant createAt) {
 
     public static Payment of(String correlationId,
-                             String paymentService,
+                             RemotePaymentName processedBy,
                              BigDecimal amount,
-                             OffsetDateTime dateTime) {
+                             Instant createAt) {
         return new Payment(correlationId,
-                paymentService,
+                processedBy,
                 amount,
-                dateTime
+                createAt
         );
     }
 }
