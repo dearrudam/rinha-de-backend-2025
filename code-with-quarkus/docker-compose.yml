@@ -1,0 +1,84 @@
+x-service-templates:
+  api: &api
+    build:
+      dockerfile: ./src/main/docker/Dockerfile.jvm
+    environment:
+      - QUARKUS_HTTP_PORT=8080
+      - DEFAULT_PAYMENT_PROCESSOR_URL=http://payment-processor-default:8080
+      - FALLBACK_PAYMENT_PROCESSOR_URL=http://payment-processor-fallback:8080
+    networks:
+      - rinha-net
+      - payment-processor-net
+#    depends_on:
+#      redis:
+#        condition: service_healthy
+    deploy:
+      resources:
+        limits:
+          cpus: "0.55"
+          memory: "30MB"
+
+services:
+  #--- LOAD BALANCER ---
+  nginx:
+    image: nginx:1.25-alpine
+    container_name: rinha-nginx
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - api1
+      - api2
+    ports:
+      - "9999:9999"
+    networks:
+      - rinha-net
+    deploy:
+      resources:
+        limits:
+          cpus: "0.15"
+          memory: "10MB"
+
+  api1:
+    <<: *api
+    hostname: api1
+    deploy:
+      resources:
+        limits:
+          cpus: "0.55"
+          memory: "64MB"
+
+  api2:
+    <<: *api
+    hostname: api2
+    deploy:
+      resources:
+        limits:
+          cpus: "0.55"
+          memory: "64MB"
+
+  #--- QUEUE AND STORAGE ---
+#  redis:
+#    image: redis:7.2-alpine
+#    container_name: rinha-redis
+#    command: redis-server --save "" --appendonly no --maxclients 20000
+#    networks:
+#      - rinha-net
+#    healthcheck:
+#      test: ["CMD", "redis-cli", "ping"]
+#      interval: 5s
+#      timeout: 5s
+#      retries: 5
+#    deploy:
+#      resources:
+#        limits:
+#          cpus: "0.25"
+#          memory: "212MB"
+
+
+#--- NETWORKS ---
+networks:
+  rinha-net:
+    driver: bridge
+  payment-processor-net:
+    name: payment-processor
+    external: true
