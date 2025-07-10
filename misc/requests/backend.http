@@ -1,6 +1,6 @@
 @port = 9999
 
-
+### /payments
 POST http://localhost:{{port}}/payments
 Content-Type: application/json
 
@@ -9,8 +9,15 @@ Content-Type: application/json
     "amount": 19.90
 }
 
-###
+### /payments-summary
 GET http://localhost:{{port}}/payments-summary
 
-###
+### /payments-summary?from=2020-07-04T00:16:15.912Z&to=2025-07-04T00:17:15.690Z
 GET http://localhost:{{port}}/payments-summary?from=2020-07-04T00:16:15.912Z&to=2025-07-04T00:17:15.690Z
+
+### /payments-summary?from=2000-01-01T00:00:00&to=2900-01-01T00:00:00
+GET http://localhost:{{port}}/payments-summary?from=2000-01-01T00:00:00&to=2900-01-01T00:00:00
+
+### /purge-payments
+POST http://localhost:{{port}}/purge-payments
+Content-Type: */*
