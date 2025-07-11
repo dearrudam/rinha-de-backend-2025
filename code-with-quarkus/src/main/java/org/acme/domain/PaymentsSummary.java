@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.domain;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.api;
 
 import jakarta.inject.Inject;
 import jakarta.ws.rs.Consumes;
@@ -9,6 +9,12 @@ import jakarta.ws.rs.PathParam;
 import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
+import org.acme.PaymentProcessorHealthState;
+import org.acme.application.NewPaymentItemExecutor;
+import org.acme.application.PaymentProcessorServiceExecutor;
+import org.acme.domain.Payments;
+import org.acme.domain.RemotePaymentName;
+import org.acme.domain.RemotePaymentRequest;
 
 import java.util.Map;
 
@@ -17,14 +23,20 @@ import java.util.Map;
 @Produces(MediaType.APPLICATION_JSON)
 public class PaymentsResource {
 
-    @Inject
-    PaymentProcessorServiceExecutor processorServiceExecutor;
+    private final PaymentProcessorServiceExecutor processorServiceExecutor;
+
+    private final Map<RemotePaymentName, PaymentProcessorHealthState> healthStates;
+
+    private final Payments payments;
 
     @Inject
-    Map<RemotePaymentName, PaymentProcessorHealthState> healthStates;
-
-    @Inject
-    Payments payments;
+    public PaymentsResource(PaymentProcessorServiceExecutor processorServiceExecutor,
+                            Map<RemotePaymentName, PaymentProcessorHealthState> healthStates,
+                            Payments payments) {
+        this.processorServiceExecutor = processorServiceExecutor;
+        this.healthStates = healthStates;
+        this.payments = payments;
+    }
 
     @POST
     public Response process(RemotePaymentRequest remotePaymentRequest) {

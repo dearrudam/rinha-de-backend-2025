@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.domain;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
@@ -20,7 +20,7 @@ public record RemotePaymentRequest(String correlationId,
         return Payment.of(correlationId, processedBy, amount, requestedAt);
     }
 
-    NewPaymentRequest toNewPayment() {
+    public NewPaymentRequest toNewPayment() {
         return new NewPaymentRequest(correlationId(), amount());
     }
 }

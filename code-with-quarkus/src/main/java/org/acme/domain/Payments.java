@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.domain;
 
 import io.quarkus.redis.datasource.RedisDataSource;
 import io.quarkus.redis.datasource.hash.HashCommands;
@@ -11,8 +11,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
 import java.util.function.Predicate;
-
-import static java.util.Optional.of;
 
 @ApplicationScoped
 public class Payments {
@@ -31,7 +29,7 @@ public class Payments {
         return newPayment;
     }
 
-    Optional<Payment> getByCorrelationId(String correlationId) {
+    public Optional<Payment> getByCorrelationId(String correlationId) {
         return Optional.ofNullable(paymentHashCommands.hget(HASH, correlationId));
     }
 

@@ -1,8 +1,9 @@
-package org.acme;
+package org.acme.application;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
 import jakarta.enterprise.context.ApplicationScoped;
+import org.acme.domain.NewPaymentRequest;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

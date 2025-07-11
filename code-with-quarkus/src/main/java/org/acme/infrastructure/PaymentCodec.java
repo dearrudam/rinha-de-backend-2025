@@ -1,8 +1,9 @@
-package org.acme;
+package org.acme.infrastructure;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.quarkus.redis.datasource.codecs.Codec;
 import jakarta.enterprise.context.ApplicationScoped;
+import org.acme.domain.Payment;
 
 import java.io.IOException;
 import java.lang.reflect.Type;

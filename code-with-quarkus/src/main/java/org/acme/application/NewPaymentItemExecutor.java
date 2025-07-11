@@ -1,7 +1,12 @@
-package org.acme;
+package org.acme.application;
 
 import io.quarkus.rest.client.reactive.QuarkusRestClientBuilder;
 import jakarta.ws.rs.core.Response;
+import org.acme.PaymentProcessorHealthState;
+import org.acme.RemotePaymentResponse;
+import org.acme.domain.NewPaymentRequest;
+import org.acme.domain.Payments;
+import org.acme.domain.RemotePaymentName;
 import org.eclipse.microprofile.config.ConfigProvider;
 import org.jboss.resteasy.reactive.RestResponse;
 
@@ -10,8 +15,8 @@ import java.util.Map;
 import java.util.concurrent.TimeUnit;
 import java.util.function.Consumer;
 
-import static org.acme.RemotePaymentName.DEFAULT;
-import static org.acme.RemotePaymentName.FALLBACK;
+import static org.acme.domain.RemotePaymentName.DEFAULT;
+import static org.acme.domain.RemotePaymentName.FALLBACK;
 
 public record NewPaymentItemExecutor(
         Map<RemotePaymentName, PaymentProcessorHealthState> healthState,
@@ -31,9 +36,9 @@ public record NewPaymentItemExecutor(
             actualHealth = fallbackHealth;
         }
 
-        RemotePaymentProcessorExecutor remotePaymentProcessorExecutor = remotePaymentExecutorOf(remotePaymentName);
+        var remotePaymentProcessorExecutor = remotePaymentExecutorOf(remotePaymentName,actualHealth);
 
-        RemotePaymentRequest newPayment = newPaymentRequest.toNewPayment();
+        var newPayment = newPaymentRequest.toNewPayment();
         RestResponse<RemotePaymentResponse> response = remotePaymentProcessorExecutor.processPayment(newPayment);
 
         switch (Response.Status.fromStatusCode(response.getStatus()).getFamily()) {
@@ -53,10 +58,10 @@ public record NewPaymentItemExecutor(
         }
     }
 
-    private RemotePaymentProcessorExecutor remotePaymentExecutorOf(RemotePaymentName remotePaymentName) {
+    private RemotePaymentProcessorExecutor remotePaymentExecutorOf(RemotePaymentName remotePaymentName, PaymentProcessorHealthState actualHealth) {
         URI uri = URI.create(ConfigProvider.getConfig()
                 .getValue("%s-payment-processor.url".formatted(remotePaymentName.value()), String.class));
-        long timeout = 1500L;
+        long timeout = actualHealth.minResponseTime();
         return QuarkusRestClientBuilder.newBuilder()
                 .baseUri(uri)
                 .connectTimeout(timeout, TimeUnit.MILLISECONDS)
