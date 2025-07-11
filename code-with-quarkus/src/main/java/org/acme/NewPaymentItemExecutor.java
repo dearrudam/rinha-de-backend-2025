@@ -19,23 +19,19 @@ public record NewPaymentItemExecutor(
         implements Consumer<NewPaymentRequest> {
 
     @Override
-    public void accept(NewPaymentRequest newPaymentRequest) {
+    public void accept(NewPaymentRequest newPaymentRequest) throws IllegalStateException {
+
         PaymentProcessorHealthState defaultHealth = DEFAULT.healthState(healthState);
-        switch (defaultHealth) {
-            case PaymentProcessorHealthState(var failing, _) when failing -> fallback(newPaymentRequest);
-            default -> process(DEFAULT, defaultHealth, newPaymentRequest);
+        PaymentProcessorHealthState fallbackHealth = FALLBACK.healthState(healthState);
+
+        RemotePaymentName remotePaymentName = DEFAULT;
+        PaymentProcessorHealthState actualHealth = defaultHealth;
+        if (defaultHealth.failing() || (defaultHealth.minResponseTime() > fallbackHealth.minResponseTime())) {
+            remotePaymentName = FALLBACK;
+            actualHealth = fallbackHealth;
         }
-    }
 
-    private void fallback(NewPaymentRequest newPaymentRequest) {
-        process(FALLBACK, FALLBACK.healthState(healthState), newPaymentRequest);
-    }
-
-    private void process(RemotePaymentName remotePaymentName,
-                         PaymentProcessorHealthState defaultHealth,
-                         NewPaymentRequest newPaymentRequest) {
-
-        RemotePaymentProcessorExecutor remotePaymentProcessorExecutor = remotePaymentExecutorOf(remotePaymentName, defaultHealth);
+        RemotePaymentProcessorExecutor remotePaymentProcessorExecutor = remotePaymentExecutorOf(remotePaymentName);
 
         RemotePaymentRequest newPayment = newPaymentRequest.toNewPayment();
         RestResponse<RemotePaymentResponse> response = remotePaymentProcessorExecutor.processPayment(newPayment);
@@ -47,22 +43,20 @@ public record NewPaymentItemExecutor(
             }
             case SERVER_ERROR -> {
                 if (DEFAULT.equals(remotePaymentName))
-                    fallback(newPaymentRequest);
+                    healthState.put(DEFAULT, new PaymentProcessorHealthState(true, actualHealth.minResponseTime()));
                 else
                     throw new IllegalStateException(
-                            STR."Unexpected value: \{response.getStatus()} from \{remotePaymentName.value()} remote payment service.");
+                            STR."Unexpected value: \{response.getStatus()} from \{remotePaymentName.value()} remote payment service. It'll be re-submitted...");
             }
             default ->
                     throw new IllegalStateException(STR."Unexpected value: \{response.getStatus()} from \{remotePaymentName.value()}.");
         }
     }
 
-    private RemotePaymentProcessorExecutor remotePaymentExecutorOf(
-            RemotePaymentName remotePaymentName,
-            PaymentProcessorHealthState defaultHealth) {
+    private RemotePaymentProcessorExecutor remotePaymentExecutorOf(RemotePaymentName remotePaymentName) {
         URI uri = URI.create(ConfigProvider.getConfig()
                 .getValue("%s-payment-processor.url".formatted(remotePaymentName.value()), String.class));
-        long timeout = Integer.valueOf(defaultHealth.minResponseTime()).longValue();
+        long timeout = 1500L;
         return QuarkusRestClientBuilder.newBuilder()
                 .baseUri(uri)
                 .connectTimeout(timeout, TimeUnit.MILLISECONDS)
