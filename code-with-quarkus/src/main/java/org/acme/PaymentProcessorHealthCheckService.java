@@ -52,6 +52,7 @@ public class PaymentProcessorHealthCheckService {
     }
 
     private void setStatus(RemotePaymentName name, PaymentProcessorHealthState state) {
+        System.out.println(STR."\{name} -> \{state}");
         this.state.put(name, state);
     }
 
