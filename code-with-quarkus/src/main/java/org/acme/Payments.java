@@ -2,6 +2,7 @@ package org.acme;
 
 import io.quarkus.redis.datasource.RedisDataSource;
 import io.quarkus.redis.datasource.hash.HashCommands;
+import io.quarkus.redis.datasource.keys.KeyCommands;
 import jakarta.enterprise.context.ApplicationScoped;
 
 import java.time.Instant;
@@ -18,8 +19,10 @@ public class Payments {
 
     private final static String HASH = "payments";
     private final HashCommands<String, String, Payment> paymentHashCommands;
+    private final KeyCommands<String> keyCommands;
 
     public Payments(RedisDataSource ds) {
+        this.keyCommands = ds.key();
         this.paymentHashCommands = ds.hash(Payment.class);
     }
 
@@ -36,14 +39,14 @@ public class Payments {
 
         Map<RemotePaymentName, PaymentSummary> summary = new HashMap<>();
 
-        Predicate<Payment> fromWasOmitted = payment -> from == null;
-        Predicate<Payment> toWasOmitted = payment -> to == null;
+        Predicate<Payment> fromWasOmitted = _ -> from == null;
+        Predicate<Payment> toWasOmitted = _ -> to == null;
 
-        Predicate<Payment> fromOrAfter = payment -> payment.createAt().isAfter(from);
-        Predicate<Payment> toOrBefore = payment -> payment.createAt().isBefore(to);
+        Predicate<Payment> afterOrEqualFrom = payment -> from != null && from.isBefore(payment.createAt()) || from.equals(payment.createAt());
+        Predicate<Payment> beforeOrEqualTo = payment -> to != null && to.isAfter(payment.createAt()) || to.equals(payment.createAt());
 
-        Predicate<Payment> fromTo = fromWasOmitted.or(fromOrAfter)
-                .and(toWasOmitted.or(toOrBefore));
+        Predicate<Payment> fromTo = fromWasOmitted.or(afterOrEqualFrom)
+                .and(toWasOmitted.or(beforeOrEqualTo));
 
         Collection<Payment> payments = paymentHashCommands.hgetall(HASH)
                 .values();
@@ -61,8 +64,6 @@ public class Payments {
     }
 
     public void purge() {
-        of(paymentHashCommands.hkeys(HASH))
-                .filter(Predicate.not(Collection::isEmpty))
-                .ifPresent(keys -> paymentHashCommands.hdel(HASH, keys.toArray(new String[0])));
+        keyCommands.del(HASH);
     }
 }
