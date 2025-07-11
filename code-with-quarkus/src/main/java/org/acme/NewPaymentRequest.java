@@ -3,13 +3,10 @@ package org.acme;
 import java.math.BigDecimal;
 import java.time.Instant;
 
-public record NewPaymentRequest(String correlationId, BigDecimal amount, Instant createdAt) {
+public record NewPaymentRequest(String correlationId, BigDecimal amount) {
 
     public RemotePaymentRequest toNewPayment() {
-        return new RemotePaymentRequest(correlationId, amount);
+        return new RemotePaymentRequest(correlationId, amount, Instant.now());
     }
 
-    public Payment toPayment(RemotePaymentName remotePaymentName) {
-        return new Payment(correlationId, remotePaymentName, amount, createdAt);
-    }
 }
