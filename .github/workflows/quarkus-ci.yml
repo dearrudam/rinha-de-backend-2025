@@ -1,0 +1,41 @@
+name: Quarkus CI
+
+on:
+  push:
+    paths:
+      - 'code-with-quarkus/**'
+  pull_request:
+    paths:
+      - 'code-with-quarkus/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: code-with-quarkus
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar JDK 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 21
+
+      - name: Build e Testes (mvn clean install)
+        run: mvn clean install -B
+
+      - name: Upload de resultados de teste (JUnit)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: junit-report
+          path: code-with-quarkus/target/surefire-reports/
+
+      - name: Feedback no GitHub
+        if: failure()
+        run: echo "::error ::Falha no build ou nos testes."
