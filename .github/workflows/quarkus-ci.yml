@@ -38,4 +38,4 @@ jobs:
 
       - name: Feedback no GitHub
         if: failure()
-        run: echo "::error ::Falha no build ou nos testes."
+        run: echo "::error ::Falha no build ou nos testes.."
