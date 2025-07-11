@@ -4,12 +4,23 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 
 import java.math.BigDecimal;
 import java.time.Instant;
+import java.util.Optional;
 
 public record RemotePaymentRequest(String correlationId,
                                    @JsonFormat(shape = JsonFormat.Shape.NUMBER)
-                                   BigDecimal amount) {
+                                   BigDecimal amount,
+                                   @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'", timezone = "UTC")
+                                   Instant requestedAt) {
+
+    public RemotePaymentRequest {
+        requestedAt = Optional.ofNullable(requestedAt).orElse(Instant.now());
+    }
+
+    public Payment toPayment(RemotePaymentName processedBy) {
+        return Payment.of(correlationId, processedBy, amount, requestedAt);
+    }
 
     NewPaymentRequest toNewPayment() {
-        return new NewPaymentRequest(correlationId, amount, Instant.now());
+        return new NewPaymentRequest(correlationId(), amount());
     }
 }
