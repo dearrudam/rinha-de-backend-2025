@@ -8,6 +8,7 @@ public record Payment(String correlationId,
                       BigDecimal amount,
                       Instant createAt) {
 
+
     public static Payment of(String correlationId,
                              RemotePaymentName processedBy,
                              BigDecimal amount,
