@@ -8,8 +8,8 @@ import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.QueryParam;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
-import org.acme.Iso8601InstantConverter;
 import org.acme.domain.Payments;
+import org.acme.infrastructure.Iso8601InstantConverter;
 
 import java.time.Instant;
 
@@ -17,8 +17,12 @@ import java.time.Instant;
 @Produces(MediaType.APPLICATION_JSON)
 public class PaymentsSummaryResource {
 
+    private final Payments payments;
+
     @Inject
-    Payments payments;
+    public PaymentsSummaryResource(Payments payments) {
+        this.payments = payments;
+    }
 
     @GET
     public Response get(@QueryParam("from") @DefaultValue("") String fromStr,
