@@ -35,25 +35,35 @@ public record NewPaymentItemExecutor(
             actualHealth = fallbackHealth;
         }
 
-        var remotePaymentProcessorExecutor = remotePaymentExecutorOf(remotePaymentName,actualHealth);
+        if(actualHealth.failing()){
+            throw new IllegalStateException(STR."All remote payment services are failing. Please try again later.");
+        }
+
+        var remotePaymentProcessorExecutor = remotePaymentExecutorOf(remotePaymentName, actualHealth);
 
         var newPayment = newPaymentRequest.toNewPayment();
-        RestResponse<RemotePaymentResponse> response = remotePaymentProcessorExecutor.processPayment(newPayment);
-
+        RestResponse<RemotePaymentResponse> response = null;
+        try {
+            response = remotePaymentProcessorExecutor.processPayment(newPayment);
+        } catch (RuntimeException e) {
+            healthState.put(DEFAULT, new PaymentProcessorHealthState(true, actualHealth.minResponseTime()));
+        }
         switch (Response.Status.fromStatusCode(response.getStatus()).getFamily()) {
             case SUCCESSFUL -> {
-                System.out.println(STR."Response Message: \"\{response.getEntity().message()}\" - Payment processed successfully by \{remotePaymentName.value()} remote payment service.");
                 payments.register(remotePaymentName.toPayment(newPayment));
             }
             case SERVER_ERROR -> {
-                if (DEFAULT.equals(remotePaymentName))
+                System.out.println(STR."\{remotePaymentName} : \{response.getStatus()} - \{response.getEntity().message()}");
+                if (DEFAULT.equals(remotePaymentName)) {
                     healthState.put(DEFAULT, new PaymentProcessorHealthState(true, actualHealth.minResponseTime()));
-                else
-                    throw new IllegalStateException(
-                            STR."Unexpected value: \{response.getStatus()} from \{remotePaymentName.value()} remote payment service. It'll be re-submitted...");
+                }
+                throw new IllegalStateException(
+                        STR."Unexpected value: \{response.getStatus()} from \{remotePaymentName.value()} remote payment service. It'll be re-submitted...");
             }
-            default ->
-                    throw new IllegalStateException(STR."Unexpected value: \{response.getStatus()} from \{remotePaymentName.value()}.");
+            default -> {
+                System.out.println(STR."\{remotePaymentName} : \{response.getStatus()} - \{response.getEntity().message()}");
+                healthState.put(DEFAULT, new PaymentProcessorHealthState(true, actualHealth.minResponseTime()));
+            }
         }
     }
 
