@@ -3,7 +3,6 @@ x-service-templates:
     build:
       dockerfile: ./src/main/docker/Dockerfile.jvm
     environment:
-      - JAVA_OPTS=--enable-preview
       - QUARKUS_HTTP_PORT=8080
       - DEFAULT_PAYMENT_PROCESSOR_URL=http://payment-processor-default:8080
       - FALLBACK_PAYMENT_PROCESSOR_URL=http://payment-processor-fallback:8080
