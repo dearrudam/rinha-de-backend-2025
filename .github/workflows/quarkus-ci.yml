@@ -27,8 +27,16 @@ jobs:
           distribution: 'temurin'
           java-version: 21
 
-      - name: Build e Testes (mvn clean install)
-        run: mvn clean install -B
+      - name: Cache dependências Maven
+        uses: actions/cache@v4
+        with:
+          path: ~/.m2/repository
+          key: maven-${{ runner.os }}-${{ hashFiles('**/pom.xml') }}
+          restore-keys: |
+            maven-${{ runner.os }}-
+
+      - name: Build e Testes (mvn verify)
+        run: mvn verify -B
 
       - name: Upload de resultados de teste (JUnit)
         if: always()
@@ -36,6 +44,13 @@ jobs:
         with:
           name: junit-report
           path: code-with-quarkus/target/surefire-reports/
+
+      - name: Upload de relatório de cobertura Jacoco
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jacoco-report
+          path: code-with-quarkus/target/site/jacoco/
 
       - name: Feedback no GitHub
         if: failure()
