@@ -30,7 +30,7 @@ public record NewPaymentItemExecutor(
 
         RemotePaymentName remotePaymentName = DEFAULT;
         PaymentProcessorHealthState actualHealth = defaultHealth;
-        if (defaultHealth.failing() || (defaultHealth.minResponseTime() > fallbackHealth.minResponseTime())) {
+        if (defaultHealth.failing() && !fallbackHealth.failing()) {
             remotePaymentName = FALLBACK;
             actualHealth = fallbackHealth;
         }
@@ -44,6 +44,7 @@ public record NewPaymentItemExecutor(
         var newPayment = newPaymentRequest.toNewPayment();
         RestResponse<RemotePaymentResponse> response = null;
         try {
+            System.out.println(STR."Sending \{newPayment} to \{remotePaymentName} remote payment service");
             response = remotePaymentProcessorExecutor.processPayment(newPayment);
         } catch (RuntimeException e) {
             healthState.put(DEFAULT, new PaymentProcessorHealthState(true, actualHealth.minResponseTime()));
@@ -70,7 +71,7 @@ public record NewPaymentItemExecutor(
     private RemotePaymentProcessorExecutor remotePaymentExecutorOf(RemotePaymentName remotePaymentName, PaymentProcessorHealthState actualHealth) {
         URI uri = URI.create(ConfigProvider.getConfig()
                 .getValue("%s-payment-processor.url".formatted(remotePaymentName.value()), String.class));
-        long timeout = actualHealth.minResponseTime();
+        long timeout = 1500;
         return QuarkusRestClientBuilder.newBuilder()
                 .baseUri(uri)
                 .connectTimeout(timeout, TimeUnit.MILLISECONDS)
