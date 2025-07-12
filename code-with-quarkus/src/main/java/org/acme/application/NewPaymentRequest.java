@@ -1,4 +1,6 @@
-package org.acme.domain;
+package org.acme.application;
+
+import org.acme.domain.RemotePaymentRequest;
 
 import java.math.BigDecimal;
 import java.time.Instant;

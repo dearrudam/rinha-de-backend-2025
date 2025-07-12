@@ -2,11 +2,10 @@ package org.acme.application;
 
 import io.quarkus.rest.client.reactive.QuarkusRestClientBuilder;
 import jakarta.ws.rs.core.Response;
-import org.acme.PaymentProcessorHealthState;
-import org.acme.RemotePaymentResponse;
-import org.acme.domain.NewPaymentRequest;
 import org.acme.domain.Payments;
 import org.acme.domain.RemotePaymentName;
+import org.acme.domain.RemotePaymentResponse;
+import org.acme.health.PaymentProcessorHealthState;
 import org.eclipse.microprofile.config.ConfigProvider;
 import org.jboss.resteasy.reactive.RestResponse;
 
@@ -44,7 +43,7 @@ public record NewPaymentItemExecutor(
         switch (Response.Status.fromStatusCode(response.getStatus()).getFamily()) {
             case SUCCESSFUL -> {
                 System.out.println(STR."Response Message: \"\{response.getEntity().message()}\" - Payment processed successfully by \{remotePaymentName.value()} remote payment service.");
-                payments.register(newPayment.toPayment(remotePaymentName));
+                payments.register(remotePaymentName.toPayment(newPayment));
             }
             case SERVER_ERROR -> {
                 if (DEFAULT.equals(remotePaymentName))
