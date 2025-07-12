@@ -16,11 +16,4 @@ public record RemotePaymentRequest(String correlationId,
         requestedAt = Optional.ofNullable(requestedAt).orElse(Instant.now());
     }
 
-    public Payment toPayment(RemotePaymentName processedBy) {
-        return Payment.of(correlationId, processedBy, amount, requestedAt);
-    }
-
-    public NewPaymentRequest toNewPayment() {
-        return new NewPaymentRequest(correlationId(), amount());
-    }
 }

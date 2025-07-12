@@ -37,14 +37,7 @@ public class Payments {
 
         Map<RemotePaymentName, PaymentSummary> summary = new HashMap<>();
 
-        Predicate<Payment> fromWasOmitted = _ -> from == null;
-        Predicate<Payment> toWasOmitted = _ -> to == null;
-
-        Predicate<Payment> afterOrEqualFrom = payment -> from != null && from.isBefore(payment.createAt()) || from.equals(payment.createAt());
-        Predicate<Payment> beforeOrEqualTo = payment -> to != null && to.isAfter(payment.createAt()) || to.equals(payment.createAt());
-
-        Predicate<Payment> fromTo = fromWasOmitted.or(afterOrEqualFrom)
-                .and(toWasOmitted.or(beforeOrEqualTo));
+        Predicate<Payment> fromTo = getPaymentPredicate(from, to);
 
         Collection<Payment> payments = paymentHashCommands.hgetall(HASH)
                 .values();
@@ -59,6 +52,18 @@ public class Payments {
 
         return PaymentsSummary.of(summary);
 
+    }
+
+    private static Predicate<Payment> getPaymentPredicate(Instant from, Instant to) {
+        Predicate<Payment> fromWasOmitted = _ -> from == null;
+        Predicate<Payment> toWasOmitted = _ -> to == null;
+
+        Predicate<Payment> afterOrEqualFrom = payment -> from != null && from.isBefore(payment.createAt()) || from.equals(payment.createAt());
+        Predicate<Payment> beforeOrEqualTo = payment -> to != null && to.isAfter(payment.createAt()) || to.equals(payment.createAt());
+
+        Predicate<Payment> fromTo = fromWasOmitted.or(afterOrEqualFrom)
+                .and(toWasOmitted.or(beforeOrEqualTo));
+        return fromTo;
     }
 
     public void purge() {
