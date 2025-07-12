@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.health;
 
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.GET;
