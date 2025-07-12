@@ -8,20 +8,23 @@ import org.acme.domain.Payments;
 import org.acme.domain.RemotePaymentName;
 import org.acme.health.PaymentProcessorHealthState;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
+import java.util.concurrent.BlockingDeque;
+import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.LinkedBlockingDeque;
+import java.util.concurrent.Semaphore;
 import java.util.function.BiConsumer;
 import java.util.function.Consumer;
-import java.util.stream.IntStream;
-
-import static java.util.Optional.ofNullable;
 
 @ApplicationScoped
 public class PaymentProcessorServiceExecutor {
 
-    private final LinkedBlockingDeque<NewPaymentRequest> queue = new LinkedBlockingDeque<>();
+    public static final int CAPACITY = 5000;
+    private final BlockingDeque<NewPaymentRequest> queue = new LinkedBlockingDeque<>();
     private ExecutorService executorService;
     private final Map<RemotePaymentName, PaymentProcessorHealthState> healthState;
     private final Payments payments;
@@ -36,23 +39,38 @@ public class PaymentProcessorServiceExecutor {
 
     @PostConstruct
     public void postConstruct() {
+        final var newPaymentItemExecutor = new NewPaymentItemExecutor(healthState, payments);
         this.executorService = Executors.newVirtualThreadPerTaskExecutor();
-        IntStream.range(0, Runtime.getRuntime().availableProcessors())
-                .forEach(_ -> {
-                    this.executorService.submit(() -> {
-                        while (true) {
-                            NewPaymentRequest request = null;
-                            try {
-                                request = queue.take();
-                                ofNullable(request).ifPresent(new NewPaymentItemExecutor(healthState, payments)::accept);
-                            } catch (InterruptedException e) {
-                                // I don't care about it
-                            } catch (RuntimeException e) {
-                                queue.offer(request);
-                            }
+        final Semaphore semaphore = new Semaphore(Runtime.getRuntime().availableProcessors());
+        this.executorService.execute(() -> {
+            while (true) {
+                try {
+                    List<NewPaymentRequest> requests = new ArrayList<>(CAPACITY);
+                    queue.drainTo(requests, CAPACITY);
+                    if (requests.isEmpty()) {
+                        continue;
+                    }
+                    semaphore.acquire();
+                    Thread.startVirtualThread(() -> {
+                        List<NewPaymentRequest> rejectedRequests = new ArrayList<>(CAPACITY);
+                        try {
+                            requests.forEach(request -> {
+                                try {
+                                    newPaymentItemExecutor.accept(request);
+                                } catch (RuntimeException e) {
+                                    rejectedRequests.add(request);
+                                }
+                            });
+                        } finally {
+                            queue.addAll(rejectedRequests);
+                            semaphore.release();
                         }
                     });
-                });
+                } catch (InterruptedException e) {
+                    // I don't care about it
+                }
+            }
+        });
     }
 
     @PreDestroy
