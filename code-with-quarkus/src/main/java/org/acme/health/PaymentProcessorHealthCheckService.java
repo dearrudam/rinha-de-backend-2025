@@ -39,18 +39,26 @@ public class PaymentProcessorHealthCheckService {
 
     @Scheduled(every = "{default-payment-processor.healthcheck.interval}")
     public void checkHealthOfDefaultPaymentProcessorService() {
-        setState(RemotePaymentName.DEFAULT, this.defaultPaymentProcessorService.healthCheck());
+        updateStatus(RemotePaymentName.DEFAULT);
     }
 
     @Scheduled(every = "{fallback-payment-processor.healthcheck.interval}")
     public void checkHealthOfFallbackPaymentProcessorService() {
-        setState(RemotePaymentName.FALLBACK, this.fallbackPaymentProcessorService.healthCheck());
+        updateStatus(RemotePaymentName.FALLBACK);
     }
 
-    private void setState(RemotePaymentName name, RestResponse<PaymentProcessorHealthState> response) {
-        switch (response.getStatus()) {
-            case 200 -> setStatus(name, response.getEntity());
-            default -> setStatus(name, new PaymentProcessorHealthState(true, 0));
+    private void updateStatus(RemotePaymentName name) {
+        try {
+            RestResponse<PaymentProcessorHealthState> response = switch (name) {
+                case DEFAULT -> defaultPaymentProcessorService.healthCheck();
+                case FALLBACK -> fallbackPaymentProcessorService.healthCheck();
+            };
+            switch (response.getStatus()) {
+                case 200 -> setStatus(name, response.getEntity());
+                default -> setStatus(name, new PaymentProcessorHealthState(true, 0));
+            }
+        } catch (Exception ex) {
+            setStatus(name, PaymentProcessorHealthState.UNHEALTH);
         }
     }
 
