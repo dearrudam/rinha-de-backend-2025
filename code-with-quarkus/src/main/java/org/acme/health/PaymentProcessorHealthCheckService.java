@@ -4,10 +4,9 @@ import io.quarkus.scheduler.Scheduled;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.enterprise.inject.Produces;
 import jakarta.inject.Inject;
-import org.acme.DefaultPaymentProcessor;
-import org.acme.FallbackPaymentProcessor;
-import org.acme.PaymentProcessorHealthState;
 import org.acme.domain.RemotePaymentName;
+import org.acme.infrastructure.DefaultPaymentProcessor;
+import org.acme.infrastructure.FallbackPaymentProcessor;
 import org.eclipse.microprofile.rest.client.inject.RestClient;
 import org.jboss.resteasy.reactive.RestResponse;
 

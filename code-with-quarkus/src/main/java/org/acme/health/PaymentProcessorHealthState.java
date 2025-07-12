@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.health;
 
 public record PaymentProcessorHealthState(boolean failing, int minResponseTime) {
 
