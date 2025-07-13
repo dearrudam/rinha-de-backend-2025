@@ -1,8 +1,6 @@
 package org.acme.domain;
 
-import org.acme.health.PaymentProcessorHealthState;
-
-import java.util.Map;
+import static java.util.Optional.ofNullable;
 
 public enum RemotePaymentName {
 
@@ -13,8 +11,8 @@ public enum RemotePaymentName {
         return this.name().toLowerCase();
     }
 
-    public PaymentProcessorHealthState healthState(Map<RemotePaymentName, PaymentProcessorHealthState> healthStates) {
-        return healthStates.getOrDefault(this, PaymentProcessorHealthState.UNHEALTH);
+    public RemotePaymentProcessorHealth healthState(RemoteHealthService healthStates) {
+        return ofNullable(healthStates.getHealth(this)).orElse(RemotePaymentProcessorHealth.UNHEALTH);
     }
 
     public Payment toPayment(RemotePaymentRequest remotePaymentRequest) {
