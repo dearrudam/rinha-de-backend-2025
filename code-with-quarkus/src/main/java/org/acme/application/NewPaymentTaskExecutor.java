@@ -1,41 +1,50 @@
 package org.acme.application;
 
 import io.quarkus.rest.client.reactive.QuarkusRestClientBuilder;
+import jakarta.enterprise.context.ApplicationScoped;
+import jakarta.inject.Inject;
 import jakarta.ws.rs.core.Response;
 import org.acme.domain.Payments;
+import org.acme.domain.RemoteHealthService;
 import org.acme.domain.RemotePaymentName;
+import org.acme.domain.RemotePaymentProcessorHealth;
 import org.acme.domain.RemotePaymentResponse;
-import org.acme.health.PaymentProcessorHealthState;
 import org.eclipse.microprofile.config.ConfigProvider;
 import org.jboss.resteasy.reactive.RestResponse;
 
 import java.net.URI;
-import java.util.Map;
 import java.util.concurrent.TimeUnit;
-import java.util.function.Consumer;
 
 import static org.acme.domain.RemotePaymentName.DEFAULT;
 import static org.acme.domain.RemotePaymentName.FALLBACK;
 
-public record NewPaymentItemExecutor(
-        Map<RemotePaymentName, PaymentProcessorHealthState> healthState,
-        Payments payments)
-        implements Consumer<NewPaymentRequest> {
+@ApplicationScoped
+public class NewPaymentTaskExecutor {
 
-    @Override
-    public void accept(NewPaymentRequest newPaymentRequest) throws IllegalStateException {
+    private final RemoteHealthService healthState;
+    private final Payments payments;
 
-        PaymentProcessorHealthState defaultHealth = DEFAULT.healthState(healthState);
-        PaymentProcessorHealthState fallbackHealth = FALLBACK.healthState(healthState);
+    @Inject
+    public NewPaymentTaskExecutor(
+            RemoteHealthService healthState,
+            Payments payments) {
+        this.healthState = healthState;
+        this.payments = payments;
+    }
+
+    public void execute(NewPaymentRequest newPaymentRequest) throws IllegalStateException {
+
+        RemotePaymentProcessorHealth defaultHealth = DEFAULT.healthState(healthState);
+        RemotePaymentProcessorHealth fallbackHealth = FALLBACK.healthState(healthState);
 
         RemotePaymentName remotePaymentName = DEFAULT;
-        PaymentProcessorHealthState actualHealth = defaultHealth;
+        RemotePaymentProcessorHealth actualHealth = defaultHealth;
         if (defaultHealth.failing() && !fallbackHealth.failing()) {
             remotePaymentName = FALLBACK;
             actualHealth = fallbackHealth;
         }
 
-        if(actualHealth.failing()){
+        if (actualHealth.failing()) {
             throw new IllegalStateException(STR."All remote payment services are failing. Please try again later.");
         }
 
@@ -47,7 +56,7 @@ public record NewPaymentItemExecutor(
             System.out.println(STR."Sending \{newPayment} to \{remotePaymentName} remote payment service");
             response = remotePaymentProcessorExecutor.processPayment(newPayment);
         } catch (RuntimeException e) {
-            healthState.put(DEFAULT, new PaymentProcessorHealthState(true, actualHealth.minResponseTime()));
+            healthState.notifyServiceUnavailable(DEFAULT);
         }
         switch (Response.Status.fromStatusCode(response.getStatus()).getFamily()) {
             case SUCCESSFUL -> {
@@ -56,19 +65,21 @@ public record NewPaymentItemExecutor(
             case SERVER_ERROR -> {
                 System.out.println(STR."\{remotePaymentName} : \{response.getStatus()} - \{response.getEntity().message()}");
                 if (DEFAULT.equals(remotePaymentName)) {
-                    healthState.put(DEFAULT, new PaymentProcessorHealthState(true, actualHealth.minResponseTime()));
+                    healthState.notifyServiceUnavailable(DEFAULT);
                 }
                 throw new IllegalStateException(
                         STR."Unexpected value: \{response.getStatus()} from \{remotePaymentName.value()} remote payment service. It'll be re-submitted...");
             }
             default -> {
                 System.out.println(STR."\{remotePaymentName} : \{response.getStatus()} - \{response.getEntity().message()}");
-                healthState.put(DEFAULT, new PaymentProcessorHealthState(true, actualHealth.minResponseTime()));
+                if (DEFAULT.equals(remotePaymentName)) {
+                    healthState.notifyServiceUnavailable(DEFAULT);
+                }
             }
         }
     }
 
-    private RemotePaymentProcessorExecutor remotePaymentExecutorOf(RemotePaymentName remotePaymentName, PaymentProcessorHealthState actualHealth) {
+    private RemotePaymentProcessorExecutor remotePaymentExecutorOf(RemotePaymentName remotePaymentName, RemotePaymentProcessorHealth actualHealth) {
         URI uri = URI.create(ConfigProvider.getConfig()
                 .getValue("%s-payment-processor.url".formatted(remotePaymentName.value()), String.class));
         long timeout = 1500;
