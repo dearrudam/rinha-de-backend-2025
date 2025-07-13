@@ -1,62 +1,76 @@
 package org.acme.application;
 
+import io.quarkus.runtime.Startup;
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
-import org.acme.domain.Payments;
-import org.acme.domain.RemotePaymentName;
-import org.acme.health.PaymentProcessorHealthState;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
+import java.util.Optional;
 import java.util.concurrent.BlockingDeque;
-import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.Semaphore;
-import java.util.function.BiConsumer;
-import java.util.function.Consumer;
+import java.util.concurrent.atomic.AtomicInteger;
 
+import static java.util.Optional.ofNullable;
+
+@Startup
 @ApplicationScoped
 public class PaymentProcessorServiceExecutor {
 
     public static final int CAPACITY = 5000;
+
     private final BlockingDeque<NewPaymentRequest> queue = new LinkedBlockingDeque<>();
+    private final NewPaymentTaskExecutor paymentTaskExecutor;
     private ExecutorService executorService;
-    private final Map<RemotePaymentName, PaymentProcessorHealthState> healthState;
-    private final Payments payments;
+    private final AtomicInteger bachSize = new AtomicInteger(CAPACITY);
 
     @Inject
     public PaymentProcessorServiceExecutor(
-            Map<RemotePaymentName, PaymentProcessorHealthState> healthState,
-            Payments payments) {
-        this.healthState = healthState;
-        this.payments = payments;
+            NewPaymentTaskExecutor paymentTaskExecutor) {
+        this.paymentTaskExecutor = paymentTaskExecutor;
+    }
+
+    public void setBachSize(Integer bachSize) {
+        ofNullable(bachSize)
+                .filter(size -> size > 0)
+                .or(() -> Optional.of(CAPACITY))
+                .ifPresent(this.bachSize::set);
+    }
+
+    public Integer batchSize() {
+        return bachSize.get();
+    }
+
+    public Integer queueSize(){
+        return this.queue.size();
     }
 
     @PostConstruct
     public void postConstruct() {
-        final var newPaymentItemExecutor = new NewPaymentItemExecutor(healthState, payments);
+        System.out.println(STR."Initialing the \{getClass().getSimpleName()}");
         this.executorService = Executors.newVirtualThreadPerTaskExecutor();
         final Semaphore semaphore = new Semaphore(Runtime.getRuntime().availableProcessors());
         this.executorService.execute(() -> {
             while (true) {
                 try {
-                    List<NewPaymentRequest> requests = new ArrayList<>(CAPACITY);
-                    queue.drainTo(requests, CAPACITY);
+                    final var batchSize = batchSize();
+                    List<NewPaymentRequest> requests = new ArrayList<>(batchSize);
+                    queue.drainTo(requests, batchSize);
                     if (requests.isEmpty()) {
                         continue;
                     }
                     semaphore.acquire();
-                    Thread.startVirtualThread(() -> {
-                        List<NewPaymentRequest> rejectedRequests = new ArrayList<>(CAPACITY);
+                    executorService.execute(() -> {
+                        List<NewPaymentRequest> rejectedRequests = new ArrayList<>(batchSize);
                         try {
                             requests.forEach(request -> {
                                 try {
-                                    newPaymentItemExecutor.accept(request);
+                                    paymentTaskExecutor.execute(request);
                                 } catch (RuntimeException e) {
                                     rejectedRequests.add(request);
                                 }
@@ -80,21 +94,6 @@ public class PaymentProcessorServiceExecutor {
 
     public void fireAndForget(NewPaymentRequest newPaymentRequest) {
         queue.offer(newPaymentRequest);
-        //fireAndForget(newPaymentRequest, new NewPaymentItemExecutor(healthState, payments));
-    }
-
-    private void fireAndForget(NewPaymentRequest newPaymentRequest, Consumer<NewPaymentRequest> consumer) {
-        this.executorService.submit(newTask(newPaymentRequest, consumer, this::fireAndForget));
-    }
-
-    private Runnable newTask(NewPaymentRequest newPaymentRequest, Consumer<NewPaymentRequest> consumer, BiConsumer<NewPaymentRequest, Consumer<NewPaymentRequest>> onError) {
-        return () -> {
-            try {
-                consumer.accept(newPaymentRequest);
-            } catch (RuntimeException e) {
-                onError.accept(newPaymentRequest, consumer);
-            }
-        };
     }
 
 }
