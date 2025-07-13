@@ -1,4 +1,4 @@
-package org.acme.health;
+package org.acme.domain;
 
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.GET;
@@ -13,5 +13,5 @@ public interface RemotePaymentProcessorHealthCheck {
     @GET
     @Path("/service-health")
     @Consumes(MediaType.APPLICATION_JSON)
-    RestResponse<PaymentProcessorHealthState> healthCheck();
+    RestResponse<RemotePaymentProcessorHealth> healthCheck();
 }
