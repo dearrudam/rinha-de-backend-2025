@@ -1,6 +1,5 @@
-package org.acme.infrastructure;
+package org.acme.domain;
 
-import org.acme.health.RemotePaymentProcessorHealthCheck;
 import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
 
 @RegisterRestClient(configKey = "default-payment-processor")
