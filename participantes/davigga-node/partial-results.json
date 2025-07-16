@@ -1,0 +1,36 @@
+{
+  "participante": "davigga-node",
+  "descricao": "'total_liquido' é sua pontuação final. Equivale ao seu lucro. Fórmula: total_liquido + (total_liquido * p99.bonus) - (total_liquido * multa.porcentagem)",
+  "total_liquido": 64228.09574999999,
+  "total_bruto": 108793.29999999999,
+  "total_taxas": 9980.845,
+  "p99": {
+    "valor": "1378.3996413500001ms",
+    "bonus": 0,
+    "max_requests": "550",
+    "descricao": "Fórmula para o bônus: max((11 - p99.valor) * 0.02, 0)"
+  },
+  "multa": {
+    "porcentagem": 0.35,
+    "total": 34584.359249999994,
+    "composicao": {
+      "descricao": "Se 'total_bruto' != 'total_bruto_esperado' ou 'total_inconsistencias' > 0, há multa de 35%.",
+      "total_bruto_esperado": 281226.8,
+      "total_inconsistencias": 6.0254023992456496e-12
+    }
+  },
+  "pagamentos": {
+    "qtd_sucesso": 14132,
+    "qtd_falha": 0
+  },
+  "default": {
+    "total_bruto": 63381.49999999999,
+    "num_pagamentos": 3185,
+    "total_taxas": 3169.075
+  },
+  "fallback": {
+    "total_bruto": 45411.799999999996,
+    "num_pagamentos": 2282,
+    "total_taxas": 6811.7699999999995
+  }
+}

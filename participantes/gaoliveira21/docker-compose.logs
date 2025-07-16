@@ -1,0 +1,46 @@
+
+ nginx Pulling 
+ app01 Pulling 
+ app02 Pulling 
+ f105c369fc82 Pulling fs layer 
+ 5ad991a06733 Pulling fs layer 
+ nginx Pulled 
+ f105c369fc82 Pulling fs layer 
+ 5ad991a06733 Pulling fs layer 
+ f105c369fc82 Downloading [==================================================>]     109B/109B
+ f105c369fc82 Downloading [==================================================>]     109B/109B
+ f105c369fc82 Verifying Checksum 
+ f105c369fc82 Download complete 
+ f105c369fc82 Extracting [==================================================>]     109B/109B
+ f105c369fc82 Verifying Checksum 
+ f105c369fc82 Download complete 
+ f105c369fc82 Extracting [==================================================>]     109B/109B
+ f105c369fc82 Extracting [==================================================>]     109B/109B
+ f105c369fc82 Extracting [==================================================>]     109B/109B
+ 5ad991a06733 Downloading [>                                                  ]  77.52kB/7.724MB
+ 5ad991a06733 Downloading [>                                                  ]  77.52kB/7.724MB
+ f105c369fc82 Pull complete 
+ f105c369fc82 Pull complete 
+ 5ad991a06733 Verifying Checksum 
+ 5ad991a06733 Download complete 
+ 5ad991a06733 Verifying Checksum 
+ 5ad991a06733 Download complete 
+ 5ad991a06733 Extracting [>                                                  ]   98.3kB/7.724MB
+ 5ad991a06733 Extracting [>                                                  ]   98.3kB/7.724MB
+ 5ad991a06733 Extracting [==================================================>]  7.724MB/7.724MB
+ 5ad991a06733 Extracting [==================================================>]  7.724MB/7.724MB
+ 5ad991a06733 Pull complete 
+ 5ad991a06733 Pull complete 
+ app02 Pulled 
+ app01 Pulled 
+ Network gaoliveira21_backend  Creating
+ Network gaoliveira21_backend  Created
+ Container gaoliveira21-db-1  Creating
+ Container gaoliveira21-db-1  Created
+ Container rinha2025-app-02  Creating
+ Container rinha2025-app-01  Creating
+ Container rinha2025-app-01  Created
+ Container rinha2025-app-02  Created
+ Container rinha-nginx  Creating
+ Container rinha-nginx  Error response from daemon: Conflict. The container name "/rinha-nginx" is already in use by container "14ff427f0dfb258842ebf0b2baf94d0b36079d74dd5987fa89e257038dbba5c1". You have to remove (or rename) that container to be able to reuse that name.
+Error response from daemon: Conflict. The container name "/rinha-nginx" is already in use by container "14ff427f0dfb258842ebf0b2baf94d0b36079d74dd5987fa89e257038dbba5c1". You have to remove (or rename) that container to be able to reuse that name.
