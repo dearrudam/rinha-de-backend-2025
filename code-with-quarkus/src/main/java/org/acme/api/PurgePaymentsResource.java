@@ -15,7 +15,6 @@ public class PurgePaymentsResource {
         this.payments = payments;
     }
 
-
     @POST
     public void purge() {
         payments.purge();
