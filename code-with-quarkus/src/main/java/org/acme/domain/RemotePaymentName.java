@@ -1,5 +1,7 @@
 package org.acme.domain;
 
+import java.util.function.Function;
+
 import static java.util.Optional.ofNullable;
 
 public enum RemotePaymentName {
@@ -11,8 +13,8 @@ public enum RemotePaymentName {
         return this.name().toLowerCase();
     }
 
-    public RemotePaymentProcessorHealth healthState(RemoteHealthService healthStates) {
-        return ofNullable(healthStates.getHealth(this)).orElse(RemotePaymentProcessorHealth.UNHEALTH);
+    public RemotePaymentProcessorHealth healthState(Function<RemotePaymentName, RemotePaymentProcessorHealth> healthStates) {
+        return ofNullable(healthStates.apply(this)).orElse(RemotePaymentProcessorHealth.UNHEALTH);
     }
 
     public Payment toPayment(RemotePaymentRequest remotePaymentRequest) {
