@@ -8,8 +8,8 @@ import jakarta.ws.rs.Path;
 import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
-import org.acme.application.PaymentProcessorServiceExecutor;
-import org.acme.application.NewPaymentRequest;
+import org.acme.domain.NewPaymentRequest;
+import org.acme.infrastructure.PaymentProcessorServiceExecutor;
 
 import java.math.BigDecimal;
 
