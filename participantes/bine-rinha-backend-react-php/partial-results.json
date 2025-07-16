@@ -1,0 +1,36 @@
+{
+  "participante": "bine-rinha-backend-react-php",
+  "descricao": "'total_liquido' é sua pontuação final. Equivale ao seu lucro. Fórmula: total_liquido + (total_liquido * p99.bonus) - (total_liquido * multa.porcentagem)",
+  "total_liquido": 198479.16724996833,
+  "total_bruto": 330678.29999994836,
+  "total_taxas": 25325.734999997105,
+  "p99": {
+    "valor": "31.698061279999965ms",
+    "bonus": 0,
+    "max_requests": "550",
+    "descricao": "Fórmula para o bônus: max((11 - p99.valor) * 0.02, 0)"
+  },
+  "multa": {
+    "porcentagem": 0.35,
+    "total": 106873.39774998295,
+    "composicao": {
+      "descricao": "Se 'total_bruto' != 'total_bruto_esperado' ou 'total_inconsistencias' > 0, há multa de 35%.",
+      "total_bruto_esperado": 332927,
+      "total_inconsistencias": 2.7367832444724627e-9
+    }
+  },
+  "pagamentos": {
+    "qtd_sucesso": 16730,
+    "qtd_falha": 0
+  },
+  "default": {
+    "total_bruto": 242760.09999995155,
+    "num_pagamentos": 12199,
+    "total_taxas": 12138.004999997578
+  },
+  "fallback": {
+    "total_bruto": 87918.19999999684,
+    "num_pagamentos": 4418,
+    "total_taxas": 13187.729999999525
+  }
+}

@@ -1,0 +1,1001 @@
+
+ api02 Pulling 
+ api01 Pulling 
+ b08e2ff4391e Already exists 
+ cd3702c454d1 Pulling fs layer 
+ 4e1b2ef5e634 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 628720e58591 Pulling fs layer 
+ 628720e58591 Waiting 
+ b08e2ff4391e Already exists 
+ cd3702c454d1 Pulling fs layer 
+ 4e1b2ef5e634 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 628720e58591 Pulling fs layer 
+ 628720e58591 Waiting 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ cd3702c454d1 Downloading [>                                                  ]  106.8kB/10.65MB
+ cd3702c454d1 Downloading [>                                                  ]  106.8kB/10.65MB
+ 4e1b2ef5e634 Downloading [=========================================>         ]  1.009kB/1.206kB
+ 4e1b2ef5e634 Downloading [==================================================>]  1.206kB/1.206kB
+ 4e1b2ef5e634 Downloading [=========================================>         ]  1.009kB/1.206kB
+ 4e1b2ef5e634 Downloading [==================================================>]  1.206kB/1.206kB
+ 4e1b2ef5e634 Verifying Checksum 
+ 4e1b2ef5e634 Download complete 
+ 4e1b2ef5e634 Verifying Checksum 
+ 4e1b2ef5e634 Download complete 
+ cd3702c454d1 Downloading [==========>                                        ]  2.343MB/10.65MB
+ cd3702c454d1 Downloading [==========>                                        ]  2.343MB/10.65MB
+ cd3702c454d1 Downloading [=====================================>             ]  8.028MB/10.65MB
+ cd3702c454d1 Downloading [=====================================>             ]  8.028MB/10.65MB
+ cd3702c454d1 Verifying Checksum 
+ cd3702c454d1 Download complete 
+ cd3702c454d1 Download complete 
+ cd3702c454d1 Extracting [>                                                  ]  131.1kB/10.65MB
+ cd3702c454d1 Extracting [>                                                  ]  131.1kB/10.65MB
+ 628720e58591 Downloading [>                                                  ]  528.4kB/55.04MB
+ 628720e58591 Downloading [>                                                  ]  528.4kB/55.04MB
+ cd3702c454d1 Extracting [======>                                            ]  1.311MB/10.65MB
+ cd3702c454d1 Extracting [======>                                            ]  1.311MB/10.65MB
+ 628720e58591 Downloading [=====>                                             ]  5.861MB/55.04MB
+ 628720e58591 Downloading [=====>                                             ]  5.861MB/55.04MB
+ cd3702c454d1 Extracting [===============>                                   ]  3.277MB/10.65MB
+ cd3702c454d1 Extracting [===============>                                   ]  3.277MB/10.65MB
+ 628720e58591 Downloading [==========>                                        ]  11.69MB/55.04MB
+ 628720e58591 Downloading [==========>                                        ]  11.69MB/55.04MB
+ cd3702c454d1 Extracting [=======================================>           ]   8.52MB/10.65MB
+ cd3702c454d1 Extracting [=======================================>           ]   8.52MB/10.65MB
+ 628720e58591 Downloading [==============>                                    ]  15.95MB/55.04MB
+ 628720e58591 Downloading [==============>                                    ]  15.95MB/55.04MB
+ 628720e58591 Downloading [======================>                            ]  24.43MB/55.04MB
+ 628720e58591 Downloading [======================>                            ]  24.43MB/55.04MB
+ cd3702c454d1 Extracting [==============================================>    ]   9.83MB/10.65MB
+ cd3702c454d1 Extracting [==============================================>    ]   9.83MB/10.65MB
+ 628720e58591 Downloading [===============================>                   ]  35.06MB/55.04MB
+ 628720e58591 Downloading [===============================>                   ]  35.06MB/55.04MB
+ cd3702c454d1 Extracting [===============================================>   ]  10.09MB/10.65MB
+ cd3702c454d1 Extracting [===============================================>   ]  10.09MB/10.65MB
+ 628720e58591 Downloading [=======================================>           ]     43MB/55.04MB
+ 628720e58591 Downloading [=======================================>           ]     43MB/55.04MB
+ cd3702c454d1 Extracting [==================================================>]  10.65MB/10.65MB
+ cd3702c454d1 Extracting [==================================================>]  10.65MB/10.65MB
+ cd3702c454d1 Pull complete 
+ cd3702c454d1 Pull complete 
+ 4e1b2ef5e634 Extracting [==================================================>]  1.206kB/1.206kB
+ 4e1b2ef5e634 Extracting [==================================================>]  1.206kB/1.206kB
+ 4e1b2ef5e634 Extracting [==================================================>]  1.206kB/1.206kB
+ 4e1b2ef5e634 Extracting [==================================================>]  1.206kB/1.206kB
+ 628720e58591 Downloading [===========================================>       ]  47.81MB/55.04MB
+ 628720e58591 Downloading [===========================================>       ]  47.81MB/55.04MB
+ 4e1b2ef5e634 Pull complete 
+ 4e1b2ef5e634 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 628720e58591 Verifying Checksum 
+ 628720e58591 Download complete 
+ 628720e58591 Verifying Checksum 
+ 628720e58591 Download complete 
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ 628720e58591 Extracting [>                                                  ]  557.1kB/55.04MB
+ 628720e58591 Extracting [>                                                  ]  557.1kB/55.04MB
+ 628720e58591 Extracting [=======>                                           ]  7.799MB/55.04MB
+ 628720e58591 Extracting [=======>                                           ]  7.799MB/55.04MB
+ 628720e58591 Extracting [=============>                                     ]  14.48MB/55.04MB
+ 628720e58591 Extracting [=============>                                     ]  14.48MB/55.04MB
+ 628720e58591 Extracting [===================>                               ]  21.73MB/55.04MB
+ 628720e58591 Extracting [===================>                               ]  21.73MB/55.04MB
+ 628720e58591 Extracting [==========================>                        ]  29.52MB/55.04MB
+ 628720e58591 Extracting [==========================>                        ]  29.52MB/55.04MB
+ 628720e58591 Extracting [==============================>                    ]  33.98MB/55.04MB
+ 628720e58591 Extracting [==============================>                    ]  33.98MB/55.04MB
+ 628720e58591 Extracting [=====================================>             ]  41.22MB/55.04MB
+ 628720e58591 Extracting [=====================================>             ]  41.22MB/55.04MB
+ 628720e58591 Extracting [===========================================>       ]  47.35MB/55.04MB
+ 628720e58591 Extracting [===========================================>       ]  47.35MB/55.04MB
+ 628720e58591 Extracting [==============================================>    ]  51.25MB/55.04MB
+ 628720e58591 Extracting [==============================================>    ]  51.25MB/55.04MB
+ 628720e58591 Extracting [==================================================>]  55.04MB/55.04MB
+ 628720e58591 Extracting [==================================================>]  55.04MB/55.04MB
+ 628720e58591 Pull complete 
+ 628720e58591 Pull complete 
+ api01 Pulled 
+ api02 Pulled 
+ Network henriquevalcanaia-swift-vapor_rinha-network  Creating
+ Network henriquevalcanaia-swift-vapor_rinha-network  Created
+ Container henriquevalcanaia-swift-vapor-api02-1  Creating
+ Container henriquevalcanaia-swift-vapor-api01-1  Creating
+ Container henriquevalcanaia-swift-vapor-api02-1  Created
+ Container henriquevalcanaia-swift-vapor-api01-1  Created
+ Container henriquevalcanaia-swift-vapor-nginx-1  Creating
+ Container henriquevalcanaia-swift-vapor-nginx-1  Created
+Attaching to api01-1, api02-1, nginx-1
+api01-1  | 🚀 Worker 0 started
+api01-1  | 🚀 Worker 2 started
+api01-1  | 🚀 Worker 3 started
+api01-1  | 🚀 Worker 4 started
+api01-1  | 🚀 Worker 5 started
+api01-1  | 🚀 Worker 6 started
+api01-1  | 🚀 Worker 7 started
+api01-1  | 🚀 Worker 0 started
+api01-1  | 🚀 Worker 1 started
+api01-1  | 🚀 Worker 2 started
+api01-1  | 🚀 Worker 3 started
+api01-1  | 🚀 Worker 4 started
+api01-1  | 🚀 Worker 5 started
+api01-1  | 🚀 Worker 6 started
+api01-1  | 🚀 Worker 7 started
+api01-1  | 🚀 Worker 1 started
+api01-1  | [ NOTICE ] Server started on http://0.0.0.0:8080
+api02-1  | 🚀 Worker 0 started
+api02-1  | 🚀 Worker 2 started
+api02-1  | 🚀 Worker 3 started
+api02-1  | 🚀 Worker 4 started
+api02-1  | 🚀 Worker 5 started
+api02-1  | 🚀 Worker 6 started
+api02-1  | 🚀 Worker 7 started
+api02-1  | 🚀 Worker 0 started
+api02-1  | 🚀 Worker 1 started
+api02-1  | 🚀 Worker 2 started
+api02-1  | 🚀 Worker 3 started
+api02-1  | 🚀 Worker 4 started
+api02-1  | 🚀 Worker 5 started
+api02-1  | 🚀 Worker 6 started
+api02-1  | 🚀 Worker 7 started
+api02-1  | 🚀 Worker 1 started
+api02-1  | [ NOTICE ] Server started on http://0.0.0.0:8080
+nginx-1  | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx-1  | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx-1  | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx-1  | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+nginx-1  | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx-1  | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx-1  | /docker-entrypoint.sh: Configuration complete; ready for start up
+api01-1  | 💰 Payment enqueued: 620D4C95-4BB8-4360-B2D8-8CFF8F5EECC9, total in queue: 1
+api01-1  | 📦 Worker 2 processing 1 payments
+api01-1  | 🚀 Sending payment 620D4C95-4BB8-4360-B2D8-8CFF8F5EECC9 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=620D4C95-4BB8-4360-B2D8-8CFF8F5EECC9, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 620D4C95-4BB8-4360-B2D8-8CFF8F5EECC9 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 118F2423-603A-4AE6-AE3B-979495EEF9AB, total in queue: 1
+api01-1  | 📦 Worker 1 processing 1 payments
+api01-1  | 🚀 Sending payment 118F2423-603A-4AE6-AE3B-979495EEF9AB to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=118F2423-603A-4AE6-AE3B-979495EEF9AB, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 118F2423-603A-4AE6-AE3B-979495EEF9AB response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: FBCB8966-ECBE-453D-B6F9-7FEE7E239B91, total in queue: 1
+api01-1  | 📦 Worker 6 processing 1 payments
+api01-1  | 🚀 Sending payment FBCB8966-ECBE-453D-B6F9-7FEE7E239B91 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=FBCB8966-ECBE-453D-B6F9-7FEE7E239B91, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment FBCB8966-ECBE-453D-B6F9-7FEE7E239B91 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: C3B7E1F9-4A18-4D8C-9344-6C264BED3E61, total in queue: 1
+api01-1  | 📦 Worker 1 processing 1 payments
+api01-1  | 🚀 Sending payment C3B7E1F9-4A18-4D8C-9344-6C264BED3E61 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=C3B7E1F9-4A18-4D8C-9344-6C264BED3E61, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment C3B7E1F9-4A18-4D8C-9344-6C264BED3E61 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: DCCB4804-E8BB-4D15-9676-5983CD6AA734, total in queue: 1
+api01-1  | 📦 Worker 5 processing 1 payments
+api01-1  | 🚀 Sending payment DCCB4804-E8BB-4D15-9676-5983CD6AA734 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=DCCB4804-E8BB-4D15-9676-5983CD6AA734, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment DCCB4804-E8BB-4D15-9676-5983CD6AA734 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 3B072BC6-2882-446F-B3BC-D7C5AF33632A, total in queue: 1
+api01-1  | 📦 Worker 6 processing 1 payments
+api01-1  | 🚀 Sending payment 3B072BC6-2882-446F-B3BC-D7C5AF33632A to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=3B072BC6-2882-446F-B3BC-D7C5AF33632A, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 3B072BC6-2882-446F-B3BC-D7C5AF33632A response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: E8DE55D3-A459-4B4B-A426-066E4A3BE5BE, total in queue: 1
+api01-1  | 📦 Worker 2 processing 1 payments
+api01-1  | 🚀 Sending payment E8DE55D3-A459-4B4B-A426-066E4A3BE5BE to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=E8DE55D3-A459-4B4B-A426-066E4A3BE5BE, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment E8DE55D3-A459-4B4B-A426-066E4A3BE5BE response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 543CC6D9-80AB-48E0-9BBB-128AC4F8BBBD, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment 543CC6D9-80AB-48E0-9BBB-128AC4F8BBBD to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=543CC6D9-80AB-48E0-9BBB-128AC4F8BBBD, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 543CC6D9-80AB-48E0-9BBB-128AC4F8BBBD response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 6BB06061-5EFD-46D8-8A36-E31A063822AB, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment 6BB06061-5EFD-46D8-8A36-E31A063822AB to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=6BB06061-5EFD-46D8-8A36-E31A063822AB, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 6BB06061-5EFD-46D8-8A36-E31A063822AB response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: F55EB096-524D-46F4-8789-0FBF64E907DF, total in queue: 1
+api01-1  | 📦 Worker 6 processing 1 payments
+api01-1  | 🚀 Sending payment F55EB096-524D-46F4-8789-0FBF64E907DF to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=F55EB096-524D-46F4-8789-0FBF64E907DF, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment F55EB096-524D-46F4-8789-0FBF64E907DF response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 6A175C90-1D02-4115-BBE8-4EDE4D11B678, total in queue: 1
+api01-1  | 📦 Worker 4 processing 1 payments
+api01-1  | 🚀 Sending payment 6A175C90-1D02-4115-BBE8-4EDE4D11B678 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=6A175C90-1D02-4115-BBE8-4EDE4D11B678, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 6A175C90-1D02-4115-BBE8-4EDE4D11B678 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 9DBE3053-9DC6-47B5-AA98-67DD4D2050E7, total in queue: 1
+api01-1  | 📦 Worker 7 processing 1 payments
+api01-1  | 🚀 Sending payment 9DBE3053-9DC6-47B5-AA98-67DD4D2050E7 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=9DBE3053-9DC6-47B5-AA98-67DD4D2050E7, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 9DBE3053-9DC6-47B5-AA98-67DD4D2050E7 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: C20C8958-E8CF-4639-BD0D-62DCDA645A89, total in queue: 1
+api01-1  | 📦 Worker 2 processing 1 payments
+api01-1  | 🚀 Sending payment C20C8958-E8CF-4639-BD0D-62DCDA645A89 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=C20C8958-E8CF-4639-BD0D-62DCDA645A89, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment C20C8958-E8CF-4639-BD0D-62DCDA645A89 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: CD598054-6947-4B61-B317-FEA8D8C59DDF, total in queue: 1
+api01-1  | 📦 Worker 1 processing 1 payments
+api01-1  | 🚀 Sending payment CD598054-6947-4B61-B317-FEA8D8C59DDF to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=CD598054-6947-4B61-B317-FEA8D8C59DDF, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment CD598054-6947-4B61-B317-FEA8D8C59DDF response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 155BECD4-709B-465B-93C5-FC7820806143, total in queue: 1
+api01-1  | 📦 Worker 4 processing 1 payments
+api01-1  | 🚀 Sending payment 155BECD4-709B-465B-93C5-FC7820806143 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=155BECD4-709B-465B-93C5-FC7820806143, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 155BECD4-709B-465B-93C5-FC7820806143 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 4B9ACA93-CE59-4912-8FAC-035964C7DA51, total in queue: 1
+api01-1  | 📦 Worker 5 processing 1 payments
+api01-1  | 🚀 Sending payment 4B9ACA93-CE59-4912-8FAC-035964C7DA51 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=4B9ACA93-CE59-4912-8FAC-035964C7DA51, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 4B9ACA93-CE59-4912-8FAC-035964C7DA51 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 178FFA0A-84E1-48BF-9FEC-C5C1E1034888, total in queue: 1
+api01-1  | 📦 Worker 0 processing 1 payments
+api01-1  | 🚀 Sending payment 178FFA0A-84E1-48BF-9FEC-C5C1E1034888 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=178FFA0A-84E1-48BF-9FEC-C5C1E1034888, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 178FFA0A-84E1-48BF-9FEC-C5C1E1034888 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: AAA8FEE5-0A80-463A-BEE2-D661AFFE9DCF, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment AAA8FEE5-0A80-463A-BEE2-D661AFFE9DCF to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=AAA8FEE5-0A80-463A-BEE2-D661AFFE9DCF, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment AAA8FEE5-0A80-463A-BEE2-D661AFFE9DCF response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: F7F742E4-A160-4DC5-875B-EE67387B4B26, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment F7F742E4-A160-4DC5-875B-EE67387B4B26 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=F7F742E4-A160-4DC5-875B-EE67387B4B26, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment F7F742E4-A160-4DC5-875B-EE67387B4B26 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 25957BCD-7715-4223-8418-3F38A4436701, total in queue: 1
+api01-1  | 📦 Worker 6 processing 1 payments
+api01-1  | 🚀 Sending payment 25957BCD-7715-4223-8418-3F38A4436701 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=25957BCD-7715-4223-8418-3F38A4436701, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 25957BCD-7715-4223-8418-3F38A4436701 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 21D8E822-D455-46EC-A8F1-C154E45D62C0, total in queue: 1
+api01-1  | 📦 Worker 7 processing 1 payments
+api01-1  | 🚀 Sending payment 21D8E822-D455-46EC-A8F1-C154E45D62C0 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=21D8E822-D455-46EC-A8F1-C154E45D62C0, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 21D8E822-D455-46EC-A8F1-C154E45D62C0 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: AC59C47F-AB0A-4102-B349-ACE3DD980594, total in queue: 1
+api01-1  | 📦 Worker 0 processing 1 payments
+api01-1  | 🚀 Sending payment AC59C47F-AB0A-4102-B349-ACE3DD980594 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=AC59C47F-AB0A-4102-B349-ACE3DD980594, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment AC59C47F-AB0A-4102-B349-ACE3DD980594 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 41EE9987-B9F4-4859-A001-732EBBAE2661, total in queue: 1
+api01-1  | 📦 Worker 1 processing 1 payments
+api01-1  | 🚀 Sending payment 41EE9987-B9F4-4859-A001-732EBBAE2661 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=41EE9987-B9F4-4859-A001-732EBBAE2661, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 41EE9987-B9F4-4859-A001-732EBBAE2661 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 9829C4E7-3ED1-481B-8B7F-E529B47EFBBF, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment 9829C4E7-3ED1-481B-8B7F-E529B47EFBBF to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=9829C4E7-3ED1-481B-8B7F-E529B47EFBBF, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 9829C4E7-3ED1-481B-8B7F-E529B47EFBBF response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 656B240F-EABB-44F4-8B0D-F6E8DE52A48C, total in queue: 1
+api01-1  | 📦 Worker 6 processing 1 payments
+api01-1  | 🚀 Sending payment 656B240F-EABB-44F4-8B0D-F6E8DE52A48C to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=656B240F-EABB-44F4-8B0D-F6E8DE52A48C, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 656B240F-EABB-44F4-8B0D-F6E8DE52A48C response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 950A67EF-68DF-4069-882B-36AE55331E38, total in queue: 1
+api01-1  | 📦 Worker 4 processing 1 payments
+api01-1  | 🚀 Sending payment 950A67EF-68DF-4069-882B-36AE55331E38 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=950A67EF-68DF-4069-882B-36AE55331E38, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 950A67EF-68DF-4069-882B-36AE55331E38 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 426524C9-53A5-401E-A341-2472A59A73A7, total in queue: 1
+api01-1  | 📦 Worker 4 processing 1 payments
+api01-1  | 🚀 Sending payment 426524C9-53A5-401E-A341-2472A59A73A7 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=426524C9-53A5-401E-A341-2472A59A73A7, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 426524C9-53A5-401E-A341-2472A59A73A7 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 272C08A6-6FF2-4F26-A1D4-818F2EF189A2, total in queue: 1
+api01-1  | 📦 Worker 2 processing 1 payments
+api01-1  | 🚀 Sending payment 272C08A6-6FF2-4F26-A1D4-818F2EF189A2 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=272C08A6-6FF2-4F26-A1D4-818F2EF189A2, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 272C08A6-6FF2-4F26-A1D4-818F2EF189A2 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: FDBC0D3E-529F-430F-A651-2D4A91BE21CA, total in queue: 1
+api01-1  | 📦 Worker 5 processing 1 payments
+api01-1  | 🚀 Sending payment FDBC0D3E-529F-430F-A651-2D4A91BE21CA to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=FDBC0D3E-529F-430F-A651-2D4A91BE21CA, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment FDBC0D3E-529F-430F-A651-2D4A91BE21CA response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 3F4564A6-63F4-444E-833A-6E4DEF7E3BC7, total in queue: 1
+api01-1  | 📦 Worker 5 processing 1 payments
+api01-1  | 🚀 Sending payment 3F4564A6-63F4-444E-833A-6E4DEF7E3BC7 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=3F4564A6-63F4-444E-833A-6E4DEF7E3BC7, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 3F4564A6-63F4-444E-833A-6E4DEF7E3BC7 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: F402F9D8-CBC2-42F4-83EC-8DE5F2A36FFA, total in queue: 1
+api01-1  | 📦 Worker 6 processing 1 payments
+api01-1  | 🚀 Sending payment F402F9D8-CBC2-42F4-83EC-8DE5F2A36FFA to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=F402F9D8-CBC2-42F4-83EC-8DE5F2A36FFA, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment F402F9D8-CBC2-42F4-83EC-8DE5F2A36FFA response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: E7409F9F-6DDB-404A-9B43-CFA263CC2D96, total in queue: 1
+api01-1  | 📦 Worker 5 processing 1 payments
+api01-1  | 🚀 Sending payment E7409F9F-6DDB-404A-9B43-CFA263CC2D96 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=E7409F9F-6DDB-404A-9B43-CFA263CC2D96, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment E7409F9F-6DDB-404A-9B43-CFA263CC2D96 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 4307DB59-7F83-4FBA-A42B-64343B26C0D3, total in queue: 1
+api01-1  | 📦 Worker 2 processing 1 payments
+api01-1  | 🚀 Sending payment 4307DB59-7F83-4FBA-A42B-64343B26C0D3 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=4307DB59-7F83-4FBA-A42B-64343B26C0D3, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 4307DB59-7F83-4FBA-A42B-64343B26C0D3 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: DBE3FFA8-CB5C-4311-8E66-B0E6679553FB, total in queue: 1
+api01-1  | 📦 Worker 1 processing 1 payments
+api01-1  | 🚀 Sending payment DBE3FFA8-CB5C-4311-8E66-B0E6679553FB to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=DBE3FFA8-CB5C-4311-8E66-B0E6679553FB, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment DBE3FFA8-CB5C-4311-8E66-B0E6679553FB response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 0FF93643-D463-4F6D-9B4C-488AD9CF25FA, total in queue: 1
+api01-1  | 📦 Worker 0 processing 1 payments
+api01-1  | 🚀 Sending payment 0FF93643-D463-4F6D-9B4C-488AD9CF25FA to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=0FF93643-D463-4F6D-9B4C-488AD9CF25FA, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 0FF93643-D463-4F6D-9B4C-488AD9CF25FA response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 4242C77F-D1E5-414A-853B-7AE0E8333C38, total in queue: 1
+api01-1  | 📦 Worker 4 processing 1 payments
+api01-1  | 🚀 Sending payment 4242C77F-D1E5-414A-853B-7AE0E8333C38 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=4242C77F-D1E5-414A-853B-7AE0E8333C38, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 4242C77F-D1E5-414A-853B-7AE0E8333C38 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: AFA4BFFD-6F70-4174-B56B-533CE68EC11D, total in queue: 1
+api01-1  | 📦 Worker 7 processing 1 payments
+api01-1  | 🚀 Sending payment AFA4BFFD-6F70-4174-B56B-533CE68EC11D to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=AFA4BFFD-6F70-4174-B56B-533CE68EC11D, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment AFA4BFFD-6F70-4174-B56B-533CE68EC11D response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: B4ECFD2F-B306-4B8F-8AFC-5AC7A0585EDB, total in queue: 1
+api01-1  | 📦 Worker 0 processing 1 payments
+api01-1  | 🚀 Sending payment B4ECFD2F-B306-4B8F-8AFC-5AC7A0585EDB to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=B4ECFD2F-B306-4B8F-8AFC-5AC7A0585EDB, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment B4ECFD2F-B306-4B8F-8AFC-5AC7A0585EDB response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 334B16EC-E215-46BB-BDE2-028BC30C8FDC, total in queue: 1
+api01-1  | 📦 Worker 2 processing 1 payments
+api01-1  | 🚀 Sending payment 334B16EC-E215-46BB-BDE2-028BC30C8FDC to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=334B16EC-E215-46BB-BDE2-028BC30C8FDC, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 334B16EC-E215-46BB-BDE2-028BC30C8FDC response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 8B43CF00-157E-4293-B214-B8766907FF13, total in queue: 1
+api01-1  | 📦 Worker 7 processing 1 payments
+api01-1  | 🚀 Sending payment 8B43CF00-157E-4293-B214-B8766907FF13 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=8B43CF00-157E-4293-B214-B8766907FF13, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 8B43CF00-157E-4293-B214-B8766907FF13 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 041B5412-5F40-47BD-AECD-0F65A7846873, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment 041B5412-5F40-47BD-AECD-0F65A7846873 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=041B5412-5F40-47BD-AECD-0F65A7846873, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 041B5412-5F40-47BD-AECD-0F65A7846873 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 1F7989C4-64E7-4E63-8457-FB50124C0412, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment 1F7989C4-64E7-4E63-8457-FB50124C0412 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=1F7989C4-64E7-4E63-8457-FB50124C0412, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 1F7989C4-64E7-4E63-8457-FB50124C0412 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 7F81E1D1-71EF-451E-BF16-DB6F67788206, total in queue: 1
+api01-1  | 📦 Worker 7 processing 1 payments
+api01-1  | 🚀 Sending payment 7F81E1D1-71EF-451E-BF16-DB6F67788206 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=7F81E1D1-71EF-451E-BF16-DB6F67788206, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 7F81E1D1-71EF-451E-BF16-DB6F67788206 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 6EE996D0-7F56-49AC-8B1A-BF7B60C74010, total in queue: 1
+api01-1  | 📦 Worker 0 processing 1 payments
+api01-1  | 🚀 Sending payment 6EE996D0-7F56-49AC-8B1A-BF7B60C74010 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=6EE996D0-7F56-49AC-8B1A-BF7B60C74010, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 6EE996D0-7F56-49AC-8B1A-BF7B60C74010 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: A0D5D512-65D0-4496-82AB-CC9563F8F3B8, total in queue: 1
+api01-1  | 📦 Worker 5 processing 1 payments
+api01-1  | 🚀 Sending payment A0D5D512-65D0-4496-82AB-CC9563F8F3B8 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=A0D5D512-65D0-4496-82AB-CC9563F8F3B8, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment A0D5D512-65D0-4496-82AB-CC9563F8F3B8 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: A26179F4-7214-4C74-8974-91FCF2B35ED5, total in queue: 1
+api01-1  | 📦 Worker 5 processing 1 payments
+api01-1  | 🚀 Sending payment A26179F4-7214-4C74-8974-91FCF2B35ED5 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=A26179F4-7214-4C74-8974-91FCF2B35ED5, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment A26179F4-7214-4C74-8974-91FCF2B35ED5 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 727EE334-D907-497A-BFF0-9E6831903197, total in queue: 1
+api01-1  | 📦 Worker 0 processing 1 payments
+api02-1  | 💰 Payment enqueued: 7447B418-166A-446A-8646-4F4AA32FC158, total in queue: 1
+api02-1  | 📦 Worker 7 processing 1 payments
+api02-1  | 💰 Payment enqueued: C04461A3-DF55-4091-8A78-8BF45C40FC37, total in queue: 1
+api02-1  | 💰 Payment enqueued: 637530D1-2437-4906-B235-D7DACE4E308C, total in queue: 2
+api02-1  | 💰 Payment enqueued: 54465C12-2141-44F1-80C5-033D1E01529D, total in queue: 3
+api02-1  | 💰 Payment enqueued: C49D37D2-5F06-490C-A9F5-67D21E0794DB, total in queue: 4
+api02-1  | 💰 Payment enqueued: 16A19B6C-D15E-42A0-BB2D-CF0B7B404B87, total in queue: 5
+api02-1  | 💰 Payment enqueued: 0ED904B1-EAEB-494A-A074-FB3E7CAD462F, total in queue: 6
+api02-1  | 💰 Payment enqueued: D083DE0F-3664-4400-ABB7-A2D42E33ECE4, total in queue: 7
+api02-1  | 💰 Payment enqueued: 67CEDE31-EC6D-4925-BB1E-278DDAF5036F, total in queue: 8
+api02-1  | 💰 Payment enqueued: 703884A7-8384-4948-9567-0871566B5743, total in queue: 9
+api02-1  | 💰 Payment enqueued: 9E02C5CD-1C75-4BF1-8E3B-FB9C60E57885, total in queue: 10
+api02-1  | 💰 Payment enqueued: 922EC72A-4518-4A84-9AD6-365AEF97A058, total in queue: 11
+api02-1  | 💰 Payment enqueued: AF99DAE5-EE18-43D6-B998-EFBBDC48C937, total in queue: 12
+api02-1  | 💰 Payment enqueued: 0231B2D5-9C13-4F3F-AEDB-72233F20741C, total in queue: 13
+api02-1  | 💰 Payment enqueued: 89FEB6D0-04FD-4277-BA4B-BD57459A3CFC, total in queue: 14
+api02-1  | 💰 Payment enqueued: 88D4E106-5F71-40CC-A7F5-6514F968C87C, total in queue: 15
+api02-1  | 💰 Payment enqueued: F586610D-902F-4B14-B797-D2ECEA4BC0D6, total in queue: 16
+api02-1  | 💰 Payment enqueued: 1CFDF329-CA79-43C2-B3BF-14C8DD61439D, total in queue: 17
+api02-1  | 💰 Payment enqueued: 1F05B2BC-ED1C-43D6-87A4-EBE842BD6585, total in queue: 18
+api02-1  | 💰 Payment enqueued: B1937A58-3B0D-4794-81FD-D2CEF776ADE9, total in queue: 19
+api02-1  | 💰 Payment enqueued: E113C3BB-7460-4DDD-A174-B2D54025B31D, total in queue: 20
+api02-1  | 💰 Payment enqueued: 3D7BC85F-34D4-43A4-B398-0975876E44FF, total in queue: 21
+api02-1  | 💰 Payment enqueued: F0DEDC1E-4437-462F-B8DD-3D5EA37193AC, total in queue: 22
+api02-1  | 💰 Payment enqueued: E2991F9D-EA7C-4A29-BDBD-B7D7F304E481, total in queue: 23
+api02-1  | 💰 Payment enqueued: 65E49D1A-FE71-4D19-BD85-A82BF82D9C28, total in queue: 24
+api02-1  | 💰 Payment enqueued: E415E555-52C8-4F3A-99AC-66441DA33DBC, total in queue: 25
+api02-1  | 💰 Payment enqueued: 03F0C379-5B26-4A28-91C5-1C02C2C9CF57, total in queue: 26
+api02-1  | 💰 Payment enqueued: 86C864D3-1C59-4701-BC83-15B3A4AC2741, total in queue: 27
+api02-1  | 💰 Payment enqueued: 089AFEC8-A709-463E-B39C-711973AD88F3, total in queue: 28
+api02-1  | 💰 Payment enqueued: F5A39CD5-51B4-4022-964B-F2AB557796A8, total in queue: 29
+api02-1  | 💰 Payment enqueued: 10D31734-7700-495C-B313-0E9F4F545170, total in queue: 30
+api02-1  | 💰 Payment enqueued: 1C8303EA-9955-448B-9BDA-7416423EA66E, total in queue: 31
+api02-1  | 💰 Payment enqueued: 1D5B4CDD-3CEA-4C38-8EC9-AFB72D92DD3E, total in queue: 32
+api02-1  | 💰 Payment enqueued: FD8B7AE8-9D4D-4104-8A86-3565585E7937, total in queue: 33
+api02-1  | 💰 Payment enqueued: 962A39AE-D89B-4504-8D1E-9ADDE5E27316, total in queue: 34
+api02-1  | 💰 Payment enqueued: 1CFEF91F-B2A2-4C49-A9A5-30F3C62BBE0C, total in queue: 35
+api02-1  | 💰 Payment enqueued: 6A5F33A4-9375-4DBE-84BA-810BA10B6E7E, total in queue: 36
+api02-1  | 💰 Payment enqueued: A0B2A3F1-BE58-4E0B-BE30-9AC2AF872C76, total in queue: 37
+api02-1  | 💰 Payment enqueued: 295E2392-7277-436E-B0AF-CB600A0A7297, total in queue: 38
+api02-1  | 💰 Payment enqueued: E6C1CBD0-9929-4975-9CA8-BE95BB5A586E, total in queue: 39
+api02-1  | 💰 Payment enqueued: A46B9614-332D-4996-9625-A889D0A19866, total in queue: 40
+api02-1  | 💰 Payment enqueued: EED3BD9A-9653-40B2-9526-F5D651F7E7CC, total in queue: 41
+api02-1  | 💰 Payment enqueued: 04EA314D-E1AB-4828-B82B-0DD9864F0387, total in queue: 42
+api02-1  | 💰 Payment enqueued: EBF86E0B-DCCF-46B9-B503-F322EA8AC552, total in queue: 43
+api02-1  | 💰 Payment enqueued: 96D8A856-6139-43C4-BD55-042514799D8C, total in queue: 44
+api02-1  | 💰 Payment enqueued: A90D7FE2-8C86-436E-8896-EB6B4CAFF94D, total in queue: 45
+api02-1  | 💰 Payment enqueued: A05B8296-D1DD-44D9-A8FF-B4F2D2D0775D, total in queue: 46
+api02-1  | 💰 Payment enqueued: EFAFCD4D-BABA-4084-B178-E92C05761E0F, total in queue: 47
+api02-1  | 💰 Payment enqueued: 5E95D853-CF62-4B68-99CF-55CDBE5D67EC, total in queue: 48
+api02-1  | 💰 Payment enqueued: E11577F3-266C-4088-AEAC-9162D0462BB8, total in queue: 49
+api01-1  | 🚀 Sending payment 727EE334-D907-497A-BFF0-9E6831903197 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=727EE334-D907-497A-BFF0-9E6831903197, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 727EE334-D907-497A-BFF0-9E6831903197 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: D47A9C7E-DC3C-40C0-A6F8-513A2CDCD137, total in queue: 1
+api01-1  | 📦 Worker 4 processing 1 payments
+api01-1  | 🚀 Sending payment D47A9C7E-DC3C-40C0-A6F8-513A2CDCD137 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=D47A9C7E-DC3C-40C0-A6F8-513A2CDCD137, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment D47A9C7E-DC3C-40C0-A6F8-513A2CDCD137 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: F7FA3D02-B53C-4C1C-B6B2-9C42AE6486F4, total in queue: 1
+api01-1  | 📦 Worker 2 processing 1 payments
+api01-1  | 🚀 Sending payment F7FA3D02-B53C-4C1C-B6B2-9C42AE6486F4 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=F7FA3D02-B53C-4C1C-B6B2-9C42AE6486F4, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment F7FA3D02-B53C-4C1C-B6B2-9C42AE6486F4 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 990EF7A0-A8F5-49B4-95B5-D752A9B321DF, total in queue: 1
+api01-1  | 📦 Worker 6 processing 1 payments
+api01-1  | 🚀 Sending payment 990EF7A0-A8F5-49B4-95B5-D752A9B321DF to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=990EF7A0-A8F5-49B4-95B5-D752A9B321DF, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 990EF7A0-A8F5-49B4-95B5-D752A9B321DF response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: E79307D7-57C0-4BC9-9A6A-7F5A09DAD48A, total in queue: 1
+api01-1  | 📦 Worker 5 processing 1 payments
+api01-1  | 🚀 Sending payment E79307D7-57C0-4BC9-9A6A-7F5A09DAD48A to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=E79307D7-57C0-4BC9-9A6A-7F5A09DAD48A, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment E79307D7-57C0-4BC9-9A6A-7F5A09DAD48A response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: FEFD359E-D37F-4028-8E8D-75F961A08806, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment FEFD359E-D37F-4028-8E8D-75F961A08806 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=FEFD359E-D37F-4028-8E8D-75F961A08806, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment FEFD359E-D37F-4028-8E8D-75F961A08806 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: D4918D5D-7B63-450F-A423-6B071BFE77EC, total in queue: 1
+api01-1  | 📦 Worker 2 processing 1 payments
+api01-1  | 🚀 Sending payment D4918D5D-7B63-450F-A423-6B071BFE77EC to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=D4918D5D-7B63-450F-A423-6B071BFE77EC, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment D4918D5D-7B63-450F-A423-6B071BFE77EC response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 0E72E054-1753-48C5-818C-A536F50265F8, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment 0E72E054-1753-48C5-818C-A536F50265F8 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=0E72E054-1753-48C5-818C-A536F50265F8, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 0E72E054-1753-48C5-818C-A536F50265F8 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 95F77B90-52F8-4627-9831-BB47CA66E397, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment 95F77B90-52F8-4627-9831-BB47CA66E397 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=95F77B90-52F8-4627-9831-BB47CA66E397, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 95F77B90-52F8-4627-9831-BB47CA66E397 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 4973E294-35FA-4422-8A62-8304AF1F3490, total in queue: 1
+api01-1  | 📦 Worker 6 processing 1 payments
+api01-1  | 🚀 Sending payment 4973E294-35FA-4422-8A62-8304AF1F3490 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=4973E294-35FA-4422-8A62-8304AF1F3490, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 4973E294-35FA-4422-8A62-8304AF1F3490 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: B3174448-E2CC-4FE3-974D-6BF18AD9C643, total in queue: 1
+api01-1  | 📦 Worker 6 processing 1 payments
+api01-1  | 🚀 Sending payment B3174448-E2CC-4FE3-974D-6BF18AD9C643 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=B3174448-E2CC-4FE3-974D-6BF18AD9C643, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment B3174448-E2CC-4FE3-974D-6BF18AD9C643 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: E249D337-41A9-40D4-BD7B-11492B8CF64A, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment E249D337-41A9-40D4-BD7B-11492B8CF64A to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=E249D337-41A9-40D4-BD7B-11492B8CF64A, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment E249D337-41A9-40D4-BD7B-11492B8CF64A response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 2B91D809-C5B4-40E4-9FE8-8D0DF46F8873, total in queue: 1
+api01-1  | 📦 Worker 5 processing 1 payments
+api01-1  | 🚀 Sending payment 2B91D809-C5B4-40E4-9FE8-8D0DF46F8873 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=2B91D809-C5B4-40E4-9FE8-8D0DF46F8873, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 2B91D809-C5B4-40E4-9FE8-8D0DF46F8873 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: DE9A0634-8F4B-4202-8183-7FCCAAB523D4, total in queue: 1
+api01-1  | 📦 Worker 7 processing 1 payments
+api01-1  | 🚀 Sending payment DE9A0634-8F4B-4202-8183-7FCCAAB523D4 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=DE9A0634-8F4B-4202-8183-7FCCAAB523D4, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment DE9A0634-8F4B-4202-8183-7FCCAAB523D4 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 9A7C6494-3C47-4C8A-8C12-3F22898DF2B9, total in queue: 1
+api01-1  | 📦 Worker 3 processing 1 payments
+api01-1  | 🚀 Sending payment 9A7C6494-3C47-4C8A-8C12-3F22898DF2B9 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=9A7C6494-3C47-4C8A-8C12-3F22898DF2B9, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 9A7C6494-3C47-4C8A-8C12-3F22898DF2B9 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 3566B3A1-3A9D-4D4A-8B01-9D35ADFF551C, total in queue: 1
+api01-1  | 📦 Worker 7 processing 1 payments
+api01-1  | 🚀 Sending payment 3566B3A1-3A9D-4D4A-8B01-9D35ADFF551C to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=3566B3A1-3A9D-4D4A-8B01-9D35ADFF551C, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 3566B3A1-3A9D-4D4A-8B01-9D35ADFF551C response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 2FD175AA-2ED6-4B7C-919F-A4BF29E9C6FF, total in queue: 1
+api01-1  | 📦 Worker 0 processing 1 payments
+api01-1  | 🚀 Sending payment 2FD175AA-2ED6-4B7C-919F-A4BF29E9C6FF to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=2FD175AA-2ED6-4B7C-919F-A4BF29E9C6FF, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 2FD175AA-2ED6-4B7C-919F-A4BF29E9C6FF response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 42736ED1-12F9-46B1-938C-1055984E7F1B, total in queue: 1
+api01-1  | 📦 Worker 4 processing 1 payments
+api01-1  | 🚀 Sending payment 42736ED1-12F9-46B1-938C-1055984E7F1B to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=42736ED1-12F9-46B1-938C-1055984E7F1B, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 42736ED1-12F9-46B1-938C-1055984E7F1B response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 3AA93F38-CCFE-4800-99FF-671A9F92021F, total in queue: 1
+api01-1  | 📦 Worker 6 processing 1 payments
+api01-1  | 🚀 Sending payment 3AA93F38-CCFE-4800-99FF-671A9F92021F to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=3AA93F38-CCFE-4800-99FF-671A9F92021F, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 3AA93F38-CCFE-4800-99FF-671A9F92021F response: 200 OK -> SUCCESS
+api02-1  | 💰 Payment enqueued: A441CBD8-0E7D-4526-BEA9-E56A248784B5, total in queue: 50
+api02-1  | 💰 Payment enqueued: 6408F053-440B-459B-9053-477E35659E36, total in queue: 51
+api02-1  | 💰 Payment enqueued: B2102ED2-399B-47F9-8A61-AB6F66ADE7DC, total in queue: 52
+api02-1  | 💰 Payment enqueued: DE67BBCC-F9B3-4863-8B9D-2BAFA1445011, total in queue: 53
+api02-1  | 💰 Payment enqueued: 010C93D8-EDF9-48E8-A3C0-C00E8E48B0A6, total in queue: 54
+api02-1  | 💰 Payment enqueued: A8D603AF-3212-40C0-876E-56B73581F089, total in queue: 55
+api02-1  | 💰 Payment enqueued: 273A064D-71C3-4ECD-AFD4-2DE6DAEF28D8, total in queue: 56
+api02-1  | 💰 Payment enqueued: 2711E65A-3DFB-41A7-A2C7-16DB42FE26ED, total in queue: 57
+api02-1  | 💰 Payment enqueued: 07F1A73E-9F0C-4286-A09E-7F1D0288333F, total in queue: 58
+api02-1  | 💰 Payment enqueued: 1888B76A-0F28-4020-B39E-C4DDEFB7245F, total in queue: 59
+api02-1  | 💰 Payment enqueued: 010079C3-8749-45FC-ADFA-5F50A3C2EC7F, total in queue: 60
+api02-1  | 💰 Payment enqueued: 099744DD-0F75-4FAF-9929-0D7099614BED, total in queue: 61
+api02-1  | 💰 Payment enqueued: C253D58F-03A1-4125-8E02-270B73A0B7B7, total in queue: 62
+api02-1  | 💰 Payment enqueued: 1F2A3676-AF5E-4250-B84B-5464EFEE61F7, total in queue: 63
+api02-1  | 💰 Payment enqueued: 9ED87C99-82F2-4C86-89C0-5B1264C244F4, total in queue: 64
+api02-1  | 💰 Payment enqueued: EC59ABE9-DCFA-4644-BBC6-1E9D67D0E1FB, total in queue: 65
+api02-1  | 💰 Payment enqueued: F3EB02A6-5ADC-453C-8C79-AA86C27B97C9, total in queue: 66
+api02-1  | 💰 Payment enqueued: C9855437-66D5-4278-B391-A3370F3325A0, total in queue: 67
+api02-1  | 💰 Payment enqueued: 7D902750-643F-4952-AD89-01A113A65DA4, total in queue: 68
+api02-1  | 💰 Payment enqueued: 99E25196-D180-4292-9558-C0C3CD3E1363, total in queue: 69
+api02-1  | 💰 Payment enqueued: 3EA5D95F-4F40-45DA-9B41-2B9ECE23891A, total in queue: 70
+api02-1  | 💰 Payment enqueued: 61F2B4B0-8AA9-4BA8-B377-4C999429EC7A, total in queue: 71
+api02-1  | 🚀 Sending payment 7447B418-166A-446A-8646-4F4AA32FC158 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=7447B418-166A-446A-8646-4F4AA32FC158, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📡 Payment 7447B418-166A-446A-8646-4F4AA32FC158 response: 200 OK -> SUCCESS
+api02-1  | 📦 Worker 0 processing 71 payments
+api02-1  | 🚀 Sending payment C04461A3-DF55-4091-8A78-8BF45C40FC37 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=C04461A3-DF55-4091-8A78-8BF45C40FC37, amount=19.9
+api02-1  | 🚀 Sending payment 637530D1-2437-4906-B235-D7DACE4E308C to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=637530D1-2437-4906-B235-D7DACE4E308C, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 54465C12-2141-44F1-80C5-033D1E01529D to fallback at http://payment-processor-fallback:8080
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📦 Request data: correlationId=54465C12-2141-44F1-80C5-033D1E01529D, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 16A19B6C-D15E-42A0-BB2D-CF0B7B404B87 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=16A19B6C-D15E-42A0-BB2D-CF0B7B404B87, amount=19.9
+api02-1  | 🚀 Sending payment C49D37D2-5F06-490C-A9F5-67D21E0794DB to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=C49D37D2-5F06-490C-A9F5-67D21E0794DB, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 0ED904B1-EAEB-494A-A074-FB3E7CAD462F to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=0ED904B1-EAEB-494A-A074-FB3E7CAD462F, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment D083DE0F-3664-4400-ABB7-A2D42E33ECE4 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=D083DE0F-3664-4400-ABB7-A2D42E33ECE4, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 67CEDE31-EC6D-4925-BB1E-278DDAF5036F to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=67CEDE31-EC6D-4925-BB1E-278DDAF5036F, amount=19.9
+api02-1  | 🚀 Sending payment 703884A7-8384-4948-9567-0871566B5743 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=703884A7-8384-4948-9567-0871566B5743, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 9E02C5CD-1C75-4BF1-8E3B-FB9C60E57885 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=9E02C5CD-1C75-4BF1-8E3B-FB9C60E57885, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 922EC72A-4518-4A84-9AD6-365AEF97A058 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=922EC72A-4518-4A84-9AD6-365AEF97A058, amount=19.9
+api02-1  | 🚀 Sending payment AF99DAE5-EE18-43D6-B998-EFBBDC48C937 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=AF99DAE5-EE18-43D6-B998-EFBBDC48C937, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 0231B2D5-9C13-4F3F-AEDB-72233F20741C to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=0231B2D5-9C13-4F3F-AEDB-72233F20741C, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 89FEB6D0-04FD-4277-BA4B-BD57459A3CFC to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=89FEB6D0-04FD-4277-BA4B-BD57459A3CFC, amount=19.9
+api02-1  | 🚀 Sending payment 88D4E106-5F71-40CC-A7F5-6514F968C87C to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=88D4E106-5F71-40CC-A7F5-6514F968C87C, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment F586610D-902F-4B14-B797-D2ECEA4BC0D6 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=F586610D-902F-4B14-B797-D2ECEA4BC0D6, amount=19.9
+api02-1  | 🚀 Sending payment 1CFDF329-CA79-43C2-B3BF-14C8DD61439D to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=1CFDF329-CA79-43C2-B3BF-14C8DD61439D, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 1F05B2BC-ED1C-43D6-87A4-EBE842BD6585 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=1F05B2BC-ED1C-43D6-87A4-EBE842BD6585, amount=19.9
+api02-1  | 🚀 Sending payment B1937A58-3B0D-4794-81FD-D2CEF776ADE9 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=B1937A58-3B0D-4794-81FD-D2CEF776ADE9, amount=19.9
+api02-1  | 🚀 Sending payment E113C3BB-7460-4DDD-A174-B2D54025B31D to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=E113C3BB-7460-4DDD-A174-B2D54025B31D, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 3D7BC85F-34D4-43A4-B398-0975876E44FF to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=3D7BC85F-34D4-43A4-B398-0975876E44FF, amount=19.9
+api02-1  | 🚀 Sending payment F0DEDC1E-4437-462F-B8DD-3D5EA37193AC to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=F0DEDC1E-4437-462F-B8DD-3D5EA37193AC, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment E2991F9D-EA7C-4A29-BDBD-B7D7F304E481 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=E2991F9D-EA7C-4A29-BDBD-B7D7F304E481, amount=19.9
+api02-1  | 🚀 Sending payment 65E49D1A-FE71-4D19-BD85-A82BF82D9C28 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=65E49D1A-FE71-4D19-BD85-A82BF82D9C28, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment E415E555-52C8-4F3A-99AC-66441DA33DBC to fallback at http://payment-processor-fallback:8080
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📦 Request data: correlationId=E415E555-52C8-4F3A-99AC-66441DA33DBC, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 03F0C379-5B26-4A28-91C5-1C02C2C9CF57 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=03F0C379-5B26-4A28-91C5-1C02C2C9CF57, amount=19.9
+api02-1  | 🚀 Sending payment 86C864D3-1C59-4701-BC83-15B3A4AC2741 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📦 Request data: correlationId=86C864D3-1C59-4701-BC83-15B3A4AC2741, amount=19.9
+api02-1  | 🚀 Sending payment 089AFEC8-A709-463E-B39C-711973AD88F3 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=089AFEC8-A709-463E-B39C-711973AD88F3, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment F5A39CD5-51B4-4022-964B-F2AB557796A8 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=F5A39CD5-51B4-4022-964B-F2AB557796A8, amount=19.9
+api02-1  | 🚀 Sending payment 10D31734-7700-495C-B313-0E9F4F545170 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=10D31734-7700-495C-B313-0E9F4F545170, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 1C8303EA-9955-448B-9BDA-7416423EA66E to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=1C8303EA-9955-448B-9BDA-7416423EA66E, amount=19.9
+api02-1  | 🚀 Sending payment 1D5B4CDD-3CEA-4C38-8EC9-AFB72D92DD3E to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=1D5B4CDD-3CEA-4C38-8EC9-AFB72D92DD3E, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment FD8B7AE8-9D4D-4104-8A86-3565585E7937 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=FD8B7AE8-9D4D-4104-8A86-3565585E7937, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 962A39AE-D89B-4504-8D1E-9ADDE5E27316 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=962A39AE-D89B-4504-8D1E-9ADDE5E27316, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 1CFEF91F-B2A2-4C49-A9A5-30F3C62BBE0C to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=1CFEF91F-B2A2-4C49-A9A5-30F3C62BBE0C, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📡 Payment 637530D1-2437-4906-B235-D7DACE4E308C response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 16A19B6C-D15E-42A0-BB2D-CF0B7B404B87 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 54465C12-2141-44F1-80C5-033D1E01529D response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment C49D37D2-5F06-490C-A9F5-67D21E0794DB response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 67CEDE31-EC6D-4925-BB1E-278DDAF5036F response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 9E02C5CD-1C75-4BF1-8E3B-FB9C60E57885 response: 200 OK -> SUCCESS
+api02-1  | 🚀 Sending payment 295E2392-7277-436E-B0AF-CB600A0A7297 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=295E2392-7277-436E-B0AF-CB600A0A7297, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment E6C1CBD0-9929-4975-9CA8-BE95BB5A586E to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=E6C1CBD0-9929-4975-9CA8-BE95BB5A586E, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment A46B9614-332D-4996-9625-A889D0A19866 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=A46B9614-332D-4996-9625-A889D0A19866, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment EED3BD9A-9653-40B2-9526-F5D651F7E7CC to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=EED3BD9A-9653-40B2-9526-F5D651F7E7CC, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 04EA314D-E1AB-4828-B82B-0DD9864F0387 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=04EA314D-E1AB-4828-B82B-0DD9864F0387, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 💰 Payment enqueued: 7CFD74E8-144B-4563-B81C-D11C9E2F72E8, total in queue: 22
+api02-1  | 🚀 Sending payment 96D8A856-6139-43C4-BD55-042514799D8C to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=96D8A856-6139-43C4-BD55-042514799D8C, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment A90D7FE2-8C86-436E-8896-EB6B4CAFF94D to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=A90D7FE2-8C86-436E-8896-EB6B4CAFF94D, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment A05B8296-D1DD-44D9-A8FF-B4F2D2D0775D to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=A05B8296-D1DD-44D9-A8FF-B4F2D2D0775D, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment 5E95D853-CF62-4B68-99CF-55CDBE5D67EC to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=5E95D853-CF62-4B68-99CF-55CDBE5D67EC, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment EFAFCD4D-BABA-4084-B178-E92C05761E0F to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=EFAFCD4D-BABA-4084-B178-E92C05761E0F, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment EBF86E0B-DCCF-46B9-B503-F322EA8AC552 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=EBF86E0B-DCCF-46B9-B503-F322EA8AC552, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment E11577F3-266C-4088-AEAC-9162D0462BB8 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=E11577F3-266C-4088-AEAC-9162D0462BB8, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 🚀 Sending payment A441CBD8-0E7D-4526-BEA9-E56A248784B5 to fallback at http://payment-processor-fallback:8080
+api02-1  | 📦 Request data: correlationId=A441CBD8-0E7D-4526-BEA9-E56A248784B5, amount=19.9
+api02-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api02-1  | 📡 Payment 0ED904B1-EAEB-494A-A074-FB3E7CAD462F response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 922EC72A-4518-4A84-9AD6-365AEF97A058 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 703884A7-8384-4948-9567-0871566B5743 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 88D4E106-5F71-40CC-A7F5-6514F968C87C response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 1CFDF329-CA79-43C2-B3BF-14C8DD61439D response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment F586610D-902F-4B14-B797-D2ECEA4BC0D6 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 1F05B2BC-ED1C-43D6-87A4-EBE842BD6585 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 3D7BC85F-34D4-43A4-B398-0975876E44FF response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment F0DEDC1E-4437-462F-B8DD-3D5EA37193AC response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment B1937A58-3B0D-4794-81FD-D2CEF776ADE9 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment E113C3BB-7460-4DDD-A174-B2D54025B31D response: 200 OK -> SUCCESS
+api02-1  | 💰 Payment enqueued: EF8B12B1-8A17-4C7C-BFCE-B02313C61F4C, total in queue: 23
+api02-1  | 📡 Payment 65E49D1A-FE71-4D19-BD85-A82BF82D9C28 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment E415E555-52C8-4F3A-99AC-66441DA33DBC response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment E2991F9D-EA7C-4A29-BDBD-B7D7F304E481 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 089AFEC8-A709-463E-B39C-711973AD88F3 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 86C864D3-1C59-4701-BC83-15B3A4AC2741 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 03F0C379-5B26-4A28-91C5-1C02C2C9CF57 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment F5A39CD5-51B4-4022-964B-F2AB557796A8 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 1C8303EA-9955-448B-9BDA-7416423EA66E response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment AF99DAE5-EE18-43D6-B998-EFBBDC48C937 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment C04461A3-DF55-4091-8A78-8BF45C40FC37 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 37B3DA1C-13CF-4271-AD44-B013A476F222, total in queue: 1
+api01-1  | 📦 Worker 2 processing 1 payments
+api01-1  | 🚀 Sending payment 37B3DA1C-13CF-4271-AD44-B013A476F222 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=37B3DA1C-13CF-4271-AD44-B013A476F222, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 37B3DA1C-13CF-4271-AD44-B013A476F222 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 1F2CA18C-D745-4EA9-B2C9-96756EF1CD70, total in queue: 1
+api01-1  | 📦 Worker 5 processing 1 payments
+api01-1  | 🚀 Sending payment 1F2CA18C-D745-4EA9-B2C9-96756EF1CD70 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=1F2CA18C-D745-4EA9-B2C9-96756EF1CD70, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 1F2CA18C-D745-4EA9-B2C9-96756EF1CD70 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 120C150A-9AD7-4241-8F65-08CC981D060A, total in queue: 1
+api01-1  | 📦 Worker 0 processing 1 payments
+api01-1  | 🚀 Sending payment 120C150A-9AD7-4241-8F65-08CC981D060A to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=120C150A-9AD7-4241-8F65-08CC981D060A, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 120C150A-9AD7-4241-8F65-08CC981D060A response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 25036717-09FE-4368-B242-8B7528C1699C, total in queue: 1
+api01-1  | 📦 Worker 2 processing 1 payments
+api01-1  | 🚀 Sending payment 25036717-09FE-4368-B242-8B7528C1699C to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=25036717-09FE-4368-B242-8B7528C1699C, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 25036717-09FE-4368-B242-8B7528C1699C response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: BFCC52D8-62AD-4C7B-A9C0-D03601CB9388, total in queue: 1
+api01-1  | 📦 Worker 4 processing 1 payments
+api01-1  | 🚀 Sending payment BFCC52D8-62AD-4C7B-A9C0-D03601CB9388 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=BFCC52D8-62AD-4C7B-A9C0-D03601CB9388, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment BFCC52D8-62AD-4C7B-A9C0-D03601CB9388 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: 70C36167-2ECB-4AA1-8E57-61CC288F60D9, total in queue: 1
+api01-1  | 📦 Worker 1 processing 1 payments
+api01-1  | 🚀 Sending payment 70C36167-2ECB-4AA1-8E57-61CC288F60D9 to default at http://payment-processor-default:8080
+api01-1  | 📦 Request data: correlationId=70C36167-2ECB-4AA1-8E57-61CC288F60D9, amount=19.9
+api01-1  | 📋 Content-Type: ["application/json; charset=utf-8"]
+api01-1  | 📡 Payment 70C36167-2ECB-4AA1-8E57-61CC288F60D9 response: 200 OK -> SUCCESS
+api01-1  | 💰 Payment enqueued: A335E2FA-7FDA-444A-B323-F095EED91511, total in queue: 1
+api01-1  | 📦 Worker 7 processing 1 payments
+api01-1  | 💰 Payment enqueued: 4CD76F8B-BCDB-4693-8BEF-2F255D36DBA8, total in queue: 1
+api01-1  | 💰 Payment enqueued: 08959716-8411-4559-98ED-E9D64AD71D52, total in queue: 2
+api01-1  | 💰 Payment enqueued: C1AB670B-A379-47C2-B62E-75AA36A858CC, total in queue: 3
+api01-1  | 💰 Payment enqueued: 72C2D53A-4F0C-4C53-B09E-7BAC9585D191, total in queue: 4
+api01-1  | 💰 Payment enqueued: EE9A4B61-7141-4064-9DAC-AB561EE8CEAC, total in queue: 5
+api01-1  | 💰 Payment enqueued: AB7A0EB2-34F9-4FBE-9625-B6F1AB3C14CB, total in queue: 6
+api01-1  | 💰 Payment enqueued: 64862F48-2257-4A92-9530-7D5B0166A424, total in queue: 7
+api01-1  | 💰 Payment enqueued: 1D4E4391-110F-4F48-A2C1-7C34C981EDB2, total in queue: 8
+api01-1  | 💰 Payment enqueued: 35F06223-90DE-4916-BDD1-670620D49410, total in queue: 9
+api01-1  | 💰 Payment enqueued: 360A9532-E851-48B1-853B-D28625C301AF, total in queue: 10
+api01-1  | 💰 Payment enqueued: 2EA0ED1F-98F4-4B39-BE22-A4FA9F3A9A1E, total in queue: 11
+api01-1  | 💰 Payment enqueued: E2282494-8F54-4551-9C9D-0A0E5A9EC88E, total in queue: 12
+api01-1  | 💰 Payment enqueued: 7F213885-C2CF-4DB2-8A87-6D2956466B77, total in queue: 13
+api01-1  | 💰 Payment enqueued: 8AE9D7D0-80EB-41D8-B8F0-25A265A748B5, total in queue: 14
+api01-1  | 💰 Payment enqueued: B3A7A82C-6B40-4C21-B70F-CAD8EC1EFA4E, total in queue: 15
+api01-1  | 💰 Payment enqueued: B56060F6-C822-490B-A5E6-EEBE19CC6E8E, total in queue: 16
+api02-1  | 📡 Payment 10D31734-7700-495C-B313-0E9F4F545170 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 1D5B4CDD-3CEA-4C38-8EC9-AFB72D92DD3E response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment FD8B7AE8-9D4D-4104-8A86-3565585E7937 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 962A39AE-D89B-4504-8D1E-9ADDE5E27316 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment EED3BD9A-9653-40B2-9526-F5D651F7E7CC response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 1CFEF91F-B2A2-4C49-A9A5-30F3C62BBE0C response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 295E2392-7277-436E-B0AF-CB600A0A7297 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment E6C1CBD0-9929-4975-9CA8-BE95BB5A586E response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment A46B9614-332D-4996-9625-A889D0A19866 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment D083DE0F-3664-4400-ABB7-A2D42E33ECE4 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment A90D7FE2-8C86-436E-8896-EB6B4CAFF94D response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment EFAFCD4D-BABA-4084-B178-E92C05761E0F response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 5E95D853-CF62-4B68-99CF-55CDBE5D67EC response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 04EA314D-E1AB-4828-B82B-0DD9864F0387 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 96D8A856-6139-43C4-BD55-042514799D8C response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment EBF86E0B-DCCF-46B9-B503-F322EA8AC552 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 0231B2D5-9C13-4F3F-AEDB-72233F20741C response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment 89FEB6D0-04FD-4277-BA4B-BD57459A3CFC response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment A05B8296-D1DD-44D9-A8FF-B4F2D2D0775D response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment A441CBD8-0E7D-4526-BEA9-E56A248784B5 response: 200 OK -> SUCCESS
+api02-1  | 📡 Payment E11577F3-266C-4088-AEAC-9162D0462BB8 response: 200 OK -> SUCCESS
+api02-1  | 💰 Payment enqueued: C914B72D-42D6-4367-AD36-71154F7A8E87, total in queue: 24
+api02-1  | 💰 Payment enqueued: F7C280C0-E4CC-48CF-B8EC-853CC3D09BF7, total in queue: 25
+api02-1  | 💰 Payment enqueued: 2995AF81-317D-45D1-9A0F-E395E684A6F7, total in queue: 26
+api02-1  | 💰 Payment enqueued: 4860EA73-8E12-4949-9842-B873B674E3E8, total in queue: 27
+api02-1  | 💰 Payment enqueued: B6576C27-DDE6-4B02-9896-7852BA7974FC, total in queue: 28
+api02-1  | 💰 Payment enqueued: 8800BBDE-89F2-40BF-901D-8024B469435E, total in queue: 29
+api02-1  | 💰 Payment enqueued: 2425AB64-D364-4E06-985E-171BF1D5603C, total in queue: 30
+api02-1  | 💰 Payment enqueued: 5A726B21-8990-4372-BF30-94A38A11135E, total in queue: 31
+api02-1  | 💰 Payment enqueued: 85A1927A-8C74-43EF-9498-3838CA3A697F, total in queue: 32
+api02-1  | 💰 Payment enqueued: BF14576A-1178-459C-BE00-258A77AC8A07, total in queue: 33
+api02-1  | 💰 Payment enqueued: 92E8547C-8DFC-4EE3-9989-A5953DC56408, total in queue: 34
+api02-1  | 💰 Payment enqueued: 47D6B343-5EB4-481E-9156-B52C7ABE54D2, total in queue: 35
+api02-1  | 💰 Payment enqueued: CF5AA669-00A7-4D9C-8E06-A4107AD62E17, total in queue: 36
+api02-1  | 💰 Payment enqueued: 93C2FB66-1664-489C-A99B-B56B78E4C847, total in queue: 37
+api02-1  | 💰 Payment enqueued: B32842BB-EF2F-43B9-B739-3619CCDE26D8, total in queue: 38
+api02-1  | 💰 Payment enqueued: 3F9C776E-1717-4F37-A218-1F03EBADEA1A, total in queue: 39
+api02-1  | 💰 Payment enqueued: C5FB19B5-7DED-4557-81C2-0F137CF05F92, total in queue: 40
+api02-1  | 💰 Payment enqueued: 543AA68E-C56B-4FF5-BD7F-F258228FB830, total in queue: 41
+api02-1  | 💰 Payment enqueued: 39C54FA4-0523-43FF-9CC0-AF21CD395975, total in queue: 42
+api02-1  | 💰 Payment enqueued: 2D3CDD37-1439-47C3-A207-14AAD339A39F, total in queue: 43
+api02-1  | 💰 Payment enqueued: 8E2E9D36-6902-4A34-A208-DD783C8C1675, total in queue: 44
+api02-1  | 💰 Payment enqueued: 07947403-97F4-4B09-85EC-013EBE3506CA, total in queue: 45
+api02-1  | 💰 Payment enqueued: B01DED13-EFF5-425F-88F6-40077F1DE7C8, total in queue: 46
+api02-1  | 💰 Payment enqueued: 79E73756-68B5-410D-A131-1F6C9DF7BA7E, total in queue: 47
+api02-1  | 💰 Payment enqueued: B919D392-CCD2-449E-AF1C-A666E84C9A63, total in queue: 48
+api02-1  | 💰 Payment enqueued: 971B96FE-7071-4022-8C11-36FBC4739A91, total in queue: 49
+api02-1  | 💰 Payment enqueued: 2E77DC78-B7C9-4019-8BCA-7698D3AAD20C, total in queue: 50
+api02-1  | 💰 Payment enqueued: F2D5A7ED-054E-49E5-A2F7-FBE829A7E1AB, total in queue: 51
+api02-1  | 💰 Payment enqueued: A0721F2D-34D5-4F11-8953-CDF9A146D817, total in queue: 52
+api02-1  | 💰 Payment enqueued: 8CE4564F-585B-4D38-80B1-FCE1C5C368AE, total in queue: 53
+api02-1  | 💰 Payment enqueued: 74F63A7B-2C4C-4061-9D8A-826FAE626E99, total in queue: 54
+api01-1  | 💰 Payment enqueued: 0CFC38E7-D451-4816-86D3-5CF26A7980A9, total in queue: 17
+api01-1  | 💰 Payment enqueued: AE626019-180F-4C36-9814-B363B57A5080, total in queue: 18
+api01-1  | 💰 Payment enqueued: 882BFA59-B66E-449D-8686-430EC419635D, total in queue: 19
+api01-1  | 💰 Payment enqueued: 809C3D61-FAC9-4DBB-B215-B6D1321D85C4, total in queue: 20
+api01-1  | 💰 Payment enqueued: 9E041052-E153-4974-B7A8-140B8A5615BF, total in queue: 21
+api01-1  | 💰 Payment enqueued: A5573465-E717-4AAD-B451-D6344742AA29, total in queue: 22
+api01-1  | 💰 Payment enqueued: C933FA5E-AC47-4616-B104-83187741F851, total in queue: 23
+api01-1  | 💰 Payment enqueued: 5F6D0042-04EA-4B0F-9EF3-0175F477E7AE, total in queue: 24
+api01-1  | 💰 Payment enqueued: 2EB7AD36-1E90-44D5-8599-E714517BE7FD, total in queue: 25
+api01-1  | 💰 Payment enqueued: 94A44B68-5143-4420-A47E-8F19E1B0DB0A, total in queue: 26
+api01-1  | 💰 Payment enqueued: A1CEDC94-D0FF-49E1-99A4-80A8068E7A3E, total in queue: 27
+api01-1  | 💰 Payment enqueued: 6A47845F-04E0-42DE-8998-64C87705F7A8, total in queue: 28
+api01-1  | 💰 Payment enqueued: 213FAAAF-4C5B-474A-82A7-88EAFFFE095A, total in queue: 29
+api01-1  | 💰 Payment enqueued: 304BCAC7-5DE9-4D18-AA6A-4B3559BF1DF4, total in queue: 30
+api01-1  | 💰 Payment enqueued: 0616FE8A-24FC-4949-95CF-395F18D0A55B, total in queue: 31
+api01-1  | 💰 Payment enqueued: 370A5635-4602-4D27-82F0-80FE6DB1950F, total in queue: 32
+api01-1  | 💰 Payment enqueued: 7044900B-18C9-4694-836B-8881ACE1DBDE, total in queue: 33
+api01-1  | 💰 Payment enqueued: D27AAC26-E078-4C65-BCEA-916B448FD64B, total in queue: 34
+api01-1  | 💰 Payment enqueued: 600778FF-D958-4421-8292-CFB7B44FC223, total in queue: 35
+api01-1  | 💰 Payment enqueued: 47A10646-2A6D-41AA-BCC9-FD08BA495549, total in queue: 36
+api01-1  | 💰 Payment enqueued: 0AB6DD25-A5E6-4C20-8321-A52C9EC45191, total in queue: 37
+api01-1  | 💰 Payment enqueued: 66E7C892-5382-417D-A80A-20E8C0B0791C, total in queue: 38
+api01-1  | 💰 Payment enqueued: B506A291-1B30-406B-BFF4-FF7040869A98, total in queue: 39
+api01-1  | 💰 Payment enqueued: CFEF776E-328E-4CB8-97DE-3303A38EF9AE, total in queue: 40
+api01-1  | 💰 Payment enqueued: 3D7584EE-8BE3-4407-9D29-1CF5E5F43A0F, total in queue: 41
+api01-1  | 💰 Payment enqueued: C18D7453-C40F-41BE-94CD-D28356974DB6, total in queue: 42
+api01-1  | 💰 Payment enqueued: F5E3BC1A-7A15-4B90-BA41-3FEC4F2CB6CE, total in queue: 43
+api01-1  | 💰 Payment enqueued: F08D7E74-2689-4B11-8FAB-5E847595716B, total in queue: 44
+api01-1  | 💰 Payment enqueued: 6C3AEEF7-278C-441B-A8C2-CB1209053B00, total in queue: 45
+api01-1  | 💰 Payment enqueued: B5AECCB5-2451-4D93-8636-4A61BE8D1C4D, total in queue: 46
+api01-1  | 💰 Payment enqueued: C3DF5122-680E-46EF-B9FF-527E77BCD141, total in queue: 47
+api01-1  | 💰 Payment enqueued: 66250D5A-BDF3-401A-8E96-A3A85331C4D9, total in queue: 48
+api01-1  | 💰 Payment enqueued: 550ABA50-BCE0-4B4C-AA3B-8DA77A008870, total in queue: 49
+api01-1  | 💰 Payment enqueued: 57B1E507-09B7-4A3B-9D4C-1F2EB3BC64EC, total in queue: 50
+api01-1  | 💰 Payment enqueued: 1FF1A48E-B6AC-40C5-96AE-FF4386F441E6, total in queue: 51
+api01-1  | 💰 Payment enqueued: 11656D83-DDCD-4085-B77D-4D069B285963, total in queue: 52
+api01-1  | 💰 Payment enqueued: 593556A3-766E-47F1-804A-0868DD929C31, total in queue: 53
+api01-1  | 💰 Payment enqueued: 5033F2D8-0D74-493E-8E9B-44A60C235EFA, total in queue: 54
+api01-1  | 💰 Payment enqueued: 4D73A7C8-0F1C-42C4-9109-3A74F30F70FB, total in queue: 55
+api01-1  | 💰 Payment enqueued: E4FE12EB-177C-4608-A8CA-24F208ACEC16, total in queue: 56
+api01-1  | 💰 Payment enqueued: 6EB9B3A3-A771-40E5-A479-7E97B0E2BAB5, total in queue: 57
+api01-1  | 💰 Payment enqueued: FAD50528-9433-4879-9FF8-E7575F1BAF40, total in queue: 58
+api01-1  | 💰 Payment enqueued: 48AA5259-96E6-4C2E-A2A1-A3313E722BB2, total in queue: 59
+api01-1  | 💰 Payment enqueued: 1473D64A-B0AB-4315-A296-5A6E46ED9DD4, total in queue: 60
+api01-1  | 💰 Payment enqueued: 18A039A2-F713-48CE-97BC-D885CED522F0, total in queue: 61
+api01-1  | 💰 Payment enqueued: 8866078A-C9D4-4444-A39C-D7A984B5523F, total in queue: 62
+api01-1  | 💰 Payment enqueued: E2397BA1-FC94-4C6A-9E08-B12D3A35DE08, total in queue: 63
+api01-1  | 💰 Payment enqueued: 6A7988CE-8095-4370-896F-78D582DD0620, total in queue: 64
+api01-1  | 💰 Payment enqueued: C935EAF3-F718-49EF-A98C-8444F2EF2788, total in queue: 65
+api01-1  | 💰 Payment enqueued: 833BDE34-8E27-4212-A8ED-DE46E72677DD, total in queue: 66
+api01-1  | 💰 Payment enqueued: 1C88CFC4-9963-4C43-91C0-F99B623C4109, total in queue: 67
+api01-1  | 💰 Payment enqueued: 85A2F7DA-1ED2-4D12-8BBB-F23A24FED39D, total in queue: 68
+api02-1  | 💰 Payment enqueued: D87060A6-1BE7-4205-9CF3-1416633FF05A, total in queue: 55
+api02-1  | 💰 Payment enqueued: E494688B-306B-4D42-A0B9-2471F05C96CF, total in queue: 56
+api02-1  | 💰 Payment enqueued: DD428280-0094-4216-B9E8-E407433D1286, total in queue: 57
+api02-1  | 💰 Payment enqueued: CEE06508-F010-4963-BB23-CC524D890817, total in queue: 58
+api02-1  | 💰 Payment enqueued: 3577F651-154D-456C-BB4A-4500D936A41D, total in queue: 59
+api02-1  | 💰 Payment enqueued: 50833D52-17B4-4FEE-855F-4F55AA364F36, total in queue: 60
+api02-1  | 💰 Payment enqueued: B2C5CF47-7EC5-49C3-8FC9-1DB52082CF28, total in queue: 61
+api02-1  | 💰 Payment enqueued: EA901596-ABD2-4AF0-86F0-53B57CD0779D, total in queue: 62
+api02-1  | 💰 Payment enqueued: 02512EC0-5988-4330-B5F2-F1E8A3877C48, total in queue: 63
+api02-1  | 💰 Payment enqueued: 8AD2C648-7B90-4DC4-9AA1-5A36CF0A6273, total in queue: 64
+api02-1  | 💰 Payment enqueued: FB1356EF-A13A-44B8-A229-8080C0170798, total in queue: 65
+api02-1  | 💰 Payment enqueued: BD6FCFE6-7943-43BE-9AD8-740D65CEDF5B, total in queue: 66
+api02-1  | 💰 Payment enqueued: 43C00CEF-6B76-42B5-B9AA-01F0BF5975E8, total in queue: 67
+api02-1  | 💰 Payment enqueued: 09FD2457-56EE-477A-8D3E-F5C63D5C4FED, total in queue: 68
+api02-1  | 💰 Payment enqueued: 55236271-8788-4F4F-A7FB-A5C607275A2F, total in queue: 69
+api02-1  | 💰 Payment enqueued: 22D7EA7C-391F-48ED-9E78-09027E3088C6, total in queue: 70
+api02-1  | 💰 Payment enqueued: 12EFD376-7835-4985-8013-0C61CDFDBCC8, total in queue: 71
+api02-1  | 💰 Payment enqueued: 1B1C9ACA-BE5F-41D5-AB04-050021AC8589, total in queue: 72
+api02-1  | 💰 Payment enqueued: 5EFB1964-0FD1-4C4A-AD80-145B0725CE2D, total in queue: 73
+api02-1  | 💰 Payment enqueued: B717D4C3-65FD-4F48-99D7-D1A13B15D214, total in queue: 74
+api02-1  | 💰 Payment enqueued: A2FE78BF-AECF-410D-8035-1BE415417E57, total in queue: 75
+api02-1  | 💰 Payment enqueued: 8EAEABF9-E4B6-4E46-8C71-08BCCBD517DD, total in queue: 76
+api02-1  | 💰 Payment enqueued: 6DA021DB-FDB4-441E-AA95-82018BC4A9C2, total in queue: 77
+api02-1  | 💰 Payment enqueued: 1BD8B84D-D813-443C-91C0-27A586EC5F4F, total in queue: 78
+api02-1  | 💰 Payment enqueued: D089C68E-9798-44D4-8E5A-8C8EF84C2469, total in queue: 79
+api02-1  | 💰 Payment enqueued: 948977B3-C1AC-4F05-A938-B971EF2FF42D, total in queue: 80
+api02-1  | 💰 Payment enqueued: 1EFA9225-DB8A-4831-B6F1-65C822874E9C, total in queue: 81
+api02-1  | 💰 Payment enqueued: CB4CF11E-B829-41FD-B052-49EB9D06AD13, total in queue: 82
+api02-1  | 💰 Payment enqueued: 3F155620-3614-4AB2-8564-250802A873B4, total in queue: 83
+api02-1  | 💰 Payment enqueued: 0BB2184C-88DE-433A-B288-853C429075B1, total in queue: 84
+api02-1  | 💰 Payment enqueued: C101CD7B-89ED-4CE8-B5CF-C627864133C7, total in queue: 85
+api02-1  | 💰 Payment enqueued: ED2AFB41-468B-410F-B2CC-51A2E109BA14, total in queue: 86
+api02-1  | 💰 Payment enqueued: 1477C8E0-65CE-45E0-A379-2868D8634E1C, total in queue: 87
+api02-1  | 💰 Payment enqueued: 6212C678-A305-417E-87A4-B708BFFD9572, total in queue: 88
+api02-1  | 💰 Payment enqueued: 3E16A422-9E88-47F1-8F3F-A2FB15C2F6C2, total in queue: 89
+api02-1  | 💰 Payment enqueued: 7E3E803C-3BC5-43ED-8C9C-FF193E1CAE7C, total in queue: 90
+api02-1  | 💰 Payment enqueued: C5513DDA-1034-445E-AE81-B769BCF4005F, total in queue: 91
+api02-1  | 💰 Payment enqueued: 2CE96493-855E-495F-BE67-834DC4A1BFB0, total in queue: 92
+api02-1  | 💰 Payment enqueued: FF54A20D-B525-4F25-9F56-0D344329204A, total in queue: 93
+log truncated at line 1000

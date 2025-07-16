@@ -1,0 +1,36 @@
+{
+  "participante": "dudebank",
+  "descricao": "'total_liquido' é sua pontuação final. Equivale ao seu lucro. Fórmula: total_liquido + (total_liquido * p99.bonus) - (total_liquido * multa.porcentagem)",
+  "total_liquido": 201062.93349999998,
+  "total_bruto": 332210.6,
+  "total_taxas": 22883.010000000002,
+  "p99": {
+    "valor": "85.39084093999998ms",
+    "bonus": 0,
+    "max_requests": "550",
+    "descricao": "Fórmula para o bônus: max((11 - p99.valor) * 0.02, 0)"
+  },
+  "multa": {
+    "porcentagem": 0.35,
+    "total": 108264.65649999998,
+    "composicao": {
+      "descricao": "Se 'total_bruto' != 'total_bruto_esperado' ou 'total_inconsistencias' > 0, há multa de 35%.",
+      "total_bruto_esperado": 332210.6,
+      "total_inconsistencias": 437.7999999999993
+    }
+  },
+  "pagamentos": {
+    "qtd_sucesso": 16694,
+    "qtd_falha": 0
+  },
+  "default": {
+    "total_bruto": 269485.8,
+    "num_pagamentos": 13542,
+    "total_taxas": 13474.29
+  },
+  "fallback": {
+    "total_bruto": 62724.8,
+    "num_pagamentos": 3152,
+    "total_taxas": 9408.72
+  }
+}

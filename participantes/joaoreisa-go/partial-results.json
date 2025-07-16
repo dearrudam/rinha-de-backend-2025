@@ -1,0 +1,36 @@
+{
+  "participante": "joaoreisa-go",
+  "descricao": "'total_liquido' é sua pontuação final. Equivale ao seu lucro. Fórmula: total_liquido + (total_liquido * p99.bonus) - (total_liquido * multa.porcentagem)",
+  "total_liquido": 332386.04730376054,
+  "total_bruto": 333026.5,
+  "total_taxas": 21343.745,
+  "p99": {
+    "valor": "7.678787649999987ms",
+    "bonus": 0.06642424700000026,
+    "max_requests": "550",
+    "descricao": "Fórmula para o bônus: max((11 - p99.valor) * 0.02, 0)"
+  },
+  "multa": {
+    "porcentagem": 0,
+    "total": 0,
+    "composicao": {
+      "descricao": "Se 'total_bruto' != 'total_bruto_esperado' ou 'total_inconsistencias' > 0, há multa de 35%.",
+      "total_bruto_esperado": 333026.5,
+      "total_inconsistencias": 0
+    }
+  },
+  "pagamentos": {
+    "qtd_sucesso": 16735,
+    "qtd_falha": 0
+  },
+  "default": {
+    "total_bruto": 286102.3,
+    "num_pagamentos": 14377,
+    "total_taxas": 14305.115
+  },
+  "fallback": {
+    "total_bruto": 46924.2,
+    "num_pagamentos": 2358,
+    "total_taxas": 7038.629999999999
+  }
+}

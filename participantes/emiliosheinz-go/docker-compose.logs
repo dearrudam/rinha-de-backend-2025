@@ -1,0 +1,391 @@
+
+ api02 Pulling 
+ nginx Pulling 
+ redis Pulling 
+ api01 Pulling 
+ bedf3551de40 Pulling fs layer 
+ bedf3551de40 Pulling fs layer 
+ bedf3551de40 Downloading [>                                                  ]  81.92kB/7.746MB
+ bedf3551de40 Downloading [>                                                  ]  81.92kB/7.746MB
+ 4abcf2066143 Pulling fs layer 
+ fc21a1d387f5 Pulling fs layer 
+ e6ef242c1570 Pulling fs layer 
+ 13fcfbc94648 Pulling fs layer 
+ d4bca490e609 Pulling fs layer 
+ 5406ed7b06d9 Pulling fs layer 
+ 8a3742a9529d Pulling fs layer 
+ 0d0c16747d2c Pulling fs layer 
+ 13fcfbc94648 Waiting 
+ d4bca490e609 Waiting 
+ 5406ed7b06d9 Waiting 
+ 8a3742a9529d Waiting 
+ 0d0c16747d2c Waiting 
+ e6ef242c1570 Waiting 
+ f18232174bc9 Already exists 
+ 10753f8102ef Pulling fs layer 
+ a9c51c568321 Pulling fs layer 
+ b96ac5b0d90b Pulling fs layer 
+ 3b985785c0a3 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 6b9706545272 Pulling fs layer 
+ 10753f8102ef Waiting 
+ a9c51c568321 Waiting 
+ b96ac5b0d90b Waiting 
+ 3b985785c0a3 Waiting 
+ 4f4fb700ef54 Waiting 
+ 6b9706545272 Waiting 
+ bedf3551de40 Downloading [=======>                                           ]  1.159MB/7.746MB
+ bedf3551de40 Downloading [=======>                                           ]  1.159MB/7.746MB
+ bedf3551de40 Downloading [=====================>                             ]  3.393MB/7.746MB
+ bedf3551de40 Downloading [=====================>                             ]  3.393MB/7.746MB
+ bedf3551de40 Verifying Checksum 
+ bedf3551de40 Download complete 
+ bedf3551de40 Verifying Checksum 
+ bedf3551de40 Download complete 
+ bedf3551de40 Extracting [>                                                  ]   98.3kB/7.746MB
+ bedf3551de40 Extracting [>                                                  ]   98.3kB/7.746MB
+ bedf3551de40 Extracting [==================================================>]  7.746MB/7.746MB
+ bedf3551de40 Extracting [==================================================>]  7.746MB/7.746MB
+ bedf3551de40 Pull complete 
+ bedf3551de40 Pull complete 
+ 4abcf2066143 Downloading [>                                                  ]  34.98kB/3.409MB
+ fc21a1d387f5 Downloading [>                                                  ]  40.98kB/3.985MB
+ api02 Pulled 
+ api01 Pulled 
+ 4abcf2066143 Download complete 
+ 4abcf2066143 Extracting [>                                                  ]  65.54kB/3.409MB
+ fc21a1d387f5 Verifying Checksum 
+ fc21a1d387f5 Download complete 
+ 4abcf2066143 Extracting [==================================================>]  3.409MB/3.409MB
+ 4abcf2066143 Pull complete 
+ fc21a1d387f5 Extracting [>                                                  ]  65.54kB/3.985MB
+ e6ef242c1570 Download complete 
+ fc21a1d387f5 Extracting [================================================>  ]  3.867MB/3.985MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ fc21a1d387f5 Extracting [==================================================>]  3.985MB/3.985MB
+ d4bca490e609 Downloading [==================================================>]     393B/393B
+ d4bca490e609 Download complete 
+ 13fcfbc94648 Downloading [=================================================> ]     935B/954B
+ 13fcfbc94648 Downloading [==================================================>]     954B/954B
+ 13fcfbc94648 Verifying Checksum 
+ 13fcfbc94648 Download complete 
+ fc21a1d387f5 Pull complete 
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ e6ef242c1570 Extracting [==================================================>]     629B/629B
+ 5406ed7b06d9 Downloading [======================================>            ]     933B/1.209kB
+ 5406ed7b06d9 Downloading [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Download complete 
+ e6ef242c1570 Pull complete 
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Extracting [==================================================>]     954B/954B
+ 13fcfbc94648 Pull complete 
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Extracting [==================================================>]     393B/393B
+ d4bca490e609 Pull complete 
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Extracting [==================================================>]  1.209kB/1.209kB
+ 5406ed7b06d9 Pull complete 
+ 8a3742a9529d Downloading [=================================>                 ]     934B/1.398kB
+ 8a3742a9529d Downloading [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Verifying Checksum 
+ 8a3742a9529d Download complete 
+ 0d0c16747d2c Downloading [>                                                  ]  131.4kB/13.04MB
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Extracting [==================================================>]  1.398kB/1.398kB
+ 8a3742a9529d Pull complete 
+ 0d0c16747d2c Downloading [================================>                  ]  8.371MB/13.04MB
+ 10753f8102ef Downloading [=================================================> ]     935B/950B
+ 10753f8102ef Download complete 
+ 10753f8102ef Extracting [==================================================>]     950B/950B
+ 10753f8102ef Extracting [==================================================>]     950B/950B
+ 0d0c16747d2c Verifying Checksum 
+ 0d0c16747d2c Download complete 
+ 0d0c16747d2c Extracting [>                                                  ]  131.1kB/13.04MB
+ 10753f8102ef Pull complete 
+ 0d0c16747d2c Extracting [=====>                                             ]  1.311MB/13.04MB
+ a9c51c568321 Downloading [>                                                  ]  2.301kB/195.2kB
+ a9c51c568321 Downloading [==================================================>]  195.2kB/195.2kB
+ a9c51c568321 Verifying Checksum 
+ a9c51c568321 Download complete 
+ a9c51c568321 Extracting [========>                                          ]  32.77kB/195.2kB
+ a9c51c568321 Extracting [==================================================>]  195.2kB/195.2kB
+ 0d0c16747d2c Extracting [============================>                      ]  7.471MB/13.04MB
+ a9c51c568321 Extracting [==================================================>]  195.2kB/195.2kB
+ 0d0c16747d2c Extracting [================================================>  ]  12.71MB/13.04MB
+ 0d0c16747d2c Extracting [==================================================>]  13.04MB/13.04MB
+ b96ac5b0d90b Downloading [>                                                  ]  208.8kB/20.49MB
+ 3b985785c0a3 Downloading [==================================================>]      99B/99B
+ 3b985785c0a3 Verifying Checksum 
+ 3b985785c0a3 Download complete 
+ a9c51c568321 Pull complete 
+ b96ac5b0d90b Downloading [====================>                              ]  8.563MB/20.49MB
+ 0d0c16747d2c Pull complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ nginx Pulled 
+ b96ac5b0d90b Downloading [=============================================>     ]  18.61MB/20.49MB
+ b96ac5b0d90b Verifying Checksum 
+ b96ac5b0d90b Download complete 
+ b96ac5b0d90b Extracting [>                                                  ]  229.4kB/20.49MB
+ b96ac5b0d90b Extracting [=================>                                 ]  7.111MB/20.49MB
+ 6b9706545272 Downloading [======================>                            ]     934B/2.105kB
+ 6b9706545272 Downloading [==================================================>]  2.105kB/2.105kB
+ 6b9706545272 Verifying Checksum 
+ 6b9706545272 Download complete 
+ b96ac5b0d90b Extracting [====================================>              ]  14.91MB/20.49MB
+ b96ac5b0d90b Extracting [==================================================>]  20.49MB/20.49MB
+ b96ac5b0d90b Pull complete 
+ 3b985785c0a3 Extracting [==================================================>]      99B/99B
+ 3b985785c0a3 Extracting [==================================================>]      99B/99B
+ 3b985785c0a3 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 6b9706545272 Extracting [==================================================>]  2.105kB/2.105kB
+ 6b9706545272 Extracting [==================================================>]  2.105kB/2.105kB
+ 6b9706545272 Pull complete 
+ redis Pulled 
+ Network emiliosheinz-go_rinha  Creating
+ Network emiliosheinz-go_rinha  Created
+ Container emiliosheinz-go-postgres-1  Creating
+ Container emiliosheinz-go-redis-1  Creating
+ Container emiliosheinz-go-redis-1  Created
+ Container emiliosheinz-go-postgres-1  Created
+ Container emiliosheinz-go-api01-1  Creating
+ Container emiliosheinz-go-api02-1  Creating
+ Container emiliosheinz-go-api01-1  Created
+ Container emiliosheinz-go-api02-1  Created
+ Container emiliosheinz-go-nginx-1  Creating
+ Container emiliosheinz-go-nginx-1  Created
+Attaching to api01-1, api02-1, nginx-1, postgres-1, redis-1
+postgres-1  | The files belonging to this database system will be owned by user "postgres".
+postgres-1  | This user must also own the server process.
+postgres-1  | 
+postgres-1  | The database cluster will be initialized with locale "en_US.utf8".
+postgres-1  | The default database encoding has accordingly been set to "UTF8".
+postgres-1  | The default text search configuration will be set to "english".
+postgres-1  | 
+postgres-1  | Data page checksums are disabled.
+postgres-1  | 
+postgres-1  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+postgres-1  | creating subdirectories ... ok
+postgres-1  | selecting dynamic shared memory implementation ... posix
+redis-1     | Starting Redis Server
+postgres-1  | selecting default "max_connections" ... 100
+redis-1     | 1:C 15 Jul 2025 14:07:49.393 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis-1     | 1:C 15 Jul 2025 14:07:49.393 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis-1     | 1:C 15 Jul 2025 14:07:49.393 * Redis version=8.0.3, bits=64, commit=00000000, modified=1, pid=1, just started
+redis-1     | 1:C 15 Jul 2025 14:07:49.393 * Configuration loaded
+redis-1     | 1:M 15 Jul 2025 14:07:49.482 * monotonic clock: POSIX clock_gettime
+redis-1     | 1:M 15 Jul 2025 14:07:49.482 * Running mode=standalone, port=6379.
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> RedisBloom version 8.0.1 (Git=unknown)
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> Registering configuration options: [
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> 	{ bf-error-rate       :      0.01 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> 	{ bf-initial-size     :       100 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> 	{ bf-expansion-factor :         2 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> 	{ cf-bucket-size      :         2 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> 	{ cf-initial-size     :      1024 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> 	{ cf-max-iterations   :        20 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> 	{ cf-expansion-factor :         1 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> 	{ cf-max-expansions   :        32 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * <bf> ]
+redis-1     | 1:M 15 Jul 2025 14:07:49.483 * Module 'bf' loaded from /usr/local/lib/redis/modules//redisbloom.so
+redis-1     | 1:M 15 Jul 2025 14:07:49.484 * <search> Redis version found by RedisSearch : 8.0.3 - oss
+redis-1     | 1:M 15 Jul 2025 14:07:49.484 * <search> RediSearch version 8.0.1 (Git=5688fcc)
+redis-1     | 1:M 15 Jul 2025 14:07:49.484 * <search> Low level api version 1 initialized successfully
+redis-1     | 1:M 15 Jul 2025 14:07:49.484 * <search> gc: ON, prefix min length: 2, min word length to stem: 4, prefix max expansions: 200, query timeout (ms): 500, timeout policy: return, cursor read size: 1000, cursor max idle (ms): 300000, max doctable size: 1000000, max number of search results:  1000000, 
+redis-1     | 1:M 15 Jul 2025 14:07:49.484 * <search> Initialized thread pools!
+redis-1     | 1:M 15 Jul 2025 14:07:49.484 * <search> Disabled workers threadpool of size 0
+redis-1     | 1:M 15 Jul 2025 14:07:49.484 * <search> Subscribe to config changes
+redis-1     | 1:M 15 Jul 2025 14:07:49.484 * <search> Enabled role change notification
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <search> Cluster configuration: AUTO partitions, type: 0, coordinator timeout: 0ms
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <search> Register write commands
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * Module 'search' loaded from /usr/local/lib/redis/modules//redisearch.so
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> RedisTimeSeries version 80001, git_sha=577bfa8b5909e7ee572f0b651399be8303dc6641
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> Redis version found by RedisTimeSeries : 8.0.3 - oss
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> Registering configuration options: [
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> 	{ ts-compaction-policy   :              }
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> 	{ ts-num-threads         :            3 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> 	{ ts-retention-policy    :            0 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> 	{ ts-duplicate-policy    :        block }
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> 	{ ts-chunk-size-bytes    :         4096 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> 	{ ts-encoding            :   compressed }
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> 	{ ts-ignore-max-time-diff:            0 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> 	{ ts-ignore-max-val-diff :     0.000000 }
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> ]
+redis-1     | 1:M 15 Jul 2025 14:07:49.485 * <timeseries> Detected redis oss
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * Module 'timeseries' loaded from /usr/local/lib/redis/modules//redistimeseries.so
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * <ReJSON> Created new data type 'ReJSON-RL'
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * <ReJSON> version: 80001 git sha: unknown branch: unknown
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * <ReJSON> Exported RedisJSON_V1 API
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * <ReJSON> Exported RedisJSON_V2 API
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * <ReJSON> Exported RedisJSON_V3 API
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * <ReJSON> Exported RedisJSON_V4 API
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * <ReJSON> Exported RedisJSON_V5 API
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * <ReJSON> Enabled diskless replication
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * <ReJSON> Initialized shared string cache, thread safe: false.
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * Module 'ReJSON' loaded from /usr/local/lib/redis/modules//rejson.so
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * <search> Acquired RedisJSON_V5 API
+redis-1     | 1:M 15 Jul 2025 14:07:49.486 * Server initialized
+redis-1     | 1:M 15 Jul 2025 14:07:49.487 * Ready to accept connections tcp
+postgres-1  | selecting default "shared_buffers" ... 128MB
+postgres-1  | selecting default time zone ... UTC
+postgres-1  | creating configuration files ... ok
+postgres-1  | running bootstrap script ... ok
+postgres-1  | sh: locale: not found
+postgres-1  | 2025-07-15 14:07:51.986 UTC [34] WARNING:  no usable system locales were found
+postgres-1  | performing post-bootstrap initialization ... ok
+postgres-1  | initdb: warning: enabling "trust" authentication for local connections
+postgres-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
+postgres-1  | syncing data to disk ... ok
+postgres-1  | 
+postgres-1  | 
+postgres-1  | Success. You can now start the database server using:
+postgres-1  | 
+postgres-1  |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+postgres-1  | 
+postgres-1  | waiting for server to start....2025-07-15 14:07:54.988 UTC [52] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1  | 2025-07-15 14:07:54.993 UTC [52] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-07-15 14:07:55.012 UTC [55] LOG:  database system was shut down at 2025-07-15 14:07:54 UTC
+postgres-1  | 2025-07-15 14:07:55.023 UTC [52] LOG:  database system is ready to accept connections
+postgres-1  |  done
+postgres-1  | server started
+postgres-1  | CREATE DATABASE
+postgres-1  | 
+postgres-1  | 
+postgres-1  | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/script.sql
+postgres-1  | DROP TABLE
+postgres-1  | psql:/docker-entrypoint-initdb.d/script.sql:1: NOTICE:  table "payments" does not exist, skipping
+postgres-1  | CREATE TYPE
+postgres-1  | CREATE TABLE
+postgres-1  | 
+postgres-1  | 
+postgres-1  | waiting for server to shut down....2025-07-15 14:07:55.504 UTC [52] LOG:  received fast shutdown request
+postgres-1  | 2025-07-15 14:07:55.509 UTC [52] LOG:  aborting any active transactions
+postgres-1  | 2025-07-15 14:07:55.581 UTC [52] LOG:  background worker "logical replication launcher" (PID 58) exited with exit code 1
+postgres-1  | 2025-07-15 14:07:55.584 UTC [53] LOG:  shutting down
+postgres-1  | 2025-07-15 14:07:55.591 UTC [53] LOG:  checkpoint starting: shutdown immediate
+postgres-1  | 2025-07-15 14:07:55.740 UTC [53] LOG:  checkpoint complete: wrote 937 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.072 s, sync=0.046 s, total=0.157 s; sync files=304, longest=0.018 s, average=0.001 s; distance=4276 kB, estimate=4276 kB; lsn=0/191A508, redo lsn=0/191A508
+postgres-1  | 2025-07-15 14:07:55.747 UTC [52] LOG:  database system is shut down
+postgres-1  |  done
+postgres-1  | server stopped
+postgres-1  | 
+postgres-1  | PostgreSQL init process complete; ready for start up.
+postgres-1  | 
+postgres-1  | 2025-07-15 14:07:55.888 UTC [1] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1  | 2025-07-15 14:07:55.888 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres-1  | 2025-07-15 14:07:55.888 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres-1  | 2025-07-15 14:07:55.898 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-07-15 14:07:55.997 UTC [76] LOG:  database system was shut down at 2025-07-15 14:07:55 UTC
+postgres-1  | 2025-07-15 14:07:55.997 UTC [77] FATAL:  the database system is starting up
+postgres-1  | 2025-07-15 14:07:56.081 UTC [1] LOG:  database system is ready to accept connections
+api02-1     | 2025/07/15 14:07:58 Configuration initialized successfully
+api02-1     | Database connection established successfully
+api02-1     | 2025/07/15 14:07:58 Default health status initialized for default: &{Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:07:58 Default health status initialized for fallback: &{Failing:false MinResponseTime:0}
+api02-1     | asynq: pid=1 2025/07/15 14:07:58.722186 INFO: Starting processing
+api02-1     | asynq: pid=1 2025/07/15 14:07:58.722249 INFO: Send signal TSTP to stop processing new tasks
+api02-1     | asynq: pid=1 2025/07/15 14:07:58.722818 INFO: Send signal TERM or INT to terminate the process
+api01-1     | 2025/07/15 14:07:58 Configuration initialized successfully
+api01-1     | Database connection established successfully
+api01-1     | asynq: pid=1 2025/07/15 14:07:58.766627 INFO: Starting processing
+api01-1     | asynq: pid=1 2025/07/15 14:07:58.766672 INFO: Send signal TSTP to stop processing new tasks
+api01-1     | asynq: pid=1 2025/07/15 14:07:58.766677 INFO: Send signal TERM or INT to terminate the process
+nginx-1     | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx-1     | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx-1     | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx-1     | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+nginx-1     | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx-1     | /docker-entrypoint.sh: Configuration complete; ready for start up
+api02-1     | 2025/07/15 14:08:08 Acting as leader. Ensuring health checks are running.
+api01-1     | 2025/07/15 14:08:08 Not the leader.
+api02-1     | 2025/07/15 14:08:13 Health check for default OK: {Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:08:13 Health check for fallback OK: {Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:08:18 Acting as leader. Ensuring health checks are running.
+api02-1     | 2025/07/15 14:08:18 Health check for default OK: {Failing:false MinResponseTime:100}
+api01-1     | 2025/07/15 14:08:18 Not the leader.
+api02-1     | 2025/07/15 14:08:18 Health check for fallback OK: {Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:08:23 Health check for default OK: {Failing:false MinResponseTime:100}
+api02-1     | 2025/07/15 14:08:23 Health check for fallback OK: {Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:08:28 Acting as leader. Ensuring health checks are running.
+api01-1     | 2025/07/15 14:08:28 Not the leader.
+api02-1     | 2025/07/15 14:08:28 Health check for default OK: {Failing:true MinResponseTime:100}
+api02-1     | 2025/07/15 14:08:28 Health check for fallback OK: {Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:08:33 Health check for default OK: {Failing:true MinResponseTime:100}
+api02-1     | 2025/07/15 14:08:34 Health check for fallback OK: {Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:08:38 Acting as leader. Ensuring health checks are running.
+api01-1     | 2025/07/15 14:08:38 Not the leader.
+api02-1     | 2025/07/15 14:08:38 Health check for default OK: {Failing:true MinResponseTime:2000}
+api02-1     | 2025/07/15 14:08:39 Health check for fallback OK: {Failing:true MinResponseTime:1000}
+api02-1     | 2025/07/15 14:08:44 Health check for default OK: {Failing:true MinResponseTime:2000}
+api02-1     | 2025/07/15 14:08:44 Health check for fallback OK: {Failing:true MinResponseTime:1000}
+api02-1     | 2025/07/15 14:08:48 Acting as leader. Ensuring health checks are running.
+api01-1     | 2025/07/15 14:08:48 Not the leader.
+api02-1     | 2025/07/15 14:08:49 Health check for default OK: {Failing:false MinResponseTime:20}
+api02-1     | 2025/07/15 14:08:49 Health check for fallback OK: {Failing:false MinResponseTime:20}
+api01-1     | asynq: pid=1 2025/07/15 14:08:51.886898 WARN: Could not remove task id=982f766e-36a9-4840-a257-b073d3bfa685 type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND; Will retry syncing
+api02-1     | asynq: pid=1 2025/07/15 14:08:51.886905 WARN: Could not remove task id=0e754819-d18e-4fbf-a0d8-752de2fdd627 type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND; Will retry syncing
+api01-1     | asynq: pid=1 2025/07/15 14:08:51.887004 WARN: Could not remove task id=ea152183-2550-4acd-b786-95daa8c19bf0 type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND; Will retry syncing
+api01-1     | asynq: pid=1 2025/07/15 14:08:51.887019 WARN: Could not remove task id=3380627d-9e7e-497a-a2ad-d5fe94337680 type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND; Will retry syncing
+api02-1     | asynq: pid=1 2025/07/15 14:08:51.887998 WARN: Could not remove task id=979c3bcc-a211-4d58-a2b2-5e006e94aa4e type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND; Will retry syncing
+api01-1     | asynq: pid=1 2025/07/15 14:08:51.888141 WARN: Could not remove task id=fa61a073-46c0-4e21-8167-df50a96d844b type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND; Will retry syncing
+api01-1     | asynq: pid=1 2025/07/15 14:08:51.888351 WARN: Could not remove task id=868b06d9-a3c6-4630-a2ed-b324a68a024b type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND; Will retry syncing
+api02-1     | asynq: pid=1 2025/07/15 14:08:51.889598 WARN: Could not remove task id=1d49babe-f1c9-414d-9199-eb5631b259ff type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND; Will retry syncing
+api02-1     | 2025/07/15 14:08:54 Health check for default OK: {Failing:false MinResponseTime:20}
+api02-1     | 2025/07/15 14:08:54 Health check for fallback OK: {Failing:false MinResponseTime:20}
+api01-1     | 2025/07/15 14:08:58 Not the leader.
+api02-1     | 2025/07/15 14:08:58 Acting as leader. Ensuring health checks are running.
+api02-1     | 2025/07/15 14:08:59 Health check for default OK: {Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:08:59 Health check for fallback OK: {Failing:false MinResponseTime:5000}
+api02-1     | 2025/07/15 14:09:04 Health check for fallback OK: {Failing:false MinResponseTime:5000}
+api02-1     | 2025/07/15 14:09:04 Health check for default OK: {Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:09:08 Acting as leader. Ensuring health checks are running.
+api01-1     | 2025/07/15 14:09:08 Not the leader.
+api02-1     | 2025/07/15 14:09:09 Health check for default OK: {Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:09:09 Health check for fallback OK: {Failing:false MinResponseTime:5000}
+[Knginx-1 exited with code 0
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.754517 INFO: Stopping processor
+api02-1     | asynq: pid=1 2025/07/15 14:09:10.754596 INFO: Stopping processor
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.782620 INFO: Processor stopped
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.782630 INFO: Starting graceful shutdown
+api02-1     | asynq: pid=1 2025/07/15 14:09:10.782461 INFO: Processor stopped
+api02-1     | asynq: pid=1 2025/07/15 14:09:10.782476 INFO: Starting graceful shutdown
+api02-1     | asynq: pid=1 2025/07/15 14:09:10.782479 INFO: Waiting for all workers to finish...
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.782634 INFO: Waiting for all workers to finish...
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.791939 INFO: All workers have finished
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.792045 ERROR: Could not remove task id=982f766e-36a9-4840-a257-b073d3bfa685 type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.792053 ERROR: Could not remove task id=ea152183-2550-4acd-b786-95daa8c19bf0 type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.792059 ERROR: Could not remove task id=3380627d-9e7e-497a-a2ad-d5fe94337680 type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.792063 ERROR: Could not remove task id=fa61a073-46c0-4e21-8167-df50a96d844b type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.792067 ERROR: Could not remove task id=868b06d9-a3c6-4630-a2ed-b324a68a024b type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND
+api02-1     | asynq: pid=1 2025/07/15 14:09:10.792588 INFO: All workers have finished
+api02-1     | asynq: pid=1 2025/07/15 14:09:10.792614 ERROR: Could not remove task id=0e754819-d18e-4fbf-a0d8-752de2fdd627 type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND
+api02-1     | asynq: pid=1 2025/07/15 14:09:10.792620 ERROR: Could not remove task id=979c3bcc-a211-4d58-a2b2-5e006e94aa4e type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND
+api02-1     | asynq: pid=1 2025/07/15 14:09:10.792624 ERROR: Could not remove task id=1d49babe-f1c9-414d-9199-eb5631b259ff type="payment:process" from "asynq:{default}:active" err: INTERNAL_ERROR: redis eval error: NOT FOUND
+api01-1     | asynq: pid=1 2025/07/15 14:09:10.792969 INFO: Exiting
+api02-1     | asynq: pid=1 2025/07/15 14:09:10.793134 INFO: Exiting
+api02-1     | 2025/07/15 14:09:14 Health check for fallback OK: {Failing:false MinResponseTime:5000}
+api02-1     | 2025/07/15 14:09:14 Health check for default OK: {Failing:false MinResponseTime:0}
+api02-1     | 2025/07/15 14:09:18 Acting as leader. Ensuring health checks are running.
+api01-1     | 2025/07/15 14:09:18 Not the leader.
+api02-1     | 2025/07/15 14:09:19 Health check for fallback OK: {Failing:false MinResponseTime:5000}
+api02-1     | 2025/07/15 14:09:19 Health check for default OK: {Failing:false MinResponseTime:0}
+[Kapi01-1 exited with code 137
+[Kapi02-1 exited with code 137
+postgres-1  | 2025-07-15 14:09:21.376 UTC [1] LOG:  received fast shutdown request
+redis-1     | 1:signal-handler (1752588561) Received SIGTERM scheduling shutdown...
+redis-1     | 1:M 15 Jul 2025 14:09:21.385 * User requested shutdown...
+redis-1     | 1:M 15 Jul 2025 14:09:21.385 # Redis is now ready to exit, bye bye...
+postgres-1  | 2025-07-15 14:09:21.387 UTC [1] LOG:  aborting any active transactions
+postgres-1  | 2025-07-15 14:09:21.396 UTC [1] LOG:  background worker "logical replication launcher" (PID 80) exited with exit code 1
+postgres-1  | 2025-07-15 14:09:21.397 UTC [74] LOG:  shutting down
+postgres-1  | 2025-07-15 14:09:21.406 UTC [74] LOG:  checkpoint starting: shutdown immediate
+postgres-1  | 2025-07-15 14:09:21.522 UTC [74] LOG:  checkpoint complete: wrote 289 buffers (1.8%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.037 s, sync=0.060 s, total=0.126 s; sync files=29, longest=0.053 s, average=0.003 s; distance=3353 kB, estimate=3353 kB; lsn=0/1C60C48, redo lsn=0/1C60C48
+postgres-1  | 2025-07-15 14:09:21.527 UTC [1] LOG:  database system is shut down
+[Kredis-1 exited with code 0
+[Kpostgres-1 exited with code 0
+log truncated at line 1000

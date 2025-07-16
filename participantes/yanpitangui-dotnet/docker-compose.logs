@@ -1,0 +1,681 @@
+
+ backend-1 Pulling 
+ backend-2 Pulling 
+ nginx Pulling 
+ fe07684b16b8 Already exists 
+ 8e783ec6f7ce Pulling fs layer 
+ 12342f4f535b Pulling fs layer 
+ f32ec481db0b Pulling fs layer 
+ 6773c3f5c216 Pulling fs layer 
+ 70baa8a1201f Pulling fs layer 
+ f8ffbf8bb0b0 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ dd4224282620 Pulling fs layer 
+ 70baa8a1201f Waiting 
+ f8ffbf8bb0b0 Waiting 
+ 4f4fb700ef54 Waiting 
+ dd4224282620 Waiting 
+ 6773c3f5c216 Waiting 
+ fe07684b16b8 Already exists 
+ 8e783ec6f7ce Pulling fs layer 
+ 12342f4f535b Pulling fs layer 
+ f32ec481db0b Pulling fs layer 
+ 6773c3f5c216 Pulling fs layer 
+ 70baa8a1201f Pulling fs layer 
+ f8ffbf8bb0b0 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ dd4224282620 Pulling fs layer 
+ dd4224282620 Waiting 
+ 6773c3f5c216 Waiting 
+ 70baa8a1201f Waiting 
+ f8ffbf8bb0b0 Waiting 
+ 4f4fb700ef54 Waiting 
+ 12342f4f535b Downloading [==================================================>]     945B/945B
+ 12342f4f535b Downloading [==================================================>]     945B/945B
+ 12342f4f535b Verifying Checksum 
+ 12342f4f535b Download complete 
+ 12342f4f535b Verifying Checksum 
+ 12342f4f535b Download complete 
+ f32ec481db0b Downloading [>                                                  ]  360.4kB/34.57MB
+ f32ec481db0b Downloading [>                                                  ]  360.4kB/34.57MB
+ 8e783ec6f7ce Downloading [>                                                  ]  49.15kB/3.54MB
+ 8e783ec6f7ce Downloading [>                                                  ]  49.15kB/3.54MB
+ f32ec481db0b Downloading [========>                                          ]  5.691MB/34.57MB
+ f32ec481db0b Downloading [========>                                          ]  5.691MB/34.57MB
+ fe07684b16b8 Already exists 
+ 8e783ec6f7ce Verifying Checksum 
+ 8e783ec6f7ce Download complete 
+ 8e783ec6f7ce Download complete 
+ 8e783ec6f7ce Extracting [>                                                  ]  65.54kB/3.54MB
+ 8e783ec6f7ce Extracting [>                                                  ]  65.54kB/3.54MB
+ 3b7062d09e02 Pulling fs layer 
+ fb746e72516f Pulling fs layer 
+ a9ff9baf1741 Pulling fs layer 
+ 2c127093dfc7 Pulling fs layer 
+ 63dda2adf85b Pulling fs layer 
+ b55ed7d7b2de Pulling fs layer 
+ 3b7062d09e02 Waiting 
+ 92971aeb101e Pulling fs layer 
+ fb746e72516f Waiting 
+ a9ff9baf1741 Waiting 
+ 2c127093dfc7 Waiting 
+ 63dda2adf85b Waiting 
+ 92971aeb101e Waiting 
+ b55ed7d7b2de Waiting 
+ f32ec481db0b Downloading [==================>                                ]   12.8MB/34.57MB
+ f32ec481db0b Downloading [==================>                                ]   12.8MB/34.57MB
+ 8e783ec6f7ce Extracting [=================================================> ]  3.539MB/3.54MB
+ 8e783ec6f7ce Extracting [=================================================> ]  3.539MB/3.54MB
+ 8e783ec6f7ce Extracting [==================================================>]   3.54MB/3.54MB
+ 8e783ec6f7ce Extracting [==================================================>]   3.54MB/3.54MB
+ 6773c3f5c216 Verifying Checksum 
+ 6773c3f5c216 Download complete 
+ 6773c3f5c216 Downloading [==================================================>]     154B/154B
+ 6773c3f5c216 Download complete 
+ 8e783ec6f7ce Pull complete 
+ 8e783ec6f7ce Pull complete 
+ f32ec481db0b Downloading [==========================>                        ]  18.52MB/34.57MB
+ f32ec481db0b Downloading [==========================>                        ]  18.52MB/34.57MB
+ 12342f4f535b Extracting [==================================================>]     945B/945B
+ 12342f4f535b Extracting [==================================================>]     945B/945B
+ 12342f4f535b Extracting [==================================================>]     945B/945B
+ 12342f4f535b Extracting [==================================================>]     945B/945B
+ 12342f4f535b Pull complete 
+ 12342f4f535b Pull complete 
+ f32ec481db0b Downloading [===================================>               ]  24.24MB/34.57MB
+ f32ec481db0b Downloading [===================================>               ]  24.24MB/34.57MB
+ 70baa8a1201f Downloading [>                                                  ]  114.7kB/11.31MB
+ 70baa8a1201f Downloading [>                                                  ]  114.7kB/11.31MB
+ f32ec481db0b Downloading [==========================================>        ]   29.6MB/34.57MB
+ f32ec481db0b Downloading [==========================================>        ]   29.6MB/34.57MB
+ f8ffbf8bb0b0 Verifying Checksum 
+ f8ffbf8bb0b0 Download complete 
+ f8ffbf8bb0b0 Downloading [==================================================>]      96B/96B
+ f8ffbf8bb0b0 Verifying Checksum 
+ f8ffbf8bb0b0 Download complete 
+ 70baa8a1201f Downloading [==========================>                        ]  5.901MB/11.31MB
+ 70baa8a1201f Downloading [==========================>                        ]  5.901MB/11.31MB
+ f32ec481db0b Downloading [============================================>      ]  31.02MB/34.57MB
+ f32ec481db0b Downloading [============================================>      ]  31.02MB/34.57MB
+ f32ec481db0b Verifying Checksum 
+ f32ec481db0b Verifying Checksum 
+ f32ec481db0b Download complete 
+ f32ec481db0b Download complete 
+ 70baa8a1201f Downloading [=============================================>     ]  10.31MB/11.31MB
+ 70baa8a1201f Downloading [=============================================>     ]  10.31MB/11.31MB
+ 70baa8a1201f Verifying Checksum 
+ 70baa8a1201f Download complete 
+ 70baa8a1201f Verifying Checksum 
+ 70baa8a1201f Download complete 
+ f32ec481db0b Extracting [>                                                  ]  360.4kB/34.57MB
+ f32ec481db0b Extracting [>                                                  ]  360.4kB/34.57MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Download complete 
+ 4f4fb700ef54 Download complete 
+ f32ec481db0b Extracting [===========>                                       ]   7.93MB/34.57MB
+ f32ec481db0b Extracting [===========>                                       ]   7.93MB/34.57MB
+ f32ec481db0b Extracting [======================>                            ]   15.5MB/34.57MB
+ f32ec481db0b Extracting [======================>                            ]   15.5MB/34.57MB
+ dd4224282620 Downloading [>                                                  ]  49.15kB/4.186MB
+ dd4224282620 Downloading [>                                                  ]  49.15kB/4.186MB
+ f32ec481db0b Extracting [==================================>                ]  24.15MB/34.57MB
+ f32ec481db0b Extracting [==================================>                ]  24.15MB/34.57MB
+ 3b7062d09e02 Downloading [>                                                  ]  18.73kB/1.81MB
+ dd4224282620 Verifying Checksum 
+ dd4224282620 Download complete 
+ dd4224282620 Verifying Checksum 
+ dd4224282620 Download complete 
+ 3b7062d09e02 Download complete 
+ 3b7062d09e02 Extracting [>                                                  ]  32.77kB/1.81MB
+ fb746e72516f Downloading [==================================================>]     627B/627B
+ fb746e72516f Verifying Checksum 
+ fb746e72516f Download complete 
+ f32ec481db0b Extracting [===========================================>       ]  30.28MB/34.57MB
+ f32ec481db0b Extracting [===========================================>       ]  30.28MB/34.57MB
+ 3b7062d09e02 Extracting [==================================================>]   1.81MB/1.81MB
+ f32ec481db0b Extracting [==================================================>]  34.57MB/34.57MB
+ f32ec481db0b Extracting [==================================================>]  34.57MB/34.57MB
+ f32ec481db0b Pull complete 
+ f32ec481db0b Pull complete 
+ 6773c3f5c216 Extracting [==================================================>]     154B/154B
+ 6773c3f5c216 Extracting [==================================================>]     154B/154B
+ 6773c3f5c216 Extracting [==================================================>]     154B/154B
+ 6773c3f5c216 Extracting [==================================================>]     154B/154B
+ 3b7062d09e02 Pull complete 
+ fb746e72516f Extracting [==================================================>]     627B/627B
+ fb746e72516f Extracting [==================================================>]     627B/627B
+ a9ff9baf1741 Downloading [================================================>  ]     935B/955B
+ a9ff9baf1741 Downloading [==================================================>]     955B/955B
+ a9ff9baf1741 Verifying Checksum 
+ a9ff9baf1741 Download complete 
+ 2c127093dfc7 Downloading [==================================================>]     404B/404B
+ 2c127093dfc7 Verifying Checksum 
+ 2c127093dfc7 Download complete 
+ 63dda2adf85b Downloading [======================================>            ]     934B/1.209kB
+ 63dda2adf85b Downloading [==================================================>]  1.209kB/1.209kB
+ 63dda2adf85b Verifying Checksum 
+ 63dda2adf85b Download complete 
+ 6773c3f5c216 Pull complete 
+ 6773c3f5c216 Pull complete 
+ b55ed7d7b2de Downloading [=================================>                 ]     934B/1.398kB
+ b55ed7d7b2de Download complete 
+ 70baa8a1201f Extracting [>                                                  ]  131.1kB/11.31MB
+ 70baa8a1201f Extracting [>                                                  ]  131.1kB/11.31MB
+ 92971aeb101e Downloading [>                                                  ]  171.8kB/16.78MB
+ fb746e72516f Pull complete 
+ a9ff9baf1741 Extracting [==================================================>]     955B/955B
+ a9ff9baf1741 Extracting [==================================================>]     955B/955B
+ 70baa8a1201f Extracting [===========>                                       ]  2.621MB/11.31MB
+ 70baa8a1201f Extracting [===========>                                       ]  2.621MB/11.31MB
+ 92971aeb101e Downloading [=============================>                     ]  9.968MB/16.78MB
+ 92971aeb101e Verifying Checksum 
+ 92971aeb101e Download complete 
+ a9ff9baf1741 Pull complete 
+ 70baa8a1201f Extracting [====================================>              ]  8.258MB/11.31MB
+ 70baa8a1201f Extracting [====================================>              ]  8.258MB/11.31MB
+ 2c127093dfc7 Extracting [==================================================>]     404B/404B
+ 2c127093dfc7 Extracting [==================================================>]     404B/404B
+ 70baa8a1201f Extracting [==================================================>]  11.31MB/11.31MB
+ 70baa8a1201f Extracting [==================================================>]  11.31MB/11.31MB
+ 70baa8a1201f Pull complete 
+ 70baa8a1201f Pull complete 
+ 2c127093dfc7 Pull complete 
+ f8ffbf8bb0b0 Extracting [==================================================>]      96B/96B
+ f8ffbf8bb0b0 Extracting [==================================================>]      96B/96B
+ f8ffbf8bb0b0 Extracting [==================================================>]      96B/96B
+ f8ffbf8bb0b0 Extracting [==================================================>]      96B/96B
+ 63dda2adf85b Extracting [==================================================>]  1.209kB/1.209kB
+ 63dda2adf85b Extracting [==================================================>]  1.209kB/1.209kB
+ f8ffbf8bb0b0 Pull complete 
+ f8ffbf8bb0b0 Pull complete 
+ 63dda2adf85b Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ b55ed7d7b2de Extracting [==================================================>]  1.398kB/1.398kB
+ b55ed7d7b2de Extracting [==================================================>]  1.398kB/1.398kB
+ 4f4fb700ef54 Pull complete 
+ 4f4fb700ef54 Pull complete 
+ b55ed7d7b2de Pull complete 
+ dd4224282620 Extracting [>                                                  ]  65.54kB/4.186MB
+ dd4224282620 Extracting [>                                                  ]  65.54kB/4.186MB
+ 92971aeb101e Extracting [>                                                  ]  196.6kB/16.78MB
+ dd4224282620 Extracting [================================>                  ]  2.753MB/4.186MB
+ dd4224282620 Extracting [================================>                  ]  2.753MB/4.186MB
+ dd4224282620 Extracting [==================================================>]  4.186MB/4.186MB
+ dd4224282620 Extracting [==================================================>]  4.186MB/4.186MB
+ dd4224282620 Extracting [==================================================>]  4.186MB/4.186MB
+ dd4224282620 Extracting [==================================================>]  4.186MB/4.186MB
+ dd4224282620 Pull complete 
+ dd4224282620 Pull complete 
+ 92971aeb101e Extracting [==========>                                        ]  3.539MB/16.78MB
+ backend-1 Pulled 
+ backend-2 Pulled 
+ 92971aeb101e Extracting [================================>                  ]  10.81MB/16.78MB
+ 92971aeb101e Extracting [==================================================>]  16.78MB/16.78MB
+ 92971aeb101e Pull complete 
+ nginx Pulled 
+ Network yanpitangui-dotnet_backend  Creating
+ Network yanpitangui-dotnet_backend  Created
+ Container yanpitangui-dotnet-rinha-db-1  Creating
+ Container yanpitangui-dotnet-rinha-db-1  Created
+ Container backend-2  Creating
+ Container backend-1  Creating
+ Container backend-2  Created
+ Container backend-1  Created
+ Container yanpitangui-dotnet-nginx-1  Creating
+ Container yanpitangui-dotnet-nginx-1  Created
+Attaching to backend-1, backend-2, nginx-1, rinha-db-1
+rinha-db-1  | The files belonging to this database system will be owned by user "postgres".
+rinha-db-1  | This user must also own the server process.
+rinha-db-1  | 
+rinha-db-1  | The database cluster will be initialized with locale "en_US.utf8".
+rinha-db-1  | The default database encoding has accordingly been set to "UTF8".
+rinha-db-1  | The default text search configuration will be set to "english".
+rinha-db-1  | 
+rinha-db-1  | Data page checksums are disabled.
+rinha-db-1  | 
+rinha-db-1  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+rinha-db-1  | creating subdirectories ... ok
+rinha-db-1  | selecting dynamic shared memory implementation ... posix
+rinha-db-1  | selecting default "max_connections" ... 100
+rinha-db-1  | selecting default "shared_buffers" ... 128MB
+rinha-db-1  | selecting default time zone ... UTC
+rinha-db-1  | creating configuration files ... ok
+rinha-db-1  | running bootstrap script ... ok
+rinha-db-1  | sh: locale: not found
+rinha-db-1  | 2025-07-15 12:08:48.203 UTC [35] WARNING:  no usable system locales were found
+rinha-db-1  | performing post-bootstrap initialization ... ok
+rinha-db-1  | syncing data to disk ... ok
+rinha-db-1  | 
+rinha-db-1  | 
+rinha-db-1  | Success. You can now start the database server using:
+rinha-db-1  | 
+rinha-db-1  |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+rinha-db-1  | 
+rinha-db-1  | initdb: warning: enabling "trust" authentication for local connections
+rinha-db-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
+rinha-db-1  | waiting for server to start....2025-07-15 12:08:50.194 UTC [41] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+rinha-db-1  | 2025-07-15 12:08:50.194 UTC [41] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rinha-db-1  | 2025-07-15 12:08:50.196 UTC [44] LOG:  database system was shut down at 2025-07-15 12:08:49 UTC
+rinha-db-1  | 2025-07-15 12:08:50.200 UTC [41] LOG:  database system is ready to accept connections
+rinha-db-1  |  done
+rinha-db-1  | server started
+rinha-db-1  | CREATE DATABASE
+rinha-db-1  | 
+rinha-db-1  | 
+rinha-db-1  | /usr/local/bin/docker-entrypoint.sh: running /docker-entrypoint-initdb.d/init.sql
+rinha-db-1  | CREATE TABLE
+rinha-db-1  | CREATE INDEX
+rinha-db-1  | 
+rinha-db-1  | 
+rinha-db-1  | waiting for server to shut down....2025-07-15 12:08:50.594 UTC [41] LOG:  received fast shutdown request
+rinha-db-1  | 2025-07-15 12:08:50.595 UTC [41] LOG:  aborting any active transactions
+rinha-db-1  | 2025-07-15 12:08:50.597 UTC [41] LOG:  background worker "logical replication launcher" (PID 47) exited with exit code 1
+rinha-db-1  | 2025-07-15 12:08:50.681 UTC [42] LOG:  shutting down
+rinha-db-1  | 2025-07-15 12:08:50.682 UTC [42] LOG:  checkpoint starting: shutdown immediate
+rinha-db-1  | 2025-07-15 12:08:50.722 UTC [42] LOG:  checkpoint complete: wrote 927 buffers (5.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.040 s, sync=0.001 s, total=0.041 s; sync files=0, longest=0.000 s, average=0.000 s; distance=4276 kB, estimate=4276 kB; lsn=0/191A360, redo lsn=0/191A360
+rinha-db-1  | 2025-07-15 12:08:50.730 UTC [41] LOG:  database system is shut down
+rinha-db-1  |  done
+rinha-db-1  | server stopped
+rinha-db-1  | 
+rinha-db-1  | PostgreSQL init process complete; ready for start up.
+rinha-db-1  | 
+rinha-db-1  | 2025-07-15 12:08:50.821 UTC [1] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+rinha-db-1  | 2025-07-15 12:08:50.821 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+rinha-db-1  | 2025-07-15 12:08:50.821 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+rinha-db-1  | 2025-07-15 12:08:50.821 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+rinha-db-1  | 2025-07-15 12:08:50.823 UTC [59] LOG:  database system was shut down at 2025-07-15 12:08:50 UTC
+rinha-db-1  | 2025-07-15 12:08:50.883 UTC [1] LOG:  database system is ready to accept connections
+backend-1   | [INFO][07/15/2025 12:09:04.737Z][Thread 0010][remoting (akka://Rinha)] Starting remoting
+backend-1   | [INFO][07/15/2025 12:09:04.986Z][Thread 0010][remoting (akka://Rinha)] Remoting started; listening on addresses : [akka.tcp://Rinha@backend-1:5213]
+backend-1   | [INFO][07/15/2025 12:09:04.987Z][Thread 0010][remoting (akka://Rinha)] Remoting now listens on addresses: [akka.tcp://Rinha@backend-1:5213]
+backend-2   | [INFO][07/15/2025 12:09:04.712Z][Thread 0009][remoting (akka://Rinha)] Starting remoting
+backend-2   | [INFO][07/15/2025 12:09:04.994Z][Thread 0009][remoting (akka://Rinha)] Remoting started; listening on addresses : [akka.tcp://Rinha@backend-2:5214]
+backend-2   | [INFO][07/15/2025 12:09:04.995Z][Thread 0009][remoting (akka://Rinha)] Remoting now listens on addresses: [akka.tcp://Rinha@backend-2:5214]
+backend-1   | [INFO][07/15/2025 12:09:04.999Z][Thread 0010][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Starting up...
+backend-1   | [INFO][07/15/2025 12:09:05.014Z][Thread 0010][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Started up successfully
+backend-2   | [INFO][07/15/2025 12:09:05.005Z][Thread 0009][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Starting up...
+backend-2   | [INFO][07/15/2025 12:09:05.099Z][Thread 0009][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Started up successfully
+backend-1   | [WARNING][07/15/2025 12:09:05.392Z][Thread 0013][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
+backend-1   | [INFO][07/15/2025 12:09:05.402Z][Thread 0011][Cluster (akka://Rinha)] Cluster Node [1.0.0] - Node [akka.tcp://Rinha@backend-1:5213] is JOINING itself (with roles [Rinha], version [1.0.0]) and forming a new cluster
+backend-1   | [INFO][07/15/2025 12:09:05.486Z][Thread 0011][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - is the new leader among reachable nodes (more leaders may exist)
+backend-2   | [WARNING][07/15/2025 12:09:05.398Z][Thread 0020][akka.tcp://Rinha@backend-2:5214/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
+backend-1   | [INFO][07/15/2025 12:09:05.693Z][Thread 0011][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-1:5213] to [Up]
+backend-2   | [INFO][07/15/2025 12:09:05.783Z][Thread 0019][akka://Rinha/system/healthcheck-readiness-cluster] Message [CurrentClusterState] from [akka://Rinha/system/cluster/core/publisher#654282007] to [akka://Rinha/system/healthcheck-readiness-cluster#1356689636] was unhandled. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: Akka.Cluster.ClusterEvent+CurrentClusterState
+backend-1   | [INFO][07/15/2025 12:09:05.785Z][Thread 0011][akka://Rinha/system/healthcheck-readiness-cluster] Message [CurrentClusterState] from [akka://Rinha/system/cluster/core/publisher#461650025] to [akka://Rinha/system/healthcheck-readiness-cluster#178108671] was unhandled. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: Akka.Cluster.ClusterEvent+CurrentClusterState
+backend-1   | [INFO][07/15/2025 12:09:05.796Z][Thread 0011][akka.tcp://Rinha@backend-1:5213/user/health-monitor] Singleton manager started singleton actor [akka://Rinha/user/health-monitor/health-monitor] 
+backend-1   | [INFO][07/15/2025 12:09:05.798Z][Thread 0011][akka.tcp://Rinha@backend-1:5213/user/health-monitor] ClusterSingletonManager state change [Start -> Oldest] Akka.Cluster.Tools.Singleton.Uninitialized
+backend-1   | [INFO][07/15/2025 12:09:05.933Z][Thread 0011][akka.tcp://Rinha@backend-1:5213/system/cluster/core/daemon/downingProvider] This node is now the leader responsible for taking SBR decisions among the reachable nodes (more leaders may exist).
+backend-1   | [WARNING][07/15/2025 12:09:05.983Z][Thread 0011][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
+backend-1   | [INFO][07/15/2025 12:09:05.983Z][Thread 0011][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] Singleton identified at [akka://Rinha/user/health-monitor/health-monitor]
+backend-1   | [INFO][07/15/2025 12:09:06.686Z][Thread 0011][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Received InitJoin message from [[akka.tcp://Rinha@backend-2:5214/system/cluster/core/daemon/joinSeedNodeProcess-1#1999679892]] to [akka.tcp://Rinha@backend-1:5213]
+backend-1   | [INFO][07/15/2025 12:09:06.686Z][Thread 0011][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Sending InitJoinAck message from node [akka.tcp://Rinha@backend-1:5213] to [[akka.tcp://Rinha@backend-2:5214/system/cluster/core/daemon/joinSeedNodeProcess-1#1999679892]]
+backend-1   | [INFO][07/15/2025 12:09:06.716Z][Thread 0011][Cluster (akka://Rinha)] Cluster Node [1.0.0] - Node [akka.tcp://Rinha@backend-2:5214] is JOINING, roles [Rinha], version [1.0.0]
+backend-2   | [INFO][07/15/2025 12:09:06.757Z][Thread 0005][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Welcome from [akka.tcp://Rinha@backend-1:5213]
+backend-2   | [WARNING][07/15/2025 12:09:06.797Z][Thread 0005][akka.tcp://Rinha@backend-2:5214/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
+backend-2   | [INFO][07/15/2025 12:09:06.928Z][Thread 0022][akka.tcp://Rinha@backend-2:5214/user/health-monitor-proxy] Singleton identified at [akka.tcp://Rinha@backend-1:5213/user/health-monitor/health-monitor]
+backend-1   | [INFO][07/15/2025 12:09:07.098Z][Thread 0030][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-2:5214] to [Up]
+backend-2   | [INFO][07/15/2025 12:09:07.288Z][Thread 0019][akka.tcp://Rinha@backend-2:5214/user/health-monitor] ClusterSingletonManager state change [Start -> Younger] Akka.Cluster.Tools.Singleton.Uninitialized
+nginx-1     | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+nginx-1     | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+nginx-1     | 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+nginx-1     | 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+nginx-1     | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+nginx-1     | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+nginx-1     | /docker-entrypoint.sh: Configuration complete; ready for start up
+backend-1   | [ERROR][07/15/2025 12:09:17.903Z][Thread 0028][FlowShape`2([SelectAsync.in] [SelectAsync.out])(akka.tcp://Rinha@backend-1:5213/user/defaultPool/$a/StreamSupervisor-10)] An exception occured inside SelectAsync while executing Task. Supervision strategy: Stop
+backend-1   | Cause: System.AggregateException: One or more errors occurred. (Exception while reading from stream)
+backend-1   |  ---> Npgsql.NpgsqlException (0x80004005): Exception while reading from stream
+backend-1   |  ---> System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+backend-1   |    at Npgsql.Internal.NpgsqlReadBuffer.<Ensure>g__EnsureLong|55_0(NpgsqlReadBuffer buffer, Int32 count, Boolean async, Boolean readingNotifications)
+backend-1   |    at Npgsql.Internal.NpgsqlReadBuffer.<Ensure>g__EnsureLong|55_0(NpgsqlReadBuffer buffer, Int32 count, Boolean async, Boolean readingNotifications)
+backend-1   |    at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+backend-1   |    at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+backend-1   |    at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+backend-1   |    at Npgsql.NpgsqlBinaryImporter.Init(String copyFromCommand, Boolean async, CancellationToken cancellationToken)
+backend-1   |    at Npgsql.NpgsqlConnection.BeginBinaryImport(Boolean async, String copyFromCommand, CancellationToken cancellationToken)
+backend-1   |    at Rinha.Actors.PaymentProcessorActor.PersistPayments(IEnumerable`1 batch) in /src/Rinha/Actors/PaymentProcessorActor.cs:line 67
+backend-1   |    at Rinha.Actors.PaymentProcessorActor.PersistPayments(IEnumerable`1 batch) in /src/Rinha/Actors/PaymentProcessorActor.cs:line 79
+backend-1   |    --- End of inner exception stack trace ---
+backend-1   | [INFO][07/15/2025 12:09:17.917Z][Thread 0028][akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1583549844] to [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] was not delivered. [2] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 2a51241c-fb5f-40f1-9856-0ee372254307, Amount = 19.9 }
+backend-2   | [ERROR][07/15/2025 12:09:17.899Z][Thread 0023][FlowShape`2([SelectAsync.in] [SelectAsync.out])(akka.tcp://Rinha@backend-2:5214/user/defaultPool/$a/StreamSupervisor-9)] An exception occured inside SelectAsync while executing Task. Supervision strategy: Stop
+backend-2   | Cause: Npgsql.NpgsqlException (0x80004005): Exception while reading from stream
+backend-2   |  ---> System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer.
+backend-2   |  ---> System.Net.Sockets.SocketException (104): Connection reset by peer
+backend-2   |    --- End of inner exception stack trace ---
+backend-2   |    at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+backend-2   |    at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+backend-2   |    at Npgsql.Internal.NpgsqlReadBuffer.<Ensure>g__EnsureLong|55_0(NpgsqlReadBuffer buffer, Int32 count, Boolean async, Boolean readingNotifications)
+backend-2   |    at Npgsql.Internal.NpgsqlReadBuffer.<Ensure>g__EnsureLong|55_0(NpgsqlReadBuffer buffer, Int32 count, Boolean async, Boolean readingNotifications)
+backend-2   |    at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+backend-2   |    at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+backend-2   |    at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+backend-2   |    at Npgsql.NpgsqlBinaryImporter.Init(String copyFromCommand, Boolean async, CancellationToken cancellationToken)
+backend-2   |    at Npgsql.NpgsqlConnection.BeginBinaryImport(Boolean async, String copyFromCommand, CancellationToken cancellationToken)
+backend-2   |    at Rinha.Actors.PaymentProcessorActor.PersistPayments(IEnumerable`1 batch) in /src/Rinha/Actors/PaymentProcessorActor.cs:line 67
+backend-2   |    at Rinha.Actors.PaymentProcessorActor.PersistPayments(IEnumerable`1 batch) in /src/Rinha/Actors/PaymentProcessorActor.cs:line 79
+backend-2   |    at Akka.Streams.Implementation.Fusing.SelectAsync`2.Logic.<>c__DisplayClass8_0.<<OnPush>g__WaitForTask|0>d.MoveNext()
+backend-2   | [INFO][07/15/2025 12:09:17.923Z][Thread 0022][akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1330209940] to [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] was not delivered. [2] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = f9b75083-6a9b-4e5b-a087-a9d40fcb2565, Amount = 19.9 }
+backend-2   | [INFO][07/15/2025 12:09:17.988Z][Thread 0023][akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1330209940] to [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] was not delivered. [3] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 42251a84-561c-4c60-87ac-ab67fdbb540d, Amount = 19.9 }
+backend-1   | [INFO][07/15/2025 12:09:18.006Z][Thread 0028][akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1583549844] to [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] was not delivered. [3] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 42a715c3-b57d-45fc-9b62-e7992f90cd31, Amount = 19.9 }
+backend-2   | [INFO][07/15/2025 12:09:18.024Z][Thread 0019][akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1330209940] to [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] was not delivered. [4] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = bfb8e3e4-4904-4021-bd78-6f01cd44a49f, Amount = 19.9 }
+backend-1   | [INFO][07/15/2025 12:09:18.097Z][Thread 0011][akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1583549844] to [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] was not delivered. [4] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = a5cb85e2-2b6d-4329-894a-dda1ea5ac675, Amount = 19.9 }
+backend-2   | [INFO][07/15/2025 12:09:18.114Z][Thread 0023][akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1330209940] to [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] was not delivered. [5] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 8b22783c-eaca-40c5-88ee-477e42d58cf6, Amount = 19.9 }
+backend-1   | [INFO][07/15/2025 12:09:18.133Z][Thread 0011][akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1583549844] to [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] was not delivered. [5] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 96eda45a-26d3-43bf-825f-d94cf433213b, Amount = 19.9 }
+backend-2   | [INFO][07/15/2025 12:09:18.206Z][Thread 0023][akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1330209940] to [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] was not delivered. [6] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 663b498a-51c4-49b5-9d2f-9b89ad085a2f, Amount = 19.9 }
+backend-1   | [INFO][07/15/2025 12:09:18.242Z][Thread 0028][akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1583549844] to [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] was not delivered. [6] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = eb1f7c30-5ec3-4a15-b083-4a78e415464c, Amount = 19.9 }
+backend-2   | [INFO][07/15/2025 12:09:18.249Z][Thread 0005][akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1330209940] to [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] was not delivered. [7] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 574b1ca2-78c8-4d9a-a53c-f16bf3fcc921, Amount = 19.9 }
+backend-1   | [INFO][07/15/2025 12:09:18.269Z][Thread 0021][akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1583549844] to [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] was not delivered. [7] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 08af2933-c22e-49e7-97d8-31d7a20fc0e4, Amount = 19.9 }
+backend-2   | [INFO][07/15/2025 12:09:18.316Z][Thread 0023][akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1330209940] to [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] was not delivered. [8] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 90f194e7-2b44-4665-990e-c27efc632e41, Amount = 19.9 }
+backend-1   | [INFO][07/15/2025 12:09:18.333Z][Thread 0028][akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1583549844] to [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] was not delivered. [8] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 911607a5-f8fb-4ecf-8fc1-c968286d1d48, Amount = 19.9 }
+[Krinha-db-1 exited with code 137
+backend-2   | [INFO][07/15/2025 12:09:18.352Z][Thread 0023][akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1330209940] to [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] was not delivered. [9] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 2ed5b17a-6622-4163-bc85-9b23fed4e7bb, Amount = 19.9 }
+backend-1   | [INFO][07/15/2025 12:09:18.405Z][Thread 0011][akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1583549844] to [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] was not delivered. [9] dead letters encountered. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 9d689f16-fe80-47ae-a378-b3cd42611a67, Amount = 19.9 }
+backend-2   | [INFO][07/15/2025 12:09:18.426Z][Thread 0023][akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1330209940] to [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] was not delivered. [10] dead letters encountered, no more dead letters will be logged in next [00:05:00]. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-1-0-actorRefSource#943229980] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 233693fd-fb57-4d2d-9535-7b2d13c98abd, Amount = 19.9 }
+backend-1   | [INFO][07/15/2025 12:09:18.443Z][Thread 0028][akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource] Message [PaymentRequest] from [akka://Rinha/user/defaultPool/$a#1583549844] to [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] was not delivered. [10] dead letters encountered, no more dead letters will be logged in next [00:05:00]. If this is not an expected behavior then [akka://Rinha/user/StreamSupervisor-0/Flow-2-0-actorRefSource#409652908] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'. Message content: PaymentRequest { CorrelationId = 82875acf-5bbd-4fed-b7ad-e86504319f4f, Amount = 19.9 }
+backend-2   | [ERROR][07/15/2025 12:09:22.415Z][Thread 0023][FlowShape`2([SelectAsync.in] [SelectAsync.out])(akka.tcp://Rinha@backend-2:5214/user/defaultPool/$b/StreamSupervisor-8)] An exception occured inside SelectAsync while executing Task. Supervision strategy: Stop
+backend-2   | Cause: System.AggregateException: One or more errors occurred. (Name does not resolve)
+backend-2   |  ---> System.Net.Sockets.SocketException (00000005, 0xFFFDFFFF): Name does not resolve
+backend-2   |    at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 activityOrDefault)
+backend-2   |    at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+backend-2   |    at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+backend-2   |    at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |    at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |    at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |    at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |    at Npgsql.PoolingDataSource.<Get>g__RentAsync|33_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |    at Npgsql.NpgsqlConnection.<>c__DisplayClass165_0.<<StartBindingScope>g__StartBindingScopeAsync|0>d.MoveNext()
+backend-2   | --- End of stack trace from previous location ---
+backend-2   |    at Npgsql.NpgsqlConnection.StartBindingScope(ConnectorBindingScope scope)
+backend-2   |    at Npgsql.NpgsqlConnection.BeginBinaryImport(Boolean async, String copyFromCommand, CancellationToken cancellationToken)
+backend-2   |    at Rinha.Actors.PaymentProcessorActor.PersistPayments(IEnumerable`1 batch) in /src/Rinha/Actors/PaymentProcessorActor.cs:line 67
+backend-2   |    at Rinha.Actors.PaymentProcessorActor.PersistPayments(IEnumerable`1 batch) in /src/Rinha/Actors/PaymentProcessorActor.cs:line 79
+backend-2   |    --- End of inner exception stack trace ---
+backend-1   | [ERROR][07/15/2025 12:09:22.991Z][Thread 0028][FlowShape`2([SelectAsync.in] [SelectAsync.out])(akka.tcp://Rinha@backend-1:5213/user/defaultPool/$b/StreamSupervisor-9)] An exception occured inside SelectAsync while executing Task. Supervision strategy: Stop
+backend-1   | Cause: System.AggregateException: One or more errors occurred. (Name does not resolve)
+backend-1   |  ---> System.Net.Sockets.SocketException (00000005, 0xFFFDFFFF): Name does not resolve
+backend-1   |    at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 activityOrDefault)
+backend-1   |    at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+backend-1   |    at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+backend-1   |    at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |    at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |    at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |    at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |    at Npgsql.PoolingDataSource.<Get>g__RentAsync|33_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |    at Npgsql.NpgsqlConnection.<>c__DisplayClass165_0.<<StartBindingScope>g__StartBindingScopeAsync|0>d.MoveNext()
+backend-1   | --- End of stack trace from previous location ---
+backend-1   |    at Npgsql.NpgsqlConnection.StartBindingScope(ConnectorBindingScope scope)
+backend-1   |    at Npgsql.NpgsqlConnection.BeginBinaryImport(Boolean async, String copyFromCommand, CancellationToken cancellationToken)
+backend-1   |    at Rinha.Actors.PaymentProcessorActor.PersistPayments(IEnumerable`1 batch) in /src/Rinha/Actors/PaymentProcessorActor.cs:line 67
+backend-1   |    at Rinha.Actors.PaymentProcessorActor.PersistPayments(IEnumerable`1 batch) in /src/Rinha/Actors/PaymentProcessorActor.cs:line 79
+backend-1   |    --- End of inner exception stack trace ---
+backend-2   | fail: Microsoft.AspNetCore.Server.Kestrel[13]
+backend-2   |       Connection id "0HNE3J1J7RQIK", Request id "0HNE3J1J7RQIK:00000070": An unhandled exception was thrown by the application.
+backend-2   |       System.Net.Sockets.SocketException (00000005, 0xFFFDFFFF): Name does not resolve
+backend-2   |          at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 activityOrDefault)
+backend-2   |          at System.Net.Dns.<>c.<GetHostEntryOrAddressesCoreAsync>b__33_0(Object s, NameResolutionActivity activity)
+backend-2   |          at System.Net.Dns.<>c__DisplayClass39_0`1.<RunAsync>b__0(Task <p0>, Object <p1>)
+backend-2   |          at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+backend-2   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-2   |          at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync(Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync[TResult](Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.MultiplexingDataSource.MultiplexingWriteLoop()
+backend-2   |          at Npgsql.Util.ManualResetValueTaskSource`1.GetResult(Int16 token)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Dapper.Internal.AsyncQueryState.ExecuteReaderAsync(DbCommand command, CommandBehavior flags, CancellationToken cancellationToken) in /_/src/Dapper.AOT/Internal/AsyncQueryState.cs:line 37
+backend-2   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 73
+backend-2   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 99
+backend-2   |          at Dapper.DapperAotExtensions.AsEnumerableAsync[TValue](Task`1 values) in /_/src/Dapper.AOT/DapperAotExtensions.cs:line 23
+backend-2   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 90
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 102
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+backend-2   |          at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+backend-2   | fail: Microsoft.AspNetCore.Server.Kestrel[13]
+backend-2   |       Connection id "0HNE3J1J7RQIK", Request id "0HNE3J1J7RQIK:000001BE": An unhandled exception was thrown by the application.
+backend-2   |       System.Net.Sockets.SocketException (00000005, 0xFFFDFFFF): Name does not resolve
+backend-2   |          at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 activityOrDefault)
+backend-2   |          at System.Net.Dns.<>c.<GetHostEntryOrAddressesCoreAsync>b__33_0(Object s, NameResolutionActivity activity)
+backend-2   |          at System.Net.Dns.<>c__DisplayClass39_0`1.<RunAsync>b__0(Task <p0>, Object <p1>)
+backend-2   |          at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+backend-2   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-2   |          at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync(Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync[TResult](Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.MultiplexingDataSource.MultiplexingWriteLoop()
+backend-2   |          at Npgsql.Util.ManualResetValueTaskSource`1.GetResult(Int16 token)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Dapper.Internal.AsyncQueryState.ExecuteReaderAsync(DbCommand command, CommandBehavior flags, CancellationToken cancellationToken) in /_/src/Dapper.AOT/Internal/AsyncQueryState.cs:line 37
+backend-2   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 73
+backend-2   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 99
+backend-2   |          at Dapper.DapperAotExtensions.AsEnumerableAsync[TValue](Task`1 values) in /_/src/Dapper.AOT/DapperAotExtensions.cs:line 23
+backend-2   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 90
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 102
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+backend-2   |          at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+backend-1   | fail: Microsoft.AspNetCore.Server.Kestrel[13]
+backend-1   |       Connection id "0HNE3J1J7RLG9", Request id "0HNE3J1J7RLG9:000001DC": An unhandled exception was thrown by the application.
+backend-1   |       System.Net.Sockets.SocketException (00000005, 0xFFFDFFFF): Name does not resolve
+backend-1   |          at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 activityOrDefault)
+backend-1   |          at System.Net.Dns.<>c.<GetHostEntryOrAddressesCoreAsync>b__33_0(Object s, NameResolutionActivity activity)
+backend-1   |          at System.Net.Dns.<>c__DisplayClass39_0`1.<RunAsync>b__0(Task <p0>, Object <p1>)
+backend-1   |          at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+backend-1   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-1   |       --- End of stack trace from previous location ---
+backend-1   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-1   |          at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+backend-1   |       --- End of stack trace from previous location ---
+backend-1   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync(Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync[TResult](Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.MultiplexingDataSource.MultiplexingWriteLoop()
+backend-1   |          at Npgsql.Util.ManualResetValueTaskSource`1.GetResult(Int16 token)
+backend-1   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+backend-1   |          at Dapper.Internal.AsyncQueryState.ExecuteReaderAsync(DbCommand command, CommandBehavior flags, CancellationToken cancellationToken) in /_/src/Dapper.AOT/Internal/AsyncQueryState.cs:line 37
+backend-1   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 73
+backend-1   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 99
+backend-1   |          at Dapper.DapperAotExtensions.AsEnumerableAsync[TValue](Task`1 values) in /_/src/Dapper.AOT/DapperAotExtensions.cs:line 23
+backend-1   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 90
+backend-1   |       --- End of stack trace from previous location ---
+backend-1   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 102
+backend-1   |       --- End of stack trace from previous location ---
+backend-1   |          at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+backend-1   |          at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+backend-1   | fail: Microsoft.AspNetCore.Server.Kestrel[13]
+backend-1   |       Connection id "0HNE3J1J7RLGC", Request id "0HNE3J1J7RLGC:00000236": An unhandled exception was thrown by the application.
+backend-1   |       System.Net.Sockets.SocketException (00000005, 0xFFFDFFFF): Name does not resolve
+backend-1   |          at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 activityOrDefault)
+backend-1   |          at System.Net.Dns.<>c.<GetHostEntryOrAddressesCoreAsync>b__33_0(Object s, NameResolutionActivity activity)
+backend-1   |          at System.Net.Dns.<>c__DisplayClass39_0`1.<RunAsync>b__0(Task <p0>, Object <p1>)
+backend-1   |          at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+backend-1   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-1   |       --- End of stack trace from previous location ---
+backend-1   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-1   |          at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+backend-1   |       --- End of stack trace from previous location ---
+backend-1   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync(Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync[TResult](Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.MultiplexingDataSource.MultiplexingWriteLoop()
+backend-1   |          at Npgsql.Util.ManualResetValueTaskSource`1.GetResult(Int16 token)
+backend-1   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-1   |          at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+backend-1   |          at Dapper.Internal.AsyncQueryState.ExecuteReaderAsync(DbCommand command, CommandBehavior flags, CancellationToken cancellationToken) in /_/src/Dapper.AOT/Internal/AsyncQueryState.cs:line 37
+backend-1   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 73
+backend-1   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 99
+backend-1   |          at Dapper.DapperAotExtensions.AsEnumerableAsync[TValue](Task`1 values) in /_/src/Dapper.AOT/DapperAotExtensions.cs:line 23
+backend-1   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 90
+backend-1   |       --- End of stack trace from previous location ---
+backend-1   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 102
+backend-1   |       --- End of stack trace from previous location ---
+backend-1   |          at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+backend-1   |          at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+backend-2   | fail: Microsoft.AspNetCore.Server.Kestrel[13]
+backend-2   |       Connection id "0HNE3J1J7RQIS", Request id "0HNE3J1J7RQIS:0000008E": An unhandled exception was thrown by the application.
+backend-2   |       System.Net.Sockets.SocketException (00000005, 0xFFFDFFFF): Name does not resolve
+backend-2   |          at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 activityOrDefault)
+backend-2   |          at System.Net.Dns.<>c.<GetHostEntryOrAddressesCoreAsync>b__33_0(Object s, NameResolutionActivity activity)
+backend-2   |          at System.Net.Dns.<>c__DisplayClass39_0`1.<RunAsync>b__0(Task <p0>, Object <p1>)
+backend-2   |          at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+backend-2   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-2   |          at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync(Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync[TResult](Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.MultiplexingDataSource.MultiplexingWriteLoop()
+backend-2   |          at Npgsql.Util.ManualResetValueTaskSource`1.GetResult(Int16 token)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Dapper.Internal.AsyncQueryState.ExecuteReaderAsync(DbCommand command, CommandBehavior flags, CancellationToken cancellationToken) in /_/src/Dapper.AOT/Internal/AsyncQueryState.cs:line 37
+backend-2   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 73
+backend-2   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 99
+backend-2   |          at Dapper.DapperAotExtensions.AsEnumerableAsync[TValue](Task`1 values) in /_/src/Dapper.AOT/DapperAotExtensions.cs:line 23
+backend-2   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 90
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 102
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+backend-2   |          at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+backend-2   | fail: Microsoft.AspNetCore.Server.Kestrel[13]
+backend-2   |       Connection id "0HNE3J1J7RQIT", Request id "0HNE3J1J7RQIT:000001A3": An unhandled exception was thrown by the application.
+backend-2   |       System.Net.Sockets.SocketException (00000005, 0xFFFDFFFF): Name does not resolve
+backend-2   |          at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 activityOrDefault)
+backend-2   |          at System.Net.Dns.<>c.<GetHostEntryOrAddressesCoreAsync>b__33_0(Object s, NameResolutionActivity activity)
+backend-2   |          at System.Net.Dns.<>c__DisplayClass39_0`1.<RunAsync>b__0(Task <p0>, Object <p1>)
+backend-2   |          at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+backend-2   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-2   |          at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync(Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync[TResult](Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.MultiplexingDataSource.MultiplexingWriteLoop()
+backend-2   |          at Npgsql.Util.ManualResetValueTaskSource`1.GetResult(Int16 token)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+backend-2   |          at Dapper.Internal.AsyncQueryState.ExecuteReaderAsync(DbCommand command, CommandBehavior flags, CancellationToken cancellationToken) in /_/src/Dapper.AOT/Internal/AsyncQueryState.cs:line 37
+backend-2   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 73
+backend-2   |          at Dapper.Command`1.QueryBufferedAsync[TRow](TArgs args, RowFactory`1 rowFactory, Int32 rowCountHint, CancellationToken cancellationToken) in /_/src/Dapper.AOT/CommandT.Query.cs:line 99
+backend-2   |          at Dapper.DapperAotExtensions.AsEnumerableAsync[TValue](Task`1 values) in /_/src/Dapper.AOT/DapperAotExtensions.cs:line 23
+backend-2   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 90
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Program.<>c__DisplayClass0_0.<<<Main>$>b__4>d.MoveNext() in /src/Rinha/Program.cs:line 102
+backend-2   |       --- End of stack trace from previous location ---
+backend-2   |          at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+backend-2   |          at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[Knginx-1 exited with code 0
+backend-1   | [INFO][07/15/2025 12:10:17.308Z][Thread 0031][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Marked address [akka.tcp://Rinha@backend-1:5213] as [Leaving]
+backend-1   | [INFO][07/15/2025 12:10:17.311Z][Thread 0031][akka.tcp://Rinha@backend-1:5213/user/health-monitor] Exited [akka.tcp://Rinha@backend-1:5213]
+backend-1   | [INFO][07/15/2025 12:10:17.312Z][Thread 0031][akka.tcp://Rinha@backend-1:5213/user/health-monitor] Oldest observed OldestChanged: [akka.tcp://Rinha@backend-1:5213 -> akka.tcp://Rinha@backend-2:5214]
+backend-1   | [INFO][07/15/2025 12:10:17.313Z][Thread 0031][akka.tcp://Rinha@backend-1:5213/user/health-monitor] ClusterSingletonManager state change [Oldest -> WasOldest] Akka.Cluster.Tools.Singleton.OldestData
+backend-2   | [INFO][07/15/2025 12:10:17.317Z][Thread 0023][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Marked address [akka.tcp://Rinha@backend-2:5214] as [Leaving]
+backend-2   | [INFO][07/15/2025 12:10:17.320Z][Thread 0023][akka.tcp://Rinha@backend-2:5214/user/health-monitor] Exited [akka.tcp://Rinha@backend-2:5214]
+backend-1   | [INFO][07/15/2025 12:10:18.094Z][Thread 0031][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-1:5213] to [Exiting]
+backend-1   | [INFO][07/15/2025 12:10:18.094Z][Thread 0031][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is moving node [akka.tcp://Rinha@backend-2:5214] to [Exiting]
+backend-2   | [INFO][07/15/2025 12:10:18.097Z][Thread 0005][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Exiting completed.
+backend-2   | [INFO][07/15/2025 12:10:18.098Z][Thread 0005][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Shutting down...
+backend-2   | [INFO][07/15/2025 12:10:18.099Z][Thread 0005][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-2:5214] - Successfully shut down
+backend-1   | [INFO][07/15/2025 12:10:18.104Z][Thread 0031][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Exiting confirmed [akka.tcp://Rinha@backend-2:5214]
+backend-1   | [WARNING][07/15/2025 12:10:18.106Z][Thread 0031][akka.tcp://Rinha@backend-1:5213/user/health-monitor-proxy] ClusterSingletonProxy failed to find an associated singleton named [health-monitor] in role [Rinha] after 30 seconds.
+backend-2   | [INFO][07/15/2025 12:10:18.110Z][Thread 0005][remoting-terminator] Shutting down remote daemon.
+backend-2   | [INFO][07/15/2025 12:10:18.112Z][Thread 0005][remoting-terminator] Remote daemon shut down; proceeding with flushing remote transports.
+backend-2   | [INFO][07/15/2025 12:10:18.122Z][Thread 0005][akka.tcp://Rinha@backend-2:5214/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-1%3A5213-1] Removing receive buffers for [akka.tcp://Rinha@backend-2:5214]->[akka.tcp://Rinha@backend-1:5213]
+backend-2   | [INFO][07/15/2025 12:10:18.135Z][Thread 0005][remoting (akka://Rinha)] Remoting shut down
+backend-2   | [INFO][07/15/2025 12:10:18.135Z][Thread 0005][remoting-terminator] Remoting shut down.
+backend-1   | [WARNING][07/15/2025 12:10:18.138Z][Thread 0031][akka.tcp://Rinha@backend-1:5213/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-2%3A5214-1] Association with remote system akka.tcp://Rinha@backend-2:5214 has failed; address is now gated for 5000 ms. Reason is: [Akka.Remote.EndpointDisassociatedException: Disassociated
+backend-1   |    at Akka.Remote.EndpointWriter.PublishAndThrow(Exception reason, LogLevel level, Boolean needToThrow)
+backend-1   |    at Akka.Remote.EndpointWriter.Unhandled(Object message)
+backend-1   |    at Akka.Actor.UntypedActor.Receive(Object message)
+backend-1   |    at Akka.Actor.ActorBase.AroundReceive(Receive receive, Object message)
+backend-1   |    at Akka.Actor.ActorCell.ReceiveMessage(Object message)
+backend-1   |    at Akka.Actor.ActorCell.ReceivedTerminated(Terminated t)
+backend-1   |    at Akka.Actor.ActorCell.AutoReceiveMessage(Envelope envelope)
+backend-1   |    at Akka.Actor.ActorCell.Invoke(Envelope envelope)]
+backend-1   | [ERROR][07/15/2025 12:10:18.141Z][Thread 0031][akka://Rinha/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-2%3A5214-1/endpointWriter] Disassociated
+backend-1   | Cause: Akka.Remote.EndpointDisassociatedException: Disassociated
+backend-1   |    at Akka.Remote.EndpointWriter.PublishAndThrow(Exception reason, LogLevel level, Boolean needToThrow)
+backend-1   |    at Akka.Remote.EndpointWriter.Unhandled(Object message)
+backend-1   |    at Akka.Actor.UntypedActor.Receive(Object message)
+backend-1   |    at Akka.Actor.ActorBase.AroundReceive(Receive receive, Object message)
+backend-1   |    at Akka.Actor.ActorCell.ReceiveMessage(Object message)
+backend-1   |    at Akka.Actor.ActorCell.ReceivedTerminated(Terminated t)
+backend-1   |    at Akka.Actor.ActorCell.AutoReceiveMessage(Envelope envelope)
+backend-1   |    at Akka.Actor.ActorCell.Invoke(Envelope envelope)
+[Kbackend-2 exited with code 0
+backend-1   | [INFO][07/15/2025 12:10:19.095Z][Thread 0024][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Leader is removing confirmed Exiting node [akka.tcp://Rinha@backend-2:5214]
+backend-1   | [WARNING][07/15/2025 12:10:23.409Z][Thread 0024][akka.tcp://Rinha@backend-1:5213/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-2%3A5214-1/endpointWriter] AssociationError [akka.tcp://Rinha@backend-1:5213] -> akka.tcp://Rinha@backend-2:5214: Error [Association failed with akka.tcp://Rinha@backend-2:5214] []
+backend-1   | [WARNING][07/15/2025 12:10:23.411Z][Thread 0024][remoting (akka://Rinha)] Tried to associate with unreachable remote address [akka.tcp://Rinha@backend-2:5214]. Address is now gated for 5000 ms, all messages to this address will be delivered to dead letters. Reason: [Association failed with akka.tcp://Rinha@backend-2:5214] Caused by: [System.Net.Sockets.SocketException (00000005, 0xFFFDFFFF): Name does not resolve
+backend-1   |    at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 activityOrDefault)
+backend-1   |    at System.Net.Dns.<>c.<GetHostEntryOrAddressesCoreAsync>b__33_1(Object s, NameResolutionActivity activity)
+backend-1   |    at System.Net.Dns.<>c__DisplayClass39_0`1.<RunAsync>b__0(Task <p0>, Object <p1>)
+backend-1   |    at System.Threading.Tasks.ContinuationResultTaskFromTask`1.InnerInvoke()
+backend-1   |    at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-1   | --- End of stack trace from previous location ---
+backend-1   |    at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+backend-1   |    at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+backend-1   | --- End of stack trace from previous location ---
+backend-1   |    at Akka.Remote.Transport.DotNetty.DotNettyTransport.ResolveNameAsync(DnsEndPoint address, AddressFamily addressFamily)
+backend-1   |    at Akka.Remote.Transport.DotNetty.DotNettyTransport.DnsToIPEndpoint(DnsEndPoint dns)
+backend-1   |    at Akka.Remote.Transport.DotNetty.TcpTransport.MapEndpointAsync(EndPoint socketAddress)
+backend-1   |    at Akka.Remote.Transport.DotNetty.TcpTransport.AssociateInternal(Address remoteAddress)]
+backend-1   | [INFO][07/15/2025 12:10:23.413Z][Thread 0024][akka.tcp://Rinha@backend-1:5213/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FRinha%40backend-2%3A5214-1] Removing receive buffers for [akka.tcp://Rinha@backend-1:5213]->[akka.tcp://Rinha@backend-2:5214]
+backend-1   | [WARNING][07/15/2025 12:10:27.319Z][Thread 0024][CoordinatedShutdown (akka://Rinha)] Coordinated shutdown phase [cluster-exiting] timed out after 00:00:10
+backend-1   | [INFO][07/15/2025 12:10:27.320Z][Thread 0024][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Exiting completed.
+backend-1   | [INFO][07/15/2025 12:10:27.320Z][Thread 0024][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Shutting down...
+backend-1   | [INFO][07/15/2025 12:10:27.321Z][Thread 0024][Cluster (akka://Rinha)] Cluster Node [akka.tcp://Rinha@backend-1:5213] - Successfully shut down
+[Kbackend-1 exited with code 137
+log truncated at line 1000

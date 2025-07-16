@@ -1,0 +1,36 @@
+{
+  "participante": "henriquevalcanaia-swift-vapor",
+  "descricao": "'total_liquido' é sua pontuação final. Equivale ao seu lucro. Fórmula: total_liquido + (total_liquido * p99.bonus) - (total_liquido * multa.porcentagem)",
+  "total_liquido": 64905.88974999645,
+  "total_bruto": 106126.69999999425,
+  "total_taxas": 6271.484999999704,
+  "p99": {
+    "valor": "46.67367179999993ms",
+    "bonus": 0,
+    "max_requests": "550",
+    "descricao": "Fórmula para o bônus: max((11 - p99.valor) * 0.02, 0)"
+  },
+  "multa": {
+    "porcentagem": 0.35,
+    "total": 34949.32524999809,
+    "composicao": {
+      "descricao": "Se 'total_bruto' != 'total_bruto_esperado' ou 'total_inconsistencias' > 0, há multa de 35%.",
+      "total_bruto_esperado": 331772.8,
+      "total_inconsistencias": 42705.400000000576
+    }
+  },
+  "pagamentos": {
+    "qtd_sucesso": 16672,
+    "qtd_falha": 0
+  },
+  "default": {
+    "total_bruto": 96475.19999999434,
+    "num_pagamentos": 4848,
+    "total_taxas": 4823.759999999717
+  },
+  "fallback": {
+    "total_bruto": 9651.499999999913,
+    "num_pagamentos": 485,
+    "total_taxas": 1447.724999999987
+  }
+}
