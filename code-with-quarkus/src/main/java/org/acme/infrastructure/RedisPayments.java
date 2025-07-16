@@ -1,8 +1,5 @@
 package org.acme.infrastructure;
 
-import io.quarkus.redis.datasource.RedisDataSource;
-import io.quarkus.redis.datasource.hash.HashCommands;
-import io.quarkus.redis.datasource.keys.KeyCommands;
 import jakarta.enterprise.context.ApplicationScoped;
 import org.acme.domain.Payment;
 import org.acme.domain.PaymentSummary;
@@ -11,7 +8,6 @@ import org.acme.domain.PaymentsSummary;
 import org.acme.domain.RemotePaymentName;
 
 import java.time.Instant;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
@@ -21,33 +17,48 @@ import java.util.function.Predicate;
 public class RedisPayments implements Payments {
 
     private final static String HASH = "payments";
-    private final HashCommands<String, String, Payment> paymentHashCommands;
-    private final KeyCommands<String> keyCommands;
+    private final RedisExecutor redisExecutor;
 
-    public RedisPayments(RedisDataSource ds) {
-        this.keyCommands = ds.key();
-        this.paymentHashCommands = ds.hash(Payment.class);
+    public RedisPayments(RedisExecutor redisExecutor) {
+        this.redisExecutor = redisExecutor;
     }
 
     public Payment register(Payment newPayment) {
-        paymentHashCommands.hsetnx(HASH, newPayment.correlationId(), newPayment);
+        redisExecutor.execute(ctx -> this.register(ctx, newPayment));
         return newPayment;
     }
 
-    public Optional<Payment> getByCorrelationId(String correlationId) {
-        return Optional.ofNullable(paymentHashCommands.hget(HASH, correlationId));
+    public static void register(RedisExecutor.RedisContext ctx, Payment newPayment) {
+        ctx.jedis().hsetnx(HASH, newPayment.correlationId(), ctx.encodeToJSON(newPayment));
     }
 
-    public PaymentsSummary getSummary(Instant from, Instant to) {
+    @Override
+    public Optional<Payment> getByCorrelationId(String correlationId) {
+        return redisExecutor.retrieve(ctx ->
+                getByCorrelationId(ctx, correlationId)
+        );
+    }
 
+    public static Optional<Payment> getByCorrelationId(RedisExecutor.RedisContext ctx, String correlationId) {
+        return Optional.ofNullable(ctx.decodeFromJSON(ctx
+                .jedis()
+                .hget(HASH, correlationId), Payment.class));
+    }
+
+    public PaymentsSummary getSummary(final Instant from, final Instant to) {
+        return redisExecutor.retrieve(ctx -> getSummary(ctx, from, to));
+    }
+
+    public static PaymentsSummary getSummary(final RedisExecutor.RedisContext ctx, Instant from, Instant to) {
         Map<RemotePaymentName, PaymentSummary> summary = new HashMap<>();
 
         Predicate<Payment> fromTo = getPaymentPredicate(from, to);
 
-        Collection<Payment> payments = paymentHashCommands.hgetall(HASH)
-                .values();
-        payments
+        ctx.jedis()
+                .hgetAll(HASH)
+                .values()
                 .stream()
+                .map(json -> ctx.decodeFromJSON(json, Payment.class))
                 .filter(fromTo)
                 .forEach(payment -> {
                     summary.put(payment.processedBy(), summary.computeIfAbsent(
@@ -56,7 +67,6 @@ public class RedisPayments implements Payments {
                 });
 
         return PaymentsSummary.of(summary);
-
     }
 
     private static Predicate<Payment> getPaymentPredicate(Instant from, Instant to) {
@@ -72,6 +82,13 @@ public class RedisPayments implements Payments {
     }
 
     public void purge() {
-        keyCommands.del(HASH);
+        redisExecutor.execute(RedisPayments::purge);
+    }
+
+    public static void purge(RedisExecutor.RedisContext ctx) {
+        var jedis = ctx.jedis();
+        jedis.keys(STR."\{HASH}*")
+                .stream()
+                .forEach(jedis::del);
     }
 }
