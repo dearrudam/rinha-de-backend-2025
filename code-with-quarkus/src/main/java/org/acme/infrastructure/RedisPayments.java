@@ -10,7 +10,6 @@ import org.acme.domain.RemotePaymentName;
 import java.time.Instant;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Optional;
 import java.util.function.Predicate;
 
 @ApplicationScoped
@@ -23,26 +22,8 @@ public class RedisPayments implements Payments {
         this.redisExecutor = redisExecutor;
     }
 
-    public Payment register(Payment newPayment) {
-        redisExecutor.execute(ctx -> this.register(ctx, newPayment));
-        return newPayment;
-    }
-
     public static void register(RedisExecutor.RedisContext ctx, Payment newPayment) {
         ctx.jedis().hsetnx(HASH, newPayment.correlationId(), ctx.encodeToJSON(newPayment));
-    }
-
-    @Override
-    public Optional<Payment> getByCorrelationId(String correlationId) {
-        return redisExecutor.retrieve(ctx ->
-                getByCorrelationId(ctx, correlationId)
-        );
-    }
-
-    public static Optional<Payment> getByCorrelationId(RedisExecutor.RedisContext ctx, String correlationId) {
-        return Optional.ofNullable(ctx.decodeFromJSON(ctx
-                .jedis()
-                .hget(HASH, correlationId), Payment.class));
     }
 
     public PaymentsSummary getSummary(final Instant from, final Instant to) {
@@ -70,8 +51,8 @@ public class RedisPayments implements Payments {
     }
 
     private static Predicate<Payment> getPaymentPredicate(Instant from, Instant to) {
-        Predicate<Payment> fromWasOmitted = _ -> from == null;
-        Predicate<Payment> toWasOmitted = _ -> to == null;
+        Predicate<Payment> fromWasOmitted = unused -> from == null;
+        Predicate<Payment> toWasOmitted = unused -> to == null;
 
         Predicate<Payment> afterOrEqualFrom = payment -> from != null && from.isBefore(payment.createAt()) || from.equals(payment.createAt());
         Predicate<Payment> beforeOrEqualTo = payment -> to != null && to.isAfter(payment.createAt()) || to.equals(payment.createAt());
@@ -87,7 +68,7 @@ public class RedisPayments implements Payments {
 
     public static void purge(RedisExecutor.RedisContext ctx) {
         var jedis = ctx.jedis();
-        jedis.keys(STR."\{HASH}*")
+        jedis.keys(HASH + "*")
                 .stream()
                 .forEach(jedis::del);
     }
