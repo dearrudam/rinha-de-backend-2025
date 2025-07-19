@@ -17,7 +17,6 @@
         <quarkus.platform.version>3.24.2</quarkus.platform.version>
         <skipITs>true</skipITs>
         <surefire-plugin.version>3.5.3</surefire-plugin.version>
-        <enable.preview>--enable-preview</enable.preview>
     </properties>
 
     <dependencyManagement>
@@ -83,9 +82,9 @@
                         </goals>
                     </execution>
                 </executions>
-                <configuration>
-                    <jvmArgs>${enable.preview}</jvmArgs>
-                </configuration>
+<!--                <configuration>-->
+<!--                    <jvmArgs>${enable.preview}</jvmArgs>-->
+<!--                </configuration>-->
             </plugin>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -93,9 +92,9 @@
                 <configuration>
                     <parameters>true</parameters>
                     <release>${maven.compiler.release}</release>
-                    <compilerArgs>
-                        <arg>${enable.preview}</arg>
-                    </compilerArgs>
+<!--                    <compilerArgs>-->
+<!--                        <arg>${enable.preview}</arg>-->
+<!--                    </compilerArgs>-->
                 </configuration>
             </plugin>
             <plugin>
@@ -106,7 +105,7 @@
                         <java.util.logging.manager>org.jboss.logmanager.LogManager</java.util.logging.manager>
                         <maven.home>${maven.home}</maven.home>
                     </systemPropertyVariables>
-                    <argLine>${jacoco.agent} ${enable.preview}</argLine>
+                    <argLine>${jacoco.agent}</argLine>
                 </configuration>
             </plugin>
             <plugin>
