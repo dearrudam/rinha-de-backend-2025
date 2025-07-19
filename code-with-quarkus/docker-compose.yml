@@ -16,7 +16,7 @@ services:
       resources:
         limits:
           cpus: "0.15"
-          memory: "10MB"
+          memory: "20MB"
 
   api1: &api
     build:
@@ -34,11 +34,11 @@ services:
       redis:
         condition: service_healthy
     hostname: api1
-#    deploy:
-#      resources:
-#        limits:
-#          cpus: "0.55"
-#          memory: "64MB"
+    deploy:
+      resources:
+        limits:
+          cpus: "0.55"
+          memory: "115MB"
 
   api2:
     <<: *api
@@ -49,11 +49,11 @@ services:
       - FALLBACK_PAYMENT_PROCESSOR_URL=http://payment-processor-fallback:8080
       - QUARKUS_REDIS_HOSTS=redis://redis:6379
       - INSTANCE_ID=api2
-#    deploy:
-#      resources:
-#        limits:
-#          cpus: "0.55"
-#          memory: "64MB"
+    deploy:
+      resources:
+        limits:
+          cpus: "0.55"
+          memory: "115MB"
 
   #--- QUEUE AND STORAGE ---
   redis:
@@ -71,7 +71,7 @@ services:
       resources:
         limits:
           cpus: "0.25"
-          memory: "212MB"
+          memory: "100MB"
 
 
 #--- NETWORKS ---
