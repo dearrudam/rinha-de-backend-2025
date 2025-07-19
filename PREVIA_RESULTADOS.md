@@ -35,3 +35,4 @@ Atualizado em **Sat Jul 19 06:32:46 AM -03 2025**
 |	ricassiocosta-python	|	899.20560516ms	|	0	|	69629.10499999151	|	129311.19499998423	|
 |	rodrigocaldeira-elixir	|	32.15373166999847ms	|	0	|	0	|	199961.16999999998	|
 |	rodrigo-schonardt-go	|	4.463430510000002ms	|	0.13073138979999996	|	0	|	136510.18163774323	|
+|	ryangst-bun	|	1323.74314443ms	|	0	|	0	|	0	|
