@@ -1,6 +1,6 @@
 package org.acme.domain;
 
-public class RemotePaymentProcessorNotAvailableException extends Exception {
+public class RemotePaymentProcessorNotAvailableException extends RuntimeException {
 
     private final RemotePaymentName name;
 

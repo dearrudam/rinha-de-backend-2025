@@ -1,20 +1,20 @@
 package org.acme.domain;
 
-public class PaymentProcessException extends Exception {
+public class PaymentProcessException extends RuntimeException {
 
-        private final RemotePaymentName name;
+    private final RemotePaymentName name;
 
-        public PaymentProcessException(RemotePaymentName name, String message) {
-            this(name, message, null);
-        }
-
-        public PaymentProcessException(RemotePaymentName name, String message, Throwable cause) {
-            super(message, cause);
-            this.name = name;
-        }
-
-        public RemotePaymentName name() {
-            return name;
-        }
-
+    public PaymentProcessException(RemotePaymentName name, String message) {
+        this(name, message, null);
     }
+
+    public PaymentProcessException(RemotePaymentName name, String message, Throwable cause) {
+        super(message, cause);
+        this.name = name;
+    }
+
+    public RemotePaymentName name() {
+        return name;
+    }
+
+}
