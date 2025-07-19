@@ -3,16 +3,17 @@ services:
     image: eber404/dudebank:latest
     env_file:
       - .env
+    environment:
+      - IS_MAIN_INSTANCE=true
     ports:
       - "3001:8080"
     networks:
       - backend
       - payment-processor
+    volumes:
+      - memorydb_data:/app/data
     depends_on:
-      postgres:
-        condition: service_healthy
-      redis:
-        condition: service_started
+      - memorydb
     deploy:
       resources:
         limits:
@@ -23,6 +24,20 @@ services:
     <<: *api-service
     ports:
       - "3002:8080"
+
+  memorydb:
+    image: eber404/dudebank-db:latest
+    volumes:
+      - memorydb_data:/app/data
+    networks:
+      - backend
+    ports:
+      - "8081:8081"
+    deploy:
+      resources:
+        limits:
+          cpus: "0.2"
+          memory: "90MB"
 
   nginx:
     image: nginx:alpine
@@ -40,49 +55,8 @@ services:
     deploy:
       resources:
         limits:
-          cpus: "0.05"
-          memory: "15MB"
-
-  postgres:
-    image: postgres:alpine
-    env_file:
-      - .env
-    environment:
-      - POSTGRES_DB=${DB_NAME}
-      - POSTGRES_USER=${DB_USER}
-      - POSTGRES_PASSWORD=${DB_PASSWORD}
-    volumes:
-      - ./sql/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
-    networks:
-      - backend
-    ports:
-      - "5432:5432"
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U ${DB_USER} -d ${DB_NAME}"]
-      interval: 5s
-      timeout: 5s
-      retries: 5
-      start_period: 10s
-    deploy:
-      resources:
-        limits:
-          cpus: "0.05"
-          memory: "70MB"
-
-  redis:
-    image: redis:alpine
-    command: redis-server --maxmemory 50mb --maxmemory-policy allkeys-lru --tcp-keepalive 60
-    env_file:
-      - .env
-    networks:
-      - backend
-    ports:
-      - "6379:6379"
-    deploy:
-      resources:
-        limits:
-          cpus: "0.05"
-          memory: "50MB"
+          cpus: "0.1"
+          memory: "20MB"
 
 networks:
   backend:
@@ -91,4 +65,4 @@ networks:
     external: true
 
 volumes:
-  postgres_data:
+  memorydb_data:

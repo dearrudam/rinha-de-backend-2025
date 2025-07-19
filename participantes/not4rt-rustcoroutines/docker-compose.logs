@@ -1,0 +1,209 @@
+
+ haproxy Pulling 
+ backend1 Pulling 
+ backend2 Pulling 
+ worker Pulling 
+ 3da95a905ed5 Already exists 
+ f1a2cd1f0580 Pulling fs layer 
+ b9a7cf901c1d Pulling fs layer 
+ 3da95a905ed5 Already exists 
+ f1a2cd1f0580 Downloading [==================================================>]      92B/92B
+ f1a2cd1f0580 Verifying Checksum 
+ f1a2cd1f0580 Download complete 
+ f1a2cd1f0580 Extracting [==================================================>]      92B/92B
+ f1a2cd1f0580 Extracting [==================================================>]      92B/92B
+ f1a2cd1f0580 Pulling fs layer 
+ b9a7cf901c1d Pulling fs layer 
+ f1a2cd1f0580 Extracting [==================================================>]      92B/92B
+ f1a2cd1f0580 Pull complete 
+ f1a2cd1f0580 Pull complete 
+ 3da95a905ed5 Already exists 
+ f1a2cd1f0580 Already exists 
+ b9a7cf901c1d Pulling fs layer 
+ 9824c27679d3 Already exists 
+ ce41a4059e78 Pulling fs layer 
+ 8aa31f8e0fa4 Pulling fs layer 
+ 928f1ed4a865 Pulling fs layer 
+ c72bcecc850e Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ c72bcecc850e Waiting 
+ 4f4fb700ef54 Waiting 
+ 928f1ed4a865 Waiting 
+ b9a7cf901c1d Downloading [>                                                  ]  16.43kB/1.518MB
+ b9a7cf901c1d Downloading [>                                                  ]  16.43kB/1.518MB
+ b9a7cf901c1d Downloading [>                                                  ]  16.43kB/1.518MB
+ b9a7cf901c1d Verifying Checksum 
+ b9a7cf901c1d Download complete 
+ b9a7cf901c1d Verifying Checksum 
+ b9a7cf901c1d Download complete 
+ b9a7cf901c1d Download complete 
+ b9a7cf901c1d Extracting [=>                                                 ]  32.77kB/1.518MB
+ b9a7cf901c1d Extracting [=>                                                 ]  32.77kB/1.518MB
+ b9a7cf901c1d Extracting [=>                                                 ]  32.77kB/1.518MB
+ b9a7cf901c1d Extracting [==================================================>]  1.518MB/1.518MB
+ b9a7cf901c1d Extracting [==================================================>]  1.518MB/1.518MB
+ b9a7cf901c1d Extracting [==================================================>]  1.518MB/1.518MB
+ b9a7cf901c1d Pull complete 
+ b9a7cf901c1d Pull complete 
+ b9a7cf901c1d Pull complete 
+ 8aa31f8e0fa4 Downloading [================================================>  ]     935B/963B
+ 8aa31f8e0fa4 Download complete 
+ worker Pulled 
+ ce41a4059e78 Downloading [>                                                  ]  4.107kB/282.4kB
+ ce41a4059e78 Download complete 
+ ce41a4059e78 Extracting [=====>                                             ]  32.77kB/282.4kB
+ backend1 Pulled 
+ ce41a4059e78 Extracting [==================================================>]  282.4kB/282.4kB
+ ce41a4059e78 Extracting [==================================================>]  282.4kB/282.4kB
+ backend2 Pulled 
+ ce41a4059e78 Pull complete 
+ 8aa31f8e0fa4 Extracting [==================================================>]     963B/963B
+ 8aa31f8e0fa4 Extracting [==================================================>]     963B/963B
+ 928f1ed4a865 Downloading [>                                                  ]    111kB/10.99MB
+ 8aa31f8e0fa4 Pull complete 
+ 928f1ed4a865 Downloading [============================================>      ]  9.788MB/10.99MB
+ 928f1ed4a865 Verifying Checksum 
+ 928f1ed4a865 Download complete 
+ 928f1ed4a865 Extracting [>                                                  ]  131.1kB/10.99MB
+ c72bcecc850e Downloading [==================================================>]     442B/442B
+ c72bcecc850e Verifying Checksum 
+ c72bcecc850e Download complete 
+ 928f1ed4a865 Extracting [=================================>                 ]  7.471MB/10.99MB
+ 928f1ed4a865 Extracting [==================================================>]  10.99MB/10.99MB
+ 928f1ed4a865 Extracting [==================================================>]  10.99MB/10.99MB
+ 928f1ed4a865 Pull complete 
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ c72bcecc850e Extracting [==================================================>]     442B/442B
+ c72bcecc850e Extracting [==================================================>]     442B/442B
+ c72bcecc850e Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ haproxy Pulled 
+ Network not4rt-rustcoroutines_backend  Creating
+ Network not4rt-rustcoroutines_backend  Created
+ Container not4rt-rustcoroutines-postgres-1  Creating
+ Container not4rt-rustcoroutines-postgres-1  Created
+ Container not4rt-rustcoroutines-backend1-1  Creating
+ Container not4rt-rustcoroutines-worker-1  Creating
+ Container not4rt-rustcoroutines-backend2-1  Creating
+ Container not4rt-rustcoroutines-worker-1  Created
+ Container not4rt-rustcoroutines-backend1-1  Created
+ Container not4rt-rustcoroutines-backend2-1  Created
+ Container not4rt-rustcoroutines-haproxy-1  Creating
+ Container not4rt-rustcoroutines-haproxy-1  Created
+Attaching to backend1-1, backend2-1, haproxy-1, postgres-1, worker-1
+postgres-1  | The files belonging to this database system will be owned by user "postgres".
+postgres-1  | This user must also own the server process.
+postgres-1  | 
+postgres-1  | The database cluster will be initialized with locale "en_US.utf8".
+postgres-1  | The default database encoding has accordingly been set to "UTF8".
+postgres-1  | The default text search configuration will be set to "english".
+postgres-1  | 
+postgres-1  | Data page checksums are disabled.
+postgres-1  | 
+postgres-1  | fixing permissions on existing directory /var/lib/postgresql/data ... ok
+postgres-1  | creating subdirectories ... ok
+postgres-1  | selecting dynamic shared memory implementation ... posix
+postgres-1  | selecting default "max_connections" ... 100
+postgres-1  | selecting default "shared_buffers" ... 128MB
+postgres-1  | selecting default time zone ... UTC
+postgres-1  | creating configuration files ... ok
+postgres-1  | running bootstrap script ... ok
+postgres-1  | sh: locale: not found
+postgres-1  | 2025-07-18 04:08:14.289 UTC [35] WARNING:  no usable system locales were found
+postgres-1  | performing post-bootstrap initialization ... ok
+postgres-1  | syncing data to disk ... ok
+postgres-1  | 
+postgres-1  | 
+postgres-1  | Success. You can now start the database server using:
+postgres-1  | 
+postgres-1  |     pg_ctl -D /var/lib/postgresql/data -l logfile start
+postgres-1  | 
+postgres-1  | initdb: warning: enabling "trust" authentication for local connections
+postgres-1  | initdb: hint: You can change this by editing pg_hba.conf or using the option -A, or --auth-local and --auth-host, the next time you run initdb.
+postgres-1  | waiting for server to start....2025-07-18 04:08:15.484 UTC [41] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1  | 2025-07-18 04:08:15.484 UTC [41] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-07-18 04:08:15.486 UTC [44] LOG:  database system was shut down at 2025-07-18 04:08:15 UTC
+postgres-1  | 2025-07-18 04:08:15.489 UTC [41] LOG:  database system is ready to accept connections
+postgres-1  |  done
+postgres-1  | server started
+postgres-1  | CREATE DATABASE
+postgres-1  | 
+postgres-1  | 
+postgres-1  | /usr/local/bin/docker-entrypoint.sh: ignoring /docker-entrypoint-initdb.d/*
+postgres-1  | 
+postgres-1  | waiting for server to shut down....2025-07-18 04:08:15.611 UTC [41] LOG:  received fast shutdown request
+postgres-1  | 2025-07-18 04:08:15.611 UTC [41] LOG:  aborting any active transactions
+postgres-1  | 2025-07-18 04:08:15.615 UTC [41] LOG:  background worker "logical replication launcher" (PID 47) exited with exit code 1
+postgres-1  | 2025-07-18 04:08:15.621 UTC [42] LOG:  shutting down
+postgres-1  | 2025-07-18 04:08:15.621 UTC [42] LOG:  checkpoint starting: shutdown immediate
+postgres-1  | 2025-07-18 04:08:15.628 UTC [42] LOG:  checkpoint complete: wrote 925 buffers (5.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.007 s, sync=0.001 s, total=0.008 s; sync files=0, longest=0.000 s, average=0.000 s; distance=4254 kB, estimate=4254 kB; lsn=0/1914D58, redo lsn=0/1914D58
+postgres-1  | 2025-07-18 04:08:15.687 UTC [41] LOG:  database system is shut down
+postgres-1  |  done
+postgres-1  | server stopped
+postgres-1  | 
+postgres-1  | PostgreSQL init process complete; ready for start up.
+postgres-1  | 
+postgres-1  | 2025-07-18 04:08:15.729 UTC [1] LOG:  starting PostgreSQL 17.5 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres-1  | 2025-07-18 04:08:15.729 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres-1  | 2025-07-18 04:08:15.729 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres-1  | 2025-07-18 04:08:15.730 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres-1  | 2025-07-18 04:08:15.732 UTC [57] LOG:  database system was shut down at 2025-07-18 04:08:15 UTC
+postgres-1  | 2025-07-18 04:08:15.735 UTC [1] LOG:  database system is ready to accept connections
+worker-1    | [src/main.rs:110:5] &num_cpus = 1
+worker-1    | [src/main.rs:111:5] &db_url = "postgres://payments_user:payments_pass@postgres:5432/payments_db"
+worker-1    | [src/main.rs:112:5] &port = "8080"
+worker-1    | [src/main.rs:113:5] &default_processor_url = "http://payment-processor-default:8080"
+worker-1    | [src/main.rs:114:5] &fallback_processor_url = "http://payment-processor-fallback:8080"
+backend2-1  | [src/main.rs:110:5] &num_cpus = 1
+backend2-1  | [src/main.rs:111:5] &db_url = "postgres://payments_user:payments_pass@postgres:5432/payments_db"
+backend2-1  | [src/main.rs:112:5] &port = "8080"
+backend2-1  | [src/main.rs:113:5] &default_processor_url = "http://payment-processor-default:8080"
+backend2-1  | [src/main.rs:114:5] &fallback_processor_url = "http://payment-processor-fallback:8080"
+postgres-1  | 2025-07-18 04:08:19.135 UTC [69] ERROR:  duplicate key value violates unique constraint "pg_class_relname_nsp_index"
+postgres-1  | 2025-07-18 04:08:19.135 UTC [69] DETAIL:  Key (relname, relnamespace)=(idx_payments_non_null_processor, 2200) already exists.
+postgres-1  | 2025-07-18 04:08:19.135 UTC [69] STATEMENT:  CREATE INDEX IF NOT EXISTS idx_payments_non_null_processor ON payments (processor, requested_at);
+postgres-1  | 2025-07-18 04:08:19.136 UTC [69] ERROR:  duplicate key value violates unique constraint "pg_class_relname_nsp_index"
+postgres-1  | 2025-07-18 04:08:19.136 UTC [69] DETAIL:  Key (relname, relnamespace)=(idx_last_check, 2200) already exists.
+postgres-1  | 2025-07-18 04:08:19.136 UTC [69] STATEMENT:  CREATE INDEX IF NOT EXISTS idx_last_check ON health_checks(last_check);
+backend2-1  | Database initialized successfully
+backend2-1  | Starting HTTP server on port 8080
+worker-1    | Database initialized successfully
+worker-1    | Starting health checker...
+worker-1    | Starting workers...
+backend1-1  | [src/main.rs:110:5] &num_cpus = 1
+backend1-1  | [src/main.rs:111:5] &db_url = "postgres://payments_user:payments_pass@postgres:5432/payments_db"
+backend1-1  | [src/main.rs:112:5] &port = "8080"
+backend1-1  | [src/main.rs:113:5] &default_processor_url = "http://payment-processor-default:8080"
+backend1-1  | [src/main.rs:114:5] &fallback_processor_url = "http://payment-processor-fallback:8080"
+backend1-1  | Database initialized successfully
+backend1-1  | Starting HTTP server on port 8080
+worker-1    | Started only worker mode...
+worker-1    | Worker 0 started
+haproxy-1   | [NOTICE]   (1) : haproxy version is 3.2.3-1844da7
+haproxy-1   | [WARNING]  (1) : missing timeouts for frontend 'api_frontend'.
+haproxy-1   |    | While not properly invalid, you will certainly encounter various problems
+haproxy-1   |    | with such a configuration. To fix this, please ensure that all following
+haproxy-1   |    | timeouts are set to a non-zero value: 'client', 'connect', 'server'.
+haproxy-1   | [WARNING]  (1) : missing timeouts for backend 'api_backend'.
+haproxy-1   |    | While not properly invalid, you will certainly encounter various problems
+haproxy-1   |    | with such a configuration. To fix this, please ensure that all following
+haproxy-1   |    | timeouts are set to a non-zero value: 'client', 'connect', 'server'.
+haproxy-1   | [WARNING]  (1) : Proxy api_frontend stopped (cumulated conns: FE: 553, BE: 0).
+haproxy-1   | [WARNING]  (1) : Proxy api_backend stopped (cumulated conns: FE: 0, BE: 553).
+[Khaproxy-1 exited with code 0
+[Kworker-1 exited with code 137
+[Kbackend1-1 exited with code 137
+[Kbackend2-1 exited with code 137
+postgres-1  | 2025-07-18 04:09:41.550 UTC [1] LOG:  received fast shutdown request
+postgres-1  | 2025-07-18 04:09:41.550 UTC [1] LOG:  aborting any active transactions
+postgres-1  | 2025-07-18 04:09:41.553 UTC [1] LOG:  background worker "logical replication launcher" (PID 60) exited with exit code 1
+postgres-1  | 2025-07-18 04:09:41.556 UTC [55] LOG:  shutting down
+postgres-1  | 2025-07-18 04:09:41.556 UTC [55] LOG:  checkpoint starting: shutdown immediate
+postgres-1  | 2025-07-18 04:09:41.559 UTC [55] LOG:  checkpoint complete: wrote 442 buffers (2.7%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.001 s, total=0.004 s; sync files=0, longest=0.000 s, average=0.000 s; distance=1310 kB, estimate=1310 kB; lsn=0/1A5C608, redo lsn=0/1A5C608
+postgres-1  | 2025-07-18 04:09:41.564 UTC [1] LOG:  database system is shut down
+[Kpostgres-1 exited with code 0
+log truncated at line 1000

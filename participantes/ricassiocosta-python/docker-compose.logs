@@ -1,29 +1,313 @@
 
+ backend-api-2 Pulling 
+ worker-light Pulling 
+ worker-heavy Pulling 
+ health-check Pulling 
+ backend-api-1 Pulling 
+ 9824c27679d3 Already exists 
+ fa0cfe9de208 Pulling fs layer 
+ 21e4653e6a47 Pulling fs layer 
+ 111c49455a02 Pulling fs layer 
+ 351cee634ec8 Pulling fs layer 
+ f7ca6508e804 Pulling fs layer 
+ 521c4414b004 Pulling fs layer 
+ 5ef8de5668a3 Pulling fs layer 
+ 351cee634ec8 Waiting 
+ f7ca6508e804 Waiting 
+ 521c4414b004 Waiting 
+ 5ef8de5668a3 Waiting 
+ 9824c27679d3 Already exists 
+ fa0cfe9de208 Pulling fs layer 
+ 21e4653e6a47 Pulling fs layer 
+ 111c49455a02 Pulling fs layer 
+ 351cee634ec8 Pulling fs layer 
+ f7ca6508e804 Pulling fs layer 
+ 521c4414b004 Pulling fs layer 
+ 5ef8de5668a3 Pulling fs layer 
+ 5ef8de5668a3 Waiting 
+ f7ca6508e804 Waiting 
+ 351cee634ec8 Waiting 
+ 521c4414b004 Waiting 
+ 111c49455a02 Verifying Checksum 
+ 111c49455a02 Download complete 
+ 111c49455a02 Downloading [==================================================>]     250B/250B
+ 111c49455a02 Verifying Checksum 
+ 111c49455a02 Download complete 
+ 21e4653e6a47 Downloading [>                                                  ]  139.5kB/13.68MB
+ 21e4653e6a47 Downloading [>                                                  ]  139.5kB/13.68MB
+ fa0cfe9de208 Downloading [>                                                  ]  5.476kB/447.7kB
+ fa0cfe9de208 Downloading [>                                                  ]  5.476kB/447.7kB
+ fa0cfe9de208 Download complete 
+ fa0cfe9de208 Download complete 
+ fa0cfe9de208 Extracting [===>                                               ]  32.77kB/447.7kB
+ fa0cfe9de208 Extracting [===>                                               ]  32.77kB/447.7kB
+ 21e4653e6a47 Downloading [=============================>                     ]  8.068MB/13.68MB
+ 21e4653e6a47 Downloading [=============================>                     ]  8.068MB/13.68MB
+ 21e4653e6a47 Verifying Checksum 
+ 21e4653e6a47 Download complete 
+ 21e4653e6a47 Download complete 
+ fa0cfe9de208 Extracting [==================================================>]  447.7kB/447.7kB
+ fa0cfe9de208 Extracting [==================================================>]  447.7kB/447.7kB
+ fa0cfe9de208 Extracting [==================================================>]  447.7kB/447.7kB
+ fa0cfe9de208 Extracting [==================================================>]  447.7kB/447.7kB
+ fa0cfe9de208 Pull complete 
+ fa0cfe9de208 Pull complete 
+ 21e4653e6a47 Extracting [>                                                  ]  163.8kB/13.68MB
+ 21e4653e6a47 Extracting [>                                                  ]  163.8kB/13.68MB
+ 9824c27679d3 Already exists 
+ fa0cfe9de208 Already exists 
+ 21e4653e6a47 Pulling fs layer 
+ 111c49455a02 Pulling fs layer 
+ 351cee634ec8 Pulling fs layer 
+ f7ca6508e804 Pulling fs layer 
+ 521c4414b004 Pulling fs layer 
+ 5ef8de5668a3 Pulling fs layer 
+ 5ef8de5668a3 Waiting 
+ 21e4653e6a47 Extracting [>                                                  ]  163.8kB/13.68MB
+ 351cee634ec8 Waiting 
+ 111c49455a02 Download complete 
+ f7ca6508e804 Waiting 
+ 521c4414b004 Waiting 
+ 21e4653e6a47 Extracting [==========>                                        ]  2.785MB/13.68MB
+ 21e4653e6a47 Extracting [==========>                                        ]  2.785MB/13.68MB
+ 21e4653e6a47 Extracting [==========>                                        ]  2.785MB/13.68MB
+ f7ca6508e804 Download complete 
+ f7ca6508e804 Download complete 
+ f7ca6508e804 Download complete 
+ 9824c27679d3 Already exists 
+ fa0cfe9de208 Already exists 
+ 21e4653e6a47 Pulling fs layer 
+ 111c49455a02 Pulling fs layer 
+ 351cee634ec8 Pulling fs layer 
+ f7ca6508e804 Pulling fs layer 
+ 521c4414b004 Pulling fs layer 
+ 5ef8de5668a3 Pulling fs layer 
+ 5ef8de5668a3 Waiting 
+ 351cee634ec8 Waiting 
+ 21e4653e6a47 Extracting [==========>                                        ]  2.785MB/13.68MB
+ 111c49455a02 Download complete 
+ f7ca6508e804 Download complete 
+ 521c4414b004 Waiting 
+ 21e4653e6a47 Extracting [=====================>                             ]  5.898MB/13.68MB
+ 21e4653e6a47 Extracting [=====================>                             ]  5.898MB/13.68MB
+ 21e4653e6a47 Extracting [=====================>                             ]  5.898MB/13.68MB
+ 21e4653e6a47 Extracting [=====================>                             ]  5.898MB/13.68MB
+ 21e4653e6a47 Extracting [==================================>                ]  9.339MB/13.68MB
+ 21e4653e6a47 Extracting [==================================>                ]  9.339MB/13.68MB
+ 21e4653e6a47 Extracting [==================================>                ]  9.339MB/13.68MB
+ 21e4653e6a47 Extracting [==================================>                ]  9.339MB/13.68MB
+ 21e4653e6a47 Extracting [==========================================>        ]  11.63MB/13.68MB
+ 21e4653e6a47 Extracting [==========================================>        ]  11.63MB/13.68MB
+ 21e4653e6a47 Extracting [==========================================>        ]  11.63MB/13.68MB
+ 21e4653e6a47 Extracting [==========================================>        ]  11.63MB/13.68MB
+ 9824c27679d3 Already exists 
+ fa0cfe9de208 Already exists 
+ 21e4653e6a47 Pulling fs layer 
+ 111c49455a02 Pulling fs layer 
+ 351cee634ec8 Pulling fs layer 
+ f7ca6508e804 Pulling fs layer 
+ 521c4414b004 Pulling fs layer 
+ 5ef8de5668a3 Pulling fs layer 
+ 5ef8de5668a3 Waiting 
+ 351cee634ec8 Waiting 
+ 21e4653e6a47 Extracting [==========================================>        ]  11.63MB/13.68MB
+ f7ca6508e804 Download complete 
+ 111c49455a02 Download complete 
+ 521c4414b004 Waiting 
+ 21e4653e6a47 Extracting [===============================================>   ]  13.11MB/13.68MB
+ 21e4653e6a47 Extracting [===============================================>   ]  13.11MB/13.68MB
+ 21e4653e6a47 Extracting [===============================================>   ]  13.11MB/13.68MB
+ 21e4653e6a47 Extracting [===============================================>   ]  13.11MB/13.68MB
+ 21e4653e6a47 Extracting [===============================================>   ]  13.11MB/13.68MB
+ 21e4653e6a47 Extracting [==================================================>]  13.68MB/13.68MB
+ 21e4653e6a47 Extracting [==================================================>]  13.68MB/13.68MB
+ 21e4653e6a47 Extracting [==================================================>]  13.68MB/13.68MB
+ 21e4653e6a47 Extracting [==================================================>]  13.68MB/13.68MB
+ 21e4653e6a47 Extracting [==================================================>]  13.68MB/13.68MB
+ 21e4653e6a47 Pull complete 
+ 21e4653e6a47 Pull complete 
+ 21e4653e6a47 Pull complete 
+ 21e4653e6a47 Pull complete 
+ 21e4653e6a47 Pull complete 
+ 111c49455a02 Extracting [==================================================>]     250B/250B
+ 111c49455a02 Extracting [==================================================>]     250B/250B
+ 111c49455a02 Extracting [==================================================>]     250B/250B
+ 111c49455a02 Extracting [==================================================>]     250B/250B
+ 111c49455a02 Extracting [==================================================>]     250B/250B
+ 111c49455a02 Extracting [==================================================>]     250B/250B
+ 111c49455a02 Extracting [==================================================>]     250B/250B
+ 111c49455a02 Extracting [==================================================>]     250B/250B
+ 111c49455a02 Extracting [==================================================>]     250B/250B
+ 111c49455a02 Extracting [==================================================>]     250B/250B
+ 111c49455a02 Pull complete 
+ 111c49455a02 Pull complete 
+ 111c49455a02 Pull complete 
+ 111c49455a02 Pull complete 
+ 111c49455a02 Pull complete 
+ 351cee634ec8 Downloading [==================================================>]      92B/92B
+ 351cee634ec8 Downloading [==================================================>]      92B/92B
+ 351cee634ec8 Download complete 
+ 351cee634ec8 Verifying Checksum 
+ 351cee634ec8 Download complete 
+ 351cee634ec8 Verifying Checksum 
+ 351cee634ec8 Downloading [==================================================>]      92B/92B
+ 351cee634ec8 Download complete 
+ 351cee634ec8 Extracting [==================================================>]      92B/92B
+ 351cee634ec8 Verifying Checksum 
+ 351cee634ec8 Download complete 
+ 351cee634ec8 Download complete 
+ 351cee634ec8 Extracting [==================================================>]      92B/92B
+ 351cee634ec8 Extracting [==================================================>]      92B/92B
+ 351cee634ec8 Extracting [==================================================>]      92B/92B
+ 351cee634ec8 Extracting [==================================================>]      92B/92B
+ 351cee634ec8 Extracting [==================================================>]      92B/92B
+ 351cee634ec8 Extracting [==================================================>]      92B/92B
+ 351cee634ec8 Extracting [==================================================>]      92B/92B
+ 351cee634ec8 Extracting [==================================================>]      92B/92B
+ 351cee634ec8 Extracting [==================================================>]      92B/92B
+ 351cee634ec8 Pull complete 
+ 351cee634ec8 Pull complete 
+ 351cee634ec8 Pull complete 
+ 351cee634ec8 Pull complete 
+ 351cee634ec8 Pull complete 
+ f7ca6508e804 Extracting [==================================================>]     293B/293B
+ f7ca6508e804 Extracting [==================================================>]     293B/293B
+ f7ca6508e804 Extracting [==================================================>]     293B/293B
+ f7ca6508e804 Extracting [==================================================>]     293B/293B
+ f7ca6508e804 Extracting [==================================================>]     293B/293B
+ f7ca6508e804 Extracting [==================================================>]     293B/293B
+ f7ca6508e804 Extracting [==================================================>]     293B/293B
+ f7ca6508e804 Extracting [==================================================>]     293B/293B
+ f7ca6508e804 Extracting [==================================================>]     293B/293B
+ f7ca6508e804 Extracting [==================================================>]     293B/293B
+ f7ca6508e804 Pull complete 
+ f7ca6508e804 Pull complete 
+ f7ca6508e804 Pull complete 
+ f7ca6508e804 Pull complete 
+ f7ca6508e804 Pull complete 
+ 521c4414b004 Downloading [>                                                  ]    127kB/12.45MB
+ 521c4414b004 Downloading [>                                                  ]    127kB/12.45MB
+ 521c4414b004 Downloading [>                                                  ]    127kB/12.45MB
+ 521c4414b004 Downloading [>                                                  ]    127kB/12.45MB
+ 521c4414b004 Downloading [>                                                  ]    127kB/12.45MB
+ 521c4414b004 Downloading [=====>                                             ]  1.397MB/12.45MB
+ 521c4414b004 Downloading [=====>                                             ]  1.397MB/12.45MB
+ 521c4414b004 Downloading [=====>                                             ]  1.397MB/12.45MB
+ 521c4414b004 Downloading [=====>                                             ]  1.397MB/12.45MB
+ 521c4414b004 Downloading [=====>                                             ]  1.397MB/12.45MB
+ 5ef8de5668a3 Downloading [===>                                               ]  1.369kB/22.02kB
+ 5ef8de5668a3 Downloading [===>                                               ]  1.369kB/22.02kB
+ 5ef8de5668a3 Downloading [===>                                               ]  1.369kB/22.02kB
+ 5ef8de5668a3 Downloading [===>                                               ]  1.369kB/22.02kB
+ 5ef8de5668a3 Downloading [===>                                               ]  1.369kB/22.02kB
+ 5ef8de5668a3 Verifying Checksum 
+ 5ef8de5668a3 Verifying Checksum 
+ 5ef8de5668a3 Download complete 
+ 5ef8de5668a3 Download complete 
+ 5ef8de5668a3 Download complete 
+ 5ef8de5668a3 Verifying Checksum 
+ 5ef8de5668a3 Download complete 
+ 5ef8de5668a3 Verifying Checksum 
+ 5ef8de5668a3 Download complete 
+ 521c4414b004 Downloading [===============>                                   ]  3.867MB/12.45MB
+ 521c4414b004 Downloading [===============>                                   ]  3.867MB/12.45MB
+ 521c4414b004 Downloading [===============>                                   ]  3.867MB/12.45MB
+ 521c4414b004 Downloading [===============>                                   ]  3.867MB/12.45MB
+ 521c4414b004 Downloading [===============>                                   ]  3.867MB/12.45MB
+ 521c4414b004 Downloading [==================================>                ]  8.602MB/12.45MB
+ 521c4414b004 Downloading [==================================>                ]  8.602MB/12.45MB
+ 521c4414b004 Downloading [==================================>                ]  8.602MB/12.45MB
+ 521c4414b004 Downloading [==================================>                ]  8.602MB/12.45MB
+ 521c4414b004 Downloading [==================================>                ]  8.602MB/12.45MB
+ 521c4414b004 Verifying Checksum 
+ 521c4414b004 Download complete 
+ 521c4414b004 Verifying Checksum 
+ 521c4414b004 Download complete 
+ 521c4414b004 Download complete 
+ 521c4414b004 Verifying Checksum 
+ 521c4414b004 Download complete 
+ 521c4414b004 Verifying Checksum 
+ 521c4414b004 Download complete 
+ 521c4414b004 Extracting [>                                                  ]  131.1kB/12.45MB
+ 521c4414b004 Extracting [>                                                  ]  131.1kB/12.45MB
+ 521c4414b004 Extracting [>                                                  ]  131.1kB/12.45MB
+ 521c4414b004 Extracting [>                                                  ]  131.1kB/12.45MB
+ 521c4414b004 Extracting [>                                                  ]  131.1kB/12.45MB
+ 521c4414b004 Extracting [=====>                                             ]  1.442MB/12.45MB
+ 521c4414b004 Extracting [=====>                                             ]  1.442MB/12.45MB
+ 521c4414b004 Extracting [=====>                                             ]  1.442MB/12.45MB
+ 521c4414b004 Extracting [=====>                                             ]  1.442MB/12.45MB
+ 521c4414b004 Extracting [=====>                                             ]  1.442MB/12.45MB
+ 521c4414b004 Extracting [=============>                                     ]  3.408MB/12.45MB
+ 521c4414b004 Extracting [=============>                                     ]  3.408MB/12.45MB
+ 521c4414b004 Extracting [=============>                                     ]  3.408MB/12.45MB
+ 521c4414b004 Extracting [=============>                                     ]  3.408MB/12.45MB
+ 521c4414b004 Extracting [=============>                                     ]  3.408MB/12.45MB
+ 521c4414b004 Extracting [===========================>                       ]  6.947MB/12.45MB
+ 521c4414b004 Extracting [===========================>                       ]  6.947MB/12.45MB
+ 521c4414b004 Extracting [===========================>                       ]  6.947MB/12.45MB
+ 521c4414b004 Extracting [===========================>                       ]  6.947MB/12.45MB
+ 521c4414b004 Extracting [===========================>                       ]  6.947MB/12.45MB
+ 521c4414b004 Extracting [=================================>                 ]  8.389MB/12.45MB
+ 521c4414b004 Extracting [=================================>                 ]  8.389MB/12.45MB
+ 521c4414b004 Extracting [=================================>                 ]  8.389MB/12.45MB
+ 521c4414b004 Extracting [=================================>                 ]  8.389MB/12.45MB
+ 521c4414b004 Extracting [=================================>                 ]  8.389MB/12.45MB
+ 521c4414b004 Extracting [==================================================>]  12.45MB/12.45MB
+ 521c4414b004 Extracting [==================================================>]  12.45MB/12.45MB
+ 521c4414b004 Extracting [==================================================>]  12.45MB/12.45MB
+ 521c4414b004 Extracting [==================================================>]  12.45MB/12.45MB
+ 521c4414b004 Extracting [==================================================>]  12.45MB/12.45MB
+ 521c4414b004 Pull complete 
+ 521c4414b004 Pull complete 
+ 521c4414b004 Pull complete 
+ 521c4414b004 Pull complete 
+ 521c4414b004 Pull complete 
+ 5ef8de5668a3 Extracting [==================================================>]  22.02kB/22.02kB
+ 5ef8de5668a3 Extracting [==================================================>]  22.02kB/22.02kB
+ 5ef8de5668a3 Extracting [==================================================>]  22.02kB/22.02kB
+ 5ef8de5668a3 Extracting [==================================================>]  22.02kB/22.02kB
+ 5ef8de5668a3 Extracting [==================================================>]  22.02kB/22.02kB
+ 5ef8de5668a3 Extracting [==================================================>]  22.02kB/22.02kB
+ 5ef8de5668a3 Extracting [==================================================>]  22.02kB/22.02kB
+ 5ef8de5668a3 Extracting [==================================================>]  22.02kB/22.02kB
+ 5ef8de5668a3 Extracting [==================================================>]  22.02kB/22.02kB
+ 5ef8de5668a3 Extracting [==================================================>]  22.02kB/22.02kB
+ 5ef8de5668a3 Pull complete 
+ 5ef8de5668a3 Pull complete 
+ 5ef8de5668a3 Pull complete 
+ 5ef8de5668a3 Pull complete 
+ 5ef8de5668a3 Pull complete 
+ backend-api-2 Pulled 
+ health-check Pulled 
+ worker-heavy Pulled 
+ worker-light Pulled 
+ backend-api-1 Pulled 
  Network ricassiocosta-python_backend  Creating
  Network ricassiocosta-python_backend  Created
  Container ricassiocosta-python-redis-1  Creating
  Container ricassiocosta-python-redis-1  Created
- Container ricassiocosta-python-worker-heavy-1  Creating
- Container ricassiocosta-python-backend-api-1-1  Creating
- Container ricassiocosta-python-worker-light-1  Creating
  Container ricassiocosta-python-backend-api-2-1  Creating
+ Container ricassiocosta-python-worker-light-1  Creating
  Container ricassiocosta-python-health-check-1  Creating
+ Container ricassiocosta-python-backend-api-1-1  Creating
+ Container ricassiocosta-python-worker-heavy-1  Creating
+ Container ricassiocosta-python-health-check-1  Created
  Container ricassiocosta-python-worker-light-1  Created
- Container ricassiocosta-python-backend-api-1-1  Created
  Container ricassiocosta-python-worker-heavy-1  Created
  Container ricassiocosta-python-backend-api-2-1  Created
+ Container ricassiocosta-python-backend-api-1-1  Created
  Container ricassiocosta-python-nginx-1  Creating
- Container ricassiocosta-python-health-check-1  Created
  Container ricassiocosta-python-nginx-1  Created
 Attaching to backend-api-1-1, backend-api-2-1, health-check-1, nginx-1, redis-1, worker-heavy-1, worker-light-1
-redis-1          | 1:C 14 Jul 2025 22:59:13.531 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
-redis-1          | 1:C 14 Jul 2025 22:59:13.531 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
-redis-1          | 1:C 14 Jul 2025 22:59:13.531 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
-redis-1          | 1:C 14 Jul 2025 22:59:13.531 * Configuration loaded
-redis-1          | 1:M 14 Jul 2025 22:59:13.532 * monotonic clock: POSIX clock_gettime
-redis-1          | 1:M 14 Jul 2025 22:59:13.532 * Running mode=standalone, port=6379.
-redis-1          | 1:M 14 Jul 2025 22:59:13.581 * Server initialized
-redis-1          | 1:M 14 Jul 2025 22:59:13.582 * Ready to accept connections tcp
+redis-1          | 1:C 18 Jul 2025 04:11:19.887 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+redis-1          | 1:C 18 Jul 2025 04:11:19.887 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+redis-1          | 1:C 18 Jul 2025 04:11:19.887 * Redis version=7.4.5, bits=64, commit=00000000, modified=0, pid=1, just started
+redis-1          | 1:C 18 Jul 2025 04:11:19.887 * Configuration loaded
+redis-1          | 1:M 18 Jul 2025 04:11:19.887 * monotonic clock: POSIX clock_gettime
+redis-1          | 1:M 18 Jul 2025 04:11:19.888 * Running mode=standalone, port=6379.
+redis-1          | 1:M 18 Jul 2025 04:11:19.888 * Server initialized
+redis-1          | 1:M 18 Jul 2025 04:11:19.888 * Ready to accept connections tcp
 nginx-1          | /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
 nginx-1          | /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
 nginx-1          | /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
@@ -33,654 +317,685 @@ nginx-1          | /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local
 nginx-1          | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
 nginx-1          | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-1          | /docker-entrypoint.sh: Configuration complete; ready for start up
-worker-heavy-1   | Worker started.
-nginx-1          | 2025/07/14 22:59:16 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.19.0.8:9999/payments-summary", host: "localhost:9999"
-nginx-1          | 2025/07/14 22:59:16 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.19.0.5:9999/payments-summary", host: "localhost:9999"
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:22:59:16 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/7.88.1"
-worker-light-1   | Worker started.
-nginx-1          | 2025/07/14 22:59:21 [error] 30#30: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.19.0.8:9999/payments-summary", host: "localhost:9999"
-nginx-1          | 2025/07/14 22:59:21 [error] 30#30: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.19.0.5:9999/payments-summary", host: "localhost:9999"
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:22:59:21 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/7.88.1"
+worker-heavy-1   | Worker version v0.7.1 started
+nginx-1          | 2025/07/18 04:11:22 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.19.0.5:9999/payments-summary", host: "localhost:9999"
+nginx-1          | 2025/07/18 04:11:22 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.19.0.4:9999/payments-summary", host: "localhost:9999"
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:22 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/7.88.1"
+worker-light-1   | Worker version v0.7.1 started
+nginx-1          | 2025/07/18 04:11:27 [error] 30#30: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.19.0.5:9999/payments-summary", host: "localhost:9999"
+nginx-1          | 2025/07/18 04:11:27 [error] 30#30: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.19.0.4:9999/payments-summary", host: "localhost:9999"
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:27 +0000] "GET /payments-summary HTTP/1.1" 502 157 "-" "curl/7.88.1"
 backend-api-2-1  | INFO:     Started server process [1]
 backend-api-2-1  | INFO:     Waiting for application startup.
 backend-api-2-1  | INFO:     Application startup complete.
 backend-api-2-1  | INFO:     Uvicorn running on http://0.0.0.0:9999 (Press CTRL+C to quit)
+nginx-1          | 2025/07/18 04:11:32 [error] 32#32: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.19.0.5:9999/payments-summary", host: "localhost:9999"
+backend-api-2-1  | INFO:     172.19.0.9:55266 - "GET /payments-summary HTTP/1.1" 200 OK
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:32 +0000] "GET /payments-summary HTTP/1.1" 200 98 "-" "curl/7.88.1"
 backend-api-1-1  | INFO:     Started server process [1]
 backend-api-1-1  | INFO:     Waiting for application startup.
 backend-api-1-1  | INFO:     Application startup complete.
 backend-api-1-1  | INFO:     Uvicorn running on http://0.0.0.0:9999 (Press CTRL+C to quit)
-backend-api-1-1  | INFO:     172.19.0.9:35134 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-1-1  | ERROR:    Exception in ASGI application
-backend-api-1-1  | Traceback (most recent call last):
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-1-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-1-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-1-1  |     return await self.app(scope, receive, send)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-1-1  |     await super().__call__(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-1-1  |     await self.app(scope, receive, _send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-1-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-1-1  |     await route.handle(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-1-1  |     await self.app(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-1-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:22:59:26 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-1-1  |     response = await f(request)
-backend-api-1-1  |                ^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-1-1  |     raw_response = await run_endpoint_function(
-backend-api-1-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-1-1  |     return await dependant.call(**values)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-1-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-1-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  | TypeError: fromisoformat: argument must be str
 health-check-1   | Health check service started.
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 22:59:26.994947
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 22:59:27.244710
-backend-api-1-1  | INFO:     172.19.0.9:60444 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-1-1  | ERROR:    Exception in ASGI application
-backend-api-1-1  | Traceback (most recent call last):
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-1-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-1-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-1-1  |     return await self.app(scope, receive, send)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-1-1  |     await super().__call__(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-1-1  |     await self.app(scope, receive, _send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-1-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-1-1  |     await route.handle(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-1-1  |     await self.app(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-1-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:22:59:31 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-1-1  |     response = await f(request)
-backend-api-1-1  |                ^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-1-1  |     raw_response = await run_endpoint_function(
-backend-api-1-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-1-1  |     return await dependant.call(**values)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-1-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-1-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  | TypeError: fromisoformat: argument must be str
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 22:59:32.401336
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 22:59:32.405537
-backend-api-2-1  | INFO:     172.19.0.9:38122 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-2-1  | ERROR:    Exception in ASGI application
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:22:59:36 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-backend-api-2-1  | Traceback (most recent call last):
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-2-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-2-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-2-1  |     return await self.app(scope, receive, send)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-2-1  |     await super().__call__(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-2-1  |     await self.app(scope, receive, _send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-2-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-2-1  |     await route.handle(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-2-1  |     await self.app(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-2-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-2-1  |     response = await f(request)
-backend-api-2-1  |                ^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-2-1  |     raw_response = await run_endpoint_function(
-backend-api-2-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-2-1  |     return await dependant.call(**values)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-2-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-2-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  | TypeError: fromisoformat: argument must be str
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 22:59:37.446437
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 22:59:37.449243
-backend-api-2-1  | INFO:     172.19.0.9:43186 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-2-1  | ERROR:    Exception in ASGI application
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:22:59:41 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-backend-api-2-1  | Traceback (most recent call last):
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-2-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-2-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-2-1  |     return await self.app(scope, receive, send)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-2-1  |     await super().__call__(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-2-1  |     await self.app(scope, receive, _send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-2-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-2-1  |     await route.handle(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-2-1  |     await self.app(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-2-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-2-1  |     response = await f(request)
-backend-api-2-1  |                ^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-2-1  |     raw_response = await run_endpoint_function(
-backend-api-2-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-2-1  |     return await dependant.call(**values)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-2-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-2-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  | TypeError: fromisoformat: argument must be str
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 22:59:42.452691
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 22:59:42.473594
-backend-api-1-1  | INFO:     172.19.0.9:39780 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-1-1  | ERROR:    Exception in ASGI application
-backend-api-1-1  | Traceback (most recent call last):
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-1-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-1-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-1-1  |     return await self.app(scope, receive, send)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-1-1  |     await super().__call__(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-1-1  |     await self.app(scope, receive, _send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-1-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-1-1  |     await route.handle(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-1-1  |     await self.app(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-1-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-1-1  |     response = await f(request)
-backend-api-1-1  |                ^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-1-1  |     raw_response = await run_endpoint_function(
-backend-api-1-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-1-1  |     return await dependant.call(**values)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-1-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-1-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  | TypeError: fromisoformat: argument must be str
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:22:59:46 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 22:59:47.544904
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 22:59:47.547410
-backend-api-2-1  | INFO:     172.19.0.9:33036 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-2-1  | ERROR:    Exception in ASGI application
-backend-api-2-1  | Traceback (most recent call last):
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-2-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-2-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-2-1  |     return await self.app(scope, receive, send)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-2-1  |     await super().__call__(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-2-1  |     await self.app(scope, receive, _send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-2-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-2-1  |     await route.handle(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-2-1  |     await self.app(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-2-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-2-1  |     response = await f(request)
-backend-api-2-1  |                ^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-2-1  |     raw_response = await run_endpoint_function(
-backend-api-2-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-2-1  |     return await dependant.call(**values)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-2-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-2-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  | TypeError: fromisoformat: argument must be str
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:22:59:51 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 22:59:52.550515
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 22:59:52.553529
-backend-api-1-1  | INFO:     172.19.0.9:38506 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-1-1  | ERROR:    Exception in ASGI application
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:22:59:56 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-backend-api-1-1  | Traceback (most recent call last):
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-1-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-1-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-1-1  |     return await self.app(scope, receive, send)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-1-1  |     await super().__call__(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-1-1  |     await self.app(scope, receive, _send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-1-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-1-1  |     await route.handle(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-1-1  |     await self.app(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-1-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-1-1  |     response = await f(request)
-backend-api-1-1  |                ^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-1-1  |     raw_response = await run_endpoint_function(
-backend-api-1-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-1-1  |     return await dependant.call(**values)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-1-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-1-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  | TypeError: fromisoformat: argument must be str
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 22:59:57.645420
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 22:59:57.648599
-backend-api-2-1  | INFO:     172.19.0.9:45272 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-2-1  | ERROR:    Exception in ASGI application
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:23:00:01 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-backend-api-2-1  | Traceback (most recent call last):
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-2-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-2-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-2-1  |     return await self.app(scope, receive, send)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-2-1  |     await super().__call__(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-2-1  |     await self.app(scope, receive, _send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-2-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-2-1  |     await route.handle(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-2-1  |     await self.app(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-2-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-2-1  |     response = await f(request)
-backend-api-2-1  |                ^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-2-1  |     raw_response = await run_endpoint_function(
-backend-api-2-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-2-1  |     return await dependant.call(**values)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-2-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-2-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  | TypeError: fromisoformat: argument must be str
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 23:00:02.743888
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 23:00:02.747290
-backend-api-1-1  | INFO:     172.19.0.9:48238 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-1-1  | ERROR:    Exception in ASGI application
-backend-api-1-1  | Traceback (most recent call last):
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-1-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-1-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-1-1  |     return await self.app(scope, receive, send)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-1-1  |     await super().__call__(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-1-1  |     await self.app(scope, receive, _send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-1-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-1-1  |     await route.handle(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-1-1  |     await self.app(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-1-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-1-1  |     response = await f(request)
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:23:00:06 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-backend-api-1-1  |                ^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-1-1  |     raw_response = await run_endpoint_function(
-backend-api-1-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-1-1  |     return await dependant.call(**values)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-1-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-1-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  | TypeError: fromisoformat: argument must be str
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 23:00:07.753333
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 23:00:07.773071
-backend-api-2-1  | INFO:     172.19.0.9:57932 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-2-1  | ERROR:    Exception in ASGI application
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:23:00:11 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-backend-api-2-1  | Traceback (most recent call last):
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-2-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-2-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-2-1  |     return await self.app(scope, receive, send)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-2-1  |     await super().__call__(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-2-1  |     await self.app(scope, receive, _send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-2-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-2-1  |     await route.handle(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-2-1  |     await self.app(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-2-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-2-1  |     response = await f(request)
-backend-api-2-1  |                ^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-2-1  |     raw_response = await run_endpoint_function(
-backend-api-2-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-2-1  |     return await dependant.call(**values)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-2-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-2-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  | TypeError: fromisoformat: argument must be str
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 23:00:12.843797
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 23:00:12.872130
-backend-api-1-1  | INFO:     172.19.0.9:50848 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-1-1  | ERROR:    Exception in ASGI application
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:23:00:16 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-backend-api-1-1  | Traceback (most recent call last):
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-1-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-1-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-1-1  |     return await self.app(scope, receive, send)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-1-1  |     await super().__call__(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-1-1  |     await self.app(scope, receive, _send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-1-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-1-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-1-1  |     await route.handle(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-1-1  |     await self.app(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-1-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-1-1  |     raise exc
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-1-1  |     await app(scope, receive, sender)
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-1-1  |     response = await f(request)
-backend-api-1-1  |                ^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-1-1  |     raw_response = await run_endpoint_function(
-backend-api-1-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-1-1  |     return await dependant.call(**values)
-backend-api-1-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-1-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-1-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-1-1  | TypeError: fromisoformat: argument must be str
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 23:00:17.874949
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 23:00:17.877743
-backend-api-2-1  | INFO:     172.19.0.9:48878 - "GET /payments-summary HTTP/1.1" 500 Internal Server Error
-backend-api-2-1  | ERROR:    Exception in ASGI application
-nginx-1          | 172.19.0.1 - - [14/Jul/2025:23:00:22 +0000] "GET /payments-summary HTTP/1.1" 500 21 "-" "curl/7.88.1"
-backend-api-2-1  | Traceback (most recent call last):
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
-backend-api-2-1  |     result = await app(  # type: ignore[func-returns-value]
-backend-api-2-1  |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
-backend-api-2-1  |     return await self.app(scope, receive, send)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/applications.py", line 1054, in __call__
-backend-api-2-1  |     await super().__call__(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/applications.py", line 112, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 187, in __call__
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/errors.py", line 165, in __call__
-backend-api-2-1  |     await self.app(scope, receive, _send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
-backend-api-2-1  |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 714, in __call__
-backend-api-2-1  |     await self.middleware_stack(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 734, in app
-backend-api-2-1  |     await route.handle(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
-backend-api-2-1  |     await self.app(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
-backend-api-2-1  |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
-backend-api-2-1  |     raise exc
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
-backend-api-2-1  |     await app(scope, receive, sender)
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
-backend-api-2-1  |     response = await f(request)
-backend-api-2-1  |                ^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
-backend-api-2-1  |     raw_response = await run_endpoint_function(
-backend-api-2-1  |                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/usr/local/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
-backend-api-2-1  |     return await dependant.call(**values)
-backend-api-2-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  |   File "/app/app/main.py", line 18, in payments_summary
-backend-api-2-1  |     return await get_summary(datetime.fromisoformat(from_), datetime.fromisoformat(to))
-backend-api-2-1  |                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-backend-api-2-1  | TypeError: fromisoformat: argument must be str
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 23:00:22.880744
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 23:00:22.972357
-[Knginx-1 exited with code 0
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 23:00:27.976071
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 23:00:27.978386
-backend-api-1-1  | INFO:     Shutting down
-backend-api-2-1  | INFO:     Shutting down
-backend-api-1-1  | INFO:     Waiting for application shutdown.
-backend-api-2-1  | INFO:     Waiting for application shutdown.
-backend-api-2-1  | INFO:     Application shutdown complete.
-backend-api-1-1  | INFO:     Application shutdown complete.
-backend-api-1-1  | INFO:     Finished server process [1]
-backend-api-2-1  | INFO:     Finished server process [1]
-[Kbackend-api-1-1 exited with code 0
-[Kbackend-api-2-1 exited with code 0
-health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-14 23:00:32.981354
-health-check-1   | Checking health of http://payment-processor-fallback:8080 at 2025-07-14 23:00:33.072475
-[Kworker-heavy-1 exited with code 137
-[Khealth-check-1 exited with code 137
-[Kworker-light-1 exited with code 137
-redis-1          | 1:signal-handler (1752534037) Received SIGTERM scheduling shutdown...
-redis-1          | 1:M 14 Jul 2025 23:00:38.048 * User requested shutdown...
-redis-1          | 1:M 14 Jul 2025 23:00:38.048 # Redis is now ready to exit, bye bye...
-[Kredis-1 exited with code 0
+health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-18 04:11:33.482591
+backend-api-1-1  | INFO:     172.19.0.9:41570 - "POST /purge-payments HTTP/1.1" 200 OK
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:38 +0000] "POST /purge-payments HTTP/1.1" 200 28 "-" "Grafana k6/1.1.0"
+health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-18 04:11:38.658085
+backend-api-2-1  | INFO:     172.19.0.9:48646 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:38 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48660 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:38 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41576 - "GET /payments-summary?from=2025-07-18T04:11:28.682Z&to=2025-07-18T04:11:38.582Z HTTP/1.1" 200 OK
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:38 +0000] "GET /payments-summary?from=2025-07-18T04:11:28.682Z&to=2025-07-18T04:11:38.582Z HTTP/1.1" 200 98 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48674 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:38 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41588 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48688 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41590 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48702 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41600 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48718 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41606 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48724 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41608 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48732 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41620 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48736 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41624 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:39 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48748 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41636 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48750 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41648 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48766 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48776 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41656 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48778 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48782 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41658 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41674 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48796 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48808 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41676 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41684 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48824 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41688 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48834 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48840 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41700 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41712 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48848 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:40 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41720 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48858 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48874 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41728 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41732 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48886 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41744 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48888 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41750 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48900 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48902 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41754 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41766 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48904 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41768 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48912 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48914 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41784 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41800 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48922 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48924 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41806 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41814 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48926 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48940 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41824 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41828 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48952 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48954 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41834 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:41 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41838 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48964 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48974 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48982 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41842 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:48996 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49012 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41848 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41856 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49022 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49024 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49028 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41872 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41880 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49040 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49044 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41894 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49058 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49068 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49078 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41904 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41912 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49090 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49098 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41914 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49104 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41924 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49116 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49130 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41932 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49138 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41934 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49146 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49158 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41942 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49168 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41954 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49180 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49196 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41970 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:42 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49206 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41986 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49218 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49234 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49238 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49248 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:41996 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42006 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49264 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42022 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49276 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42038 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42042 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49284 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49286 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42058 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49296 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42060 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49310 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49320 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42066 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42070 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42078 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49324 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49328 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42080 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49330 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42090 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49332 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49342 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42094 - "POST /payments HTTP/1.1" 202 Accepted
+backend-api-1-1  | INFO:     172.19.0.9:42108 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49350 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42110 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49356 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+health-check-1   | Checking health of http://payment-processor-default:8080 at 2025-07-18 04:11:43.738171
+backend-api-2-1  | INFO:     172.19.0.9:49360 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42114 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42130 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49372 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49388 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42144 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49394 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42156 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42170 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49410 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42174 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49416 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49428 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42188 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:43 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42192 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49436 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49438 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42202 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49448 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49464 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42218 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49470 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42220 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42228 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49474 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42244 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42256 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49486 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49488 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42268 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49494 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49506 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42284 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42296 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42304 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42308 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49518 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49528 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42312 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49532 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49540 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42314 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49552 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49566 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42324 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42338 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42348 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42354 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49582 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49588 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42362 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49602 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49614 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42364 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42376 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49622 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49626 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42382 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49642 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42390 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42396 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49648 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42398 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49652 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42404 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49662 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42412 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42418 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49668 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49684 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49700 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42420 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:44 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49704 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42424 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42432 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49710 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42440 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49716 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49724 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49732 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42444 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42456 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49740 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42460 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49742 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42470 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49756 - "POST /payments HTTP/1.1" 202 Accepted
+backend-api-1-1  | INFO:     172.19.0.9:42484 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42498 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49768 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42502 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49774 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49776 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42508 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42522 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49790 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49802 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42532 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49806 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49808 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42540 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42548 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42556 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49820 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42568 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49828 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49834 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42572 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49844 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42574 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42586 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42600 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49846 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49852 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42616 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49860 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42622 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49866 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49882 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42638 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49898 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49900 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42644 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42652 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49908 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42656 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42658 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49918 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42662 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49932 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42674 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49944 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42688 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42704 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49954 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49968 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49980 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49988 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42718 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:45 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42722 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:49996 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42734 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42750 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50010 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42758 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50022 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50030 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50038 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42762 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42774 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50054 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50068 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42790 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50074 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42806 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42822 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50076 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42838 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42842 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50090 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42852 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50106 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50122 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50124 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42860 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42868 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42878 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50130 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42890 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50132 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50136 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50144 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42906 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42920 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42926 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50150 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42936 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50158 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50170 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50178 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42950 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42954 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-2-1  | INFO:     172.19.0.9:50194 - "POST /payments HTTP/1.1" 202 Accepted
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+nginx-1          | 172.19.0.1 - - [18/Jul/2025:04:11:46 +0000] "POST /payments HTTP/1.1" 202 19 "-" "Grafana k6/1.1.0"
+backend-api-1-1  | INFO:     172.19.0.9:42962 - "POST /payments HTTP/1.1" 202 Accepted
+log truncated at line 1000
