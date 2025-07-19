@@ -9,7 +9,7 @@ import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
 import org.acme.domain.NewPaymentRequest;
-import org.acme.infrastructure.PaymentProcessorServiceExecutor;
+import org.acme.infrastructure.PaymentProcessorService;
 
 import java.math.BigDecimal;
 
@@ -18,11 +18,11 @@ import java.math.BigDecimal;
 @Produces(MediaType.APPLICATION_JSON)
 public class PaymentsResource {
 
-    private final PaymentProcessorServiceExecutor processorServiceExecutor;
+    private final PaymentProcessorService paymentProcessorService;
 
     @Inject
-    public PaymentsResource(PaymentProcessorServiceExecutor processorServiceExecutor) {
-        this.processorServiceExecutor = processorServiceExecutor;
+    public PaymentsResource(PaymentProcessorService paymentProcessorService) {
+        this.paymentProcessorService = paymentProcessorService;
     }
 
     record PaymentRequest(String correlationId,
@@ -35,7 +35,7 @@ public class PaymentsResource {
 
     @POST
     public Response process(PaymentRequest payment) {
-        processorServiceExecutor.fireAndForget(payment.toNewPayment());
+        paymentProcessorService.fireAndForget(payment.toNewPayment());
         return Response.created(null).build();
     }
 
