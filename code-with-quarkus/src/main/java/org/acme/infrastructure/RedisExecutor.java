@@ -32,32 +32,6 @@ public class RedisExecutor {
         this.objectMapper = objectMapper;
     }
 
-//    private UnifiedJedis buildUnifiedJedis(String redisHosts) {
-//        ConnectionPoolConfig poolConfig = new ConnectionPoolConfig();
-//        // maximum active connections in the pool,
-//        // tune this according to your needs and application type
-//        // default is 8
-//        poolConfig.setMaxTotal(Runtime.getRuntime().availableProcessors() * 10);
-//        // maximum idle connections in the pool, default is 8
-//        poolConfig.setMaxIdle(Runtime.getRuntime().availableProcessors());
-//        // minimum idle connections in the pool, default 0
-//        poolConfig.setMinIdle(0);
-//        // Enables waiting for a connection to become available.
-//        poolConfig.setBlockWhenExhausted(true);
-//        // The maximum number of seconds to wait for a connection to become available
-//        poolConfig.setMaxWait(Duration.ofSeconds(1));
-//        // Enables sending a PING command periodically while the connection is idle.
-//        poolConfig.setTestWhileIdle(true);
-//        // controls the period between checks for idle connections in the pool
-//        poolConfig.setTimeBetweenEvictionRuns(Duration.ofSeconds(1));
-//        // JedisPooled does all hard work on fetching and releasing connection to the pool
-//        // to prevent connection starvation
-//        return new UnifiedJedis(new PooledConnectionProvider(
-//                new ConnectionFactory(JedisURIHelper.getHostAndPort(URI.create(redisHosts))),
-//                poolConfig));
-//
-//    }
-
     @Produces
     public Supplier<UnifiedJedis> unifiedJedis() {
         return this.unifiedJedisSupplier;
