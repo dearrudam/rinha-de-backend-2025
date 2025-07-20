@@ -19,4 +19,9 @@ public interface InternalPaymentsManagement {
     @Path("/internal/purge-payments")
     @POST
     void purgeInternalPayments();
+
+    @Path("/q/health/ready")
+    @GET
+    String healthReadyCheck();
+
 }

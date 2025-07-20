@@ -14,6 +14,7 @@ import jakarta.ws.rs.QueryParam;
 import jakarta.ws.rs.core.MediaType;
 import org.acme.domain.PaymentWorker;
 import org.acme.domain.PaymentsSummary;
+import org.eclipse.microprofile.health.HealthCheck;
 
 @ApplicationScoped
 @Path("/no-op")
@@ -47,6 +48,12 @@ public class DummyInternalPaymentsResources {
     @DELETE
     public void purgeQueueWorker() {
         paymentWorker.purge();
+    }
+
+    @Path("/q/health/ready")
+    @GET
+    public String healthReadyCheck() {
+        return "{}";
     }
 
 }
