@@ -1,0 +1,85 @@
+services:
+  #--- LOAD BALANCER ---
+  nginx:
+    image: nginx:alpine
+    restart: always
+    container_name: rinha-nginx
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - api1
+      - api2
+    ports:
+      - "9999:9999"
+    networks:
+      - rinha-net
+    deploy:
+      resources:
+        limits:
+          cpus: "0.25"
+          memory: "20MB"
+
+  #--- BACKEND 1 ---
+  api1: &api
+    build:
+      dockerfile: ./src/main/docker/Dockerfile.jvm
+    environment:
+      - QUARKUS_HTTP_PORT=8080
+      - DEFAULT_PAYMENT_PROCESSOR_URL=http://payment-processor-default:8080
+      - FALLBACK_PAYMENT_PROCESSOR_URL=http://payment-processor-fallback:8080
+      - QUARKUS_REDIS_HOSTS=redis://redis:6379
+      - INSTANCE_ID=api1
+      - INTERNAL_PAYMENTS_MANAGEMENT_URL=http://api2:8080
+      - WORKER_QUEUE_BUFFER=99999
+      - WORKER_SIZE=24
+      - QUARKUS_REST_CLIENT_DEFAULT_PAYMENT_PROCESSOR_CONNECT_TIMEOUT=1500
+      - QUARKUS_REST_CLIENT_DEFAULT_PAYMENT_PROCESSOR_READ_TIMEOUT=180000
+      - QUARKUS_FAULT_TOLERANCE__ORG_ACME_DOMAIN_PAYMENT_PROCESSOR_SEND_PAYMENT__RETRY_MAX_RETRIES=16
+      - QUARKUS_REST_CLIENT_FALLBACK_PAYMENT_PROCESSOR_CONNECT_TIMEOUT=1500
+      - QUARKUS_REST_CLIENT_FALLBACK_PAYMENT_PROCESSOR_READ_TIMEOUT=95000
+      - QUARKUS_REST_CLIENT_INTERNAL_PAYMENTS_MANAGEMENT_CONNECT_TIMEOUT=1500
+      - QUARKUS_REST_CLIENT_INTERNAL_PAYMENTS_MANAGEMENT_READ_TIMEOUT=2000
+
+    networks:
+      - rinha-net
+      - payment-processor
+    hostname: api1
+    deploy:
+      resources:
+        limits:
+          cpus: "0.55"
+          memory: "150MB"
+
+  #--- BACKEND 2 ---
+  api2:
+    <<: *api
+    hostname: api2
+    environment:
+      - QUARKUS_HTTP_PORT=8080
+      - DEFAULT_PAYMENT_PROCESSOR_URL=http://payment-processor-default:8080
+      - FALLBACK_PAYMENT_PROCESSOR_URL=http://payment-processor-fallback:8080
+      - QUARKUS_REDIS_HOSTS=redis://redis:6379
+      - INSTANCE_ID=api2
+      - INTERNAL_PAYMENTS_MANAGEMENT_URL=http://api1:8080
+      - WORKER_QUEUE_BUFFER=99999
+      - WORKER_SIZE=24
+      - QUARKUS_REST_CLIENT_DEFAULT_PAYMENT_PROCESSOR_CONNECT_TIMEOUT=1500
+      - QUARKUS_REST_CLIENT_DEFAULT_PAYMENT_PROCESSOR_READ_TIMEOUT=180000
+      - QUARKUS_FAULT_TOLERANCE__ORG_ACME_DOMAIN_PAYMENT_PROCESSOR_SEND_PAYMENT__RETRY_MAX_RETRIES=16
+      - QUARKUS_REST_CLIENT_FALLBACK_PAYMENT_PROCESSOR_CONNECT_TIMEOUT=1500
+      - QUARKUS_REST_CLIENT_FALLBACK_PAYMENT_PROCESSOR_READ_TIMEOUT=95000
+      - QUARKUS_REST_CLIENT_INTERNAL_PAYMENTS_MANAGEMENT_CONNECT_TIMEOUT=1500
+      - QUARKUS_REST_CLIENT_INTERNAL_PAYMENTS_MANAGEMENT_READ_TIMEOUT=2000
+
+    deploy:
+      resources:
+        limits:
+          cpus: "0.55"
+          memory: "150MB"
+
+#--- NETWORKS ---
+networks:
+  rinha-net:
+    driver: bridge
+  payment-processor:
+    external: true
