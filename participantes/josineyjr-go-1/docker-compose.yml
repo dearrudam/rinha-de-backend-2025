@@ -18,12 +18,13 @@ services:
     deploy:
       resources:
         limits:
-          cpus: "0.15"
-          memory: "20MB"
+          cpus: "0.35"
+          memory: "50MB"
 
   api1: &api
     image: josiney/rdb25_02-amd64:latest 
     hostname: api1
+    container_name: api1
     networks:
       - backend
       - payment-processor 
@@ -40,12 +41,13 @@ services:
     deploy:
       resources:
         limits:
-          cpus: "0.6"
+          cpus: "0.4"
           memory: "40MB"
 
   api2:
     <<: *api
     hostname: api2
+    container_name: api2
     environment:
       - REDIS_URL=redis://redis:6379/0
       - PORT=9998
@@ -59,21 +61,20 @@ services:
     hostname: rinha-redis
     environment:
       - REDISTIMESERIES_ARGS=DUPLICATE_POLICY=SUM
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
     networks:
       - backend
     ports:
       - "6379:6379"
-    healthcheck:
-      test: ["CMD", "redis-cli", "ping"]
-      interval: 1s
-      timeout: 5s
-      retries: 20
-      start_period: 5s
     deploy:
       resources:
         limits:
-          cpus: "0.15"
-          memory: "250MB" 
+          cpus: "0.35"
+          memory: "220MB" 
 
 networks:
   backend:

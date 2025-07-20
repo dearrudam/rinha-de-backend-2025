@@ -1,0 +1,5 @@
+
+time="2025-07-19T10:06:44-03:00" level=warning msg="Request Failed" error="Get \"http://localhost:9999/payments-summary?from=2025-07-19T13:06:33.286Z&to=2025-07-19T13:06:43.186Z\": request timeout"
+time="2025-07-19T10:06:44-03:00" level=error msg="Não foi possível obter resposta de '/payments-summary?from=2025-07-19T13:06:33.286Z&to=2025-07-19T13:06:43.186Z' para o backend (HTTP 0)" source=console
+time="2025-07-19T10:06:54-03:00" level=info msg="summaries from 2025-07-19T13:05:44.804Z to 2025-07-19T13:06:54.804Z" source=console
+log truncated at line 1000

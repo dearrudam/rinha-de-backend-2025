@@ -1,280 +1,4 @@
 
- api01 Pulling 
- worker Pulling 
- api02 Pulling 
- af302e5c37e9 Pulling fs layer 
- dca58d376f2d Pulling fs layer 
- 8930192d9fba Pulling fs layer 
- 4bfe33915474 Pulling fs layer 
- c28fbb7280f3 Pulling fs layer 
- 224b83f977c5 Pulling fs layer 
- 3cab37ceb6cd Pulling fs layer 
- a0198ab1fb60 Pulling fs layer 
- 224b83f977c5 Waiting 
- 3cab37ceb6cd Waiting 
- a0198ab1fb60 Waiting 
- 4bfe33915474 Waiting 
- c28fbb7280f3 Waiting 
- af302e5c37e9 Pulling fs layer 
- dca58d376f2d Pulling fs layer 
- 8930192d9fba Pulling fs layer 
- 4bfe33915474 Pulling fs layer 
- c28fbb7280f3 Pulling fs layer 
- 224b83f977c5 Pulling fs layer 
- 3cab37ceb6cd Pulling fs layer 
- a0198ab1fb60 Pulling fs layer 
- a0198ab1fb60 Waiting 
- 4bfe33915474 Waiting 
- 224b83f977c5 Waiting 
- c28fbb7280f3 Waiting 
- 3cab37ceb6cd Waiting 
- 8930192d9fba Downloading [>                                                  ]  9.148kB/865.8kB
- 8930192d9fba Downloading [>                                                  ]  9.148kB/865.8kB
- af302e5c37e9 Downloading [>                                                  ]  298.4kB/28.21MB
- af302e5c37e9 Downloading [>                                                  ]  298.4kB/28.21MB
- af302e5c37e9 Downloading [================>                                  ]  9.354MB/28.21MB
- af302e5c37e9 Downloading [================>                                  ]  9.354MB/28.21MB
- af302e5c37e9 Pulling fs layer 
- dca58d376f2d Pulling fs layer 
- 8930192d9fba Pulling fs layer 
- 4bfe33915474 Pulling fs layer 
- c28fbb7280f3 Pulling fs layer 
- 224b83f977c5 Pulling fs layer 
- 3cab37ceb6cd Pulling fs layer 
- a0198ab1fb60 Pulling fs layer 
- a0198ab1fb60 Waiting 
- c28fbb7280f3 Waiting 
- 4bfe33915474 Waiting 
- 224b83f977c5 Waiting 
- 3cab37ceb6cd Waiting 
- af302e5c37e9 Downloading [================>                                  ]  9.354MB/28.21MB
- 8930192d9fba Downloading [>                                                  ]  9.148kB/865.8kB
- af302e5c37e9 Downloading [==================================>                ]  19.25MB/28.21MB
- af302e5c37e9 Downloading [==================================>                ]  19.25MB/28.21MB
- af302e5c37e9 Downloading [==================================>                ]  19.25MB/28.21MB
- af302e5c37e9 Verifying Checksum 
- af302e5c37e9 Download complete 
- af302e5c37e9 Download complete 
- af302e5c37e9 Verifying Checksum 
- af302e5c37e9 Download complete 
- 8930192d9fba Verifying Checksum 
- 8930192d9fba Verifying Checksum 
- 8930192d9fba Download complete 
- 8930192d9fba Verifying Checksum 
- 8930192d9fba Download complete 
- 8930192d9fba Download complete 
- af302e5c37e9 Extracting [>                                                  ]  294.9kB/28.21MB
- af302e5c37e9 Extracting [>                                                  ]  294.9kB/28.21MB
- af302e5c37e9 Extracting [>                                                  ]  294.9kB/28.21MB
- af302e5c37e9 Extracting [======>                                            ]  3.834MB/28.21MB
- af302e5c37e9 Extracting [======>                                            ]  3.834MB/28.21MB
- af302e5c37e9 Extracting [======>                                            ]  3.834MB/28.21MB
- af302e5c37e9 Extracting [===============>                                   ]  8.847MB/28.21MB
- af302e5c37e9 Extracting [===============>                                   ]  8.847MB/28.21MB
- af302e5c37e9 Extracting [===============>                                   ]  8.847MB/28.21MB
- af302e5c37e9 Extracting [==================>                                ]  10.62MB/28.21MB
- af302e5c37e9 Extracting [==================>                                ]  10.62MB/28.21MB
- af302e5c37e9 Extracting [==================>                                ]  10.62MB/28.21MB
- af302e5c37e9 Extracting [============================>                      ]  16.22MB/28.21MB
- af302e5c37e9 Extracting [============================>                      ]  16.22MB/28.21MB
- af302e5c37e9 Extracting [============================>                      ]  16.22MB/28.21MB
- af302e5c37e9 Extracting [======================================>            ]  21.82MB/28.21MB
- af302e5c37e9 Extracting [======================================>            ]  21.82MB/28.21MB
- af302e5c37e9 Extracting [======================================>            ]  21.82MB/28.21MB
- af302e5c37e9 Extracting [==========================================>        ]  23.89MB/28.21MB
- af302e5c37e9 Extracting [==========================================>        ]  23.89MB/28.21MB
- af302e5c37e9 Extracting [==========================================>        ]  23.89MB/28.21MB
- af302e5c37e9 Extracting [===============================================>   ]  26.84MB/28.21MB
- af302e5c37e9 Extracting [===============================================>   ]  26.84MB/28.21MB
- af302e5c37e9 Extracting [===============================================>   ]  26.84MB/28.21MB
- dca58d376f2d Downloading [>                                                  ]  409.6kB/39.66MB
- dca58d376f2d Downloading [>                                                  ]  409.6kB/39.66MB
- dca58d376f2d Downloading [>                                                  ]  409.6kB/39.66MB
- dca58d376f2d Downloading [=>                                                 ]  1.229MB/39.66MB
- dca58d376f2d Downloading [=>                                                 ]  1.229MB/39.66MB
- dca58d376f2d Downloading [=>                                                 ]  1.229MB/39.66MB
- af302e5c37e9 Extracting [================================================>  ]  27.43MB/28.21MB
- af302e5c37e9 Extracting [================================================>  ]  27.43MB/28.21MB
- af302e5c37e9 Extracting [================================================>  ]  27.43MB/28.21MB
- 4bfe33915474 Download complete 
- 4bfe33915474 Download complete 
- 4bfe33915474 Download complete 
- dca58d376f2d Downloading [===>                                               ]  2.822MB/39.66MB
- dca58d376f2d Downloading [===>                                               ]  2.822MB/39.66MB
- dca58d376f2d Downloading [===>                                               ]  2.822MB/39.66MB
- c28fbb7280f3 Downloading [==================================================>]     101B/101B
- c28fbb7280f3 Downloading [==================================================>]     101B/101B
- c28fbb7280f3 Downloading [==================================================>]     101B/101B
- c28fbb7280f3 Verifying Checksum 
- c28fbb7280f3 Verifying Checksum 
- c28fbb7280f3 Download complete 
- c28fbb7280f3 Download complete 
- c28fbb7280f3 Verifying Checksum 
- c28fbb7280f3 Download complete 
- af302e5c37e9 Extracting [==================================================>]  28.21MB/28.21MB
- af302e5c37e9 Extracting [==================================================>]  28.21MB/28.21MB
- af302e5c37e9 Extracting [==================================================>]  28.21MB/28.21MB
- dca58d376f2d Downloading [=======>                                           ]  6.013MB/39.66MB
- dca58d376f2d Downloading [=======>                                           ]  6.013MB/39.66MB
- dca58d376f2d Downloading [=======>                                           ]  6.013MB/39.66MB
- af302e5c37e9 Pull complete 
- af302e5c37e9 Pull complete 
- af302e5c37e9 Pull complete 
- dca58d376f2d Downloading [===============>                                   ]  12.41MB/39.66MB
- dca58d376f2d Downloading [===============>                                   ]  12.41MB/39.66MB
- dca58d376f2d Downloading [===============>                                   ]  12.41MB/39.66MB
- dca58d376f2d Downloading [============================>                      ]  22.82MB/39.66MB
- dca58d376f2d Downloading [============================>                      ]  22.82MB/39.66MB
- dca58d376f2d Downloading [============================>                      ]  22.82MB/39.66MB
- 224b83f977c5 Downloading [==================================================>]      92B/92B
- 224b83f977c5 Downloading [==================================================>]      92B/92B
- 224b83f977c5 Downloading [==================================================>]      92B/92B
- 224b83f977c5 Verifying Checksum 
- 224b83f977c5 Verifying Checksum 
- 224b83f977c5 Download complete 
- 224b83f977c5 Download complete 
- 224b83f977c5 Download complete 
- 3cab37ceb6cd Downloading [==================================================>]     101B/101B
- 3cab37ceb6cd Verifying Checksum 
- 3cab37ceb6cd Download complete 
- 3cab37ceb6cd Downloading [==================================================>]     101B/101B
- 3cab37ceb6cd Verifying Checksum 
- 3cab37ceb6cd Download complete 
- 3cab37ceb6cd Downloading [==================================================>]     101B/101B
- 3cab37ceb6cd Verifying Checksum 
- 3cab37ceb6cd Download complete 
- dca58d376f2d Downloading [==========================================>        ]   33.6MB/39.66MB
- dca58d376f2d Downloading [==========================================>        ]   33.6MB/39.66MB
- dca58d376f2d Downloading [==========================================>        ]   33.6MB/39.66MB
- dca58d376f2d Verifying Checksum 
- dca58d376f2d Download complete 
- dca58d376f2d Download complete 
- dca58d376f2d Download complete 
- dca58d376f2d Extracting [>                                                  ]    426kB/39.66MB
- dca58d376f2d Extracting [>                                                  ]    426kB/39.66MB
- dca58d376f2d Extracting [>                                                  ]    426kB/39.66MB
- dca58d376f2d Extracting [==>                                                ]  1.704MB/39.66MB
- dca58d376f2d Extracting [==>                                                ]  1.704MB/39.66MB
- dca58d376f2d Extracting [==>                                                ]  1.704MB/39.66MB
- dca58d376f2d Extracting [===>                                               ]  2.556MB/39.66MB
- dca58d376f2d Extracting [===>                                               ]  2.556MB/39.66MB
- dca58d376f2d Extracting [===>                                               ]  2.556MB/39.66MB
- dca58d376f2d Extracting [====>                                              ]  3.408MB/39.66MB
- dca58d376f2d Extracting [====>                                              ]  3.408MB/39.66MB
- dca58d376f2d Extracting [====>                                              ]  3.408MB/39.66MB
- dca58d376f2d Extracting [=======>                                           ]  5.964MB/39.66MB
- dca58d376f2d Extracting [=======>                                           ]  5.964MB/39.66MB
- dca58d376f2d Extracting [=======>                                           ]  5.964MB/39.66MB
- dca58d376f2d Extracting [=============>                                     ]  11.08MB/39.66MB
- dca58d376f2d Extracting [=============>                                     ]  11.08MB/39.66MB
- dca58d376f2d Extracting [=============>                                     ]  11.08MB/39.66MB
- dca58d376f2d Extracting [====================>                              ]  16.61MB/39.66MB
- dca58d376f2d Extracting [====================>                              ]  16.61MB/39.66MB
- dca58d376f2d Extracting [====================>                              ]  16.61MB/39.66MB
- dca58d376f2d Extracting [============================>                      ]     23MB/39.66MB
- dca58d376f2d Extracting [============================>                      ]     23MB/39.66MB
- dca58d376f2d Extracting [============================>                      ]     23MB/39.66MB
- dca58d376f2d Extracting [=====================================>             ]  29.39MB/39.66MB
- dca58d376f2d Extracting [=====================================>             ]  29.39MB/39.66MB
- dca58d376f2d Extracting [=====================================>             ]  29.39MB/39.66MB
- a0198ab1fb60 Downloading [>                                                  ]  95.14kB/9.494MB
- a0198ab1fb60 Downloading [>                                                  ]  95.14kB/9.494MB
- a0198ab1fb60 Downloading [>                                                  ]  95.14kB/9.494MB
- dca58d376f2d Extracting [========================================>          ]  31.95MB/39.66MB
- dca58d376f2d Extracting [========================================>          ]  31.95MB/39.66MB
- dca58d376f2d Extracting [========================================>          ]  31.95MB/39.66MB
- a0198ab1fb60 Downloading [=======================>                           ]  4.428MB/9.494MB
- a0198ab1fb60 Downloading [=======================>                           ]  4.428MB/9.494MB
- a0198ab1fb60 Downloading [=======================>                           ]  4.428MB/9.494MB
- a0198ab1fb60 Verifying Checksum 
- a0198ab1fb60 Verifying Checksum 
- a0198ab1fb60 Download complete 
- a0198ab1fb60 Download complete 
- a0198ab1fb60 Download complete 
- dca58d376f2d Extracting [============================================>      ]  35.36MB/39.66MB
- dca58d376f2d Extracting [============================================>      ]  35.36MB/39.66MB
- dca58d376f2d Extracting [============================================>      ]  35.36MB/39.66MB
- dca58d376f2d Extracting [===============================================>   ]  37.49MB/39.66MB
- dca58d376f2d Extracting [===============================================>   ]  37.49MB/39.66MB
- dca58d376f2d Extracting [===============================================>   ]  37.49MB/39.66MB
- dca58d376f2d Extracting [=================================================> ]  39.19MB/39.66MB
- dca58d376f2d Extracting [=================================================> ]  39.19MB/39.66MB
- dca58d376f2d Extracting [=================================================> ]  39.19MB/39.66MB
- dca58d376f2d Extracting [==================================================>]  39.66MB/39.66MB
- dca58d376f2d Extracting [==================================================>]  39.66MB/39.66MB
- dca58d376f2d Extracting [==================================================>]  39.66MB/39.66MB
- dca58d376f2d Pull complete 
- dca58d376f2d Pull complete 
- dca58d376f2d Pull complete 
- 8930192d9fba Extracting [=>                                                 ]  32.77kB/865.8kB
- 8930192d9fba Extracting [=>                                                 ]  32.77kB/865.8kB
- 8930192d9fba Extracting [=>                                                 ]  32.77kB/865.8kB
- 8930192d9fba Extracting [==================================================>]  865.8kB/865.8kB
- 8930192d9fba Extracting [==================================================>]  865.8kB/865.8kB
- 8930192d9fba Extracting [==================================================>]  865.8kB/865.8kB
- 8930192d9fba Extracting [==================================================>]  865.8kB/865.8kB
- 8930192d9fba Extracting [==================================================>]  865.8kB/865.8kB
- 8930192d9fba Extracting [==================================================>]  865.8kB/865.8kB
- 8930192d9fba Pull complete 
- 8930192d9fba Pull complete 
- 8930192d9fba Pull complete 
- 4bfe33915474 Extracting [==================================================>]      93B/93B
- 4bfe33915474 Extracting [==================================================>]      93B/93B
- 4bfe33915474 Extracting [==================================================>]      93B/93B
- 4bfe33915474 Extracting [==================================================>]      93B/93B
- 4bfe33915474 Extracting [==================================================>]      93B/93B
- 4bfe33915474 Extracting [==================================================>]      93B/93B
- 4bfe33915474 Pull complete 
- 4bfe33915474 Pull complete 
- 4bfe33915474 Pull complete 
- c28fbb7280f3 Extracting [==================================================>]     101B/101B
- c28fbb7280f3 Extracting [==================================================>]     101B/101B
- c28fbb7280f3 Extracting [==================================================>]     101B/101B
- c28fbb7280f3 Extracting [==================================================>]     101B/101B
- c28fbb7280f3 Extracting [==================================================>]     101B/101B
- c28fbb7280f3 Extracting [==================================================>]     101B/101B
- c28fbb7280f3 Pull complete 
- c28fbb7280f3 Pull complete 
- c28fbb7280f3 Pull complete 
- 224b83f977c5 Extracting [==================================================>]      92B/92B
- 224b83f977c5 Extracting [==================================================>]      92B/92B
- 224b83f977c5 Extracting [==================================================>]      92B/92B
- 224b83f977c5 Extracting [==================================================>]      92B/92B
- 224b83f977c5 Extracting [==================================================>]      92B/92B
- 224b83f977c5 Extracting [==================================================>]      92B/92B
- 224b83f977c5 Pull complete 
- 224b83f977c5 Pull complete 
- 224b83f977c5 Pull complete 
- 3cab37ceb6cd Extracting [==================================================>]     101B/101B
- 3cab37ceb6cd Extracting [==================================================>]     101B/101B
- 3cab37ceb6cd Extracting [==================================================>]     101B/101B
- 3cab37ceb6cd Extracting [==================================================>]     101B/101B
- 3cab37ceb6cd Extracting [==================================================>]     101B/101B
- 3cab37ceb6cd Extracting [==================================================>]     101B/101B
- 3cab37ceb6cd Pull complete 
- 3cab37ceb6cd Pull complete 
- 3cab37ceb6cd Pull complete 
- a0198ab1fb60 Extracting [>                                                  ]   98.3kB/9.494MB
- a0198ab1fb60 Extracting [>                                                  ]   98.3kB/9.494MB
- a0198ab1fb60 Extracting [>                                                  ]   98.3kB/9.494MB
- a0198ab1fb60 Extracting [=================>                                 ]  3.342MB/9.494MB
- a0198ab1fb60 Extracting [=================>                                 ]  3.342MB/9.494MB
- a0198ab1fb60 Extracting [=================>                                 ]  3.342MB/9.494MB
- a0198ab1fb60 Extracting [=========================>                         ]  4.817MB/9.494MB
- a0198ab1fb60 Extracting [=========================>                         ]  4.817MB/9.494MB
- a0198ab1fb60 Extracting [=========================>                         ]  4.817MB/9.494MB
- a0198ab1fb60 Extracting [======================================>            ]  7.274MB/9.494MB
- a0198ab1fb60 Extracting [======================================>            ]  7.274MB/9.494MB
- a0198ab1fb60 Extracting [======================================>            ]  7.274MB/9.494MB
- a0198ab1fb60 Extracting [==================================================>]  9.494MB/9.494MB
- a0198ab1fb60 Extracting [==================================================>]  9.494MB/9.494MB
- a0198ab1fb60 Extracting [==================================================>]  9.494MB/9.494MB
- a0198ab1fb60 Pull complete 
- a0198ab1fb60 Pull complete 
- a0198ab1fb60 Pull complete 
- worker Pulled 
- api02 Pulled 
- api01 Pulled 
  Network rinha  Creating
  Network rinha  Created
  Volume "rodrigocaldeira-elixir_db"  Creating
@@ -298,704 +22,980 @@ nginx-1   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on
 nginx-1   | /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
 nginx-1   | /docker-entrypoint.sh: Configuration complete; ready for start up
 worker-1  | 
-worker-1  | 04:13:10.001 [info] == Running 20250709000325 Rinha.Repo.Migrations.CreatePayments.change/0 forward
+worker-1  | 12:55:02.399 [info] == Running 20250709000325 Rinha.Repo.Migrations.CreatePayments.change/0 forward
 worker-1  | 
-worker-1  | 04:13:10.001 [info] create table payments
+worker-1  | 12:55:02.399 [info] create table payments
 worker-1  | 
-worker-1  | 04:13:10.002 [info] create index payments_requestedAt_index
+worker-1  | 12:55:02.401 [info] create index payments_requestedAt_index
 worker-1  | 
-worker-1  | 04:13:10.003 [info] == Migrated 20250709000325 in 0.0s
+worker-1  | 12:55:02.404 [info] == Migrated 20250709000325 in 0.0s
 worker-1  | 
-worker-1  | 04:13:10.003 [info] Starting worker pool with 4 workers
+worker-1  | 12:55:02.405 [info] Starting worker pool with 4 workers
 worker-1  | 
-worker-1  | 04:13:10.004 [info] Starting worker worker_1
+worker-1  | 12:55:02.405 [info] Starting worker worker_1
 worker-1  | 
-worker-1  | 04:13:10.004 [info] Starting worker worker_2
+worker-1  | 12:55:02.405 [info] Starting worker worker_2
 worker-1  | 
-worker-1  | 04:13:10.004 [info] Starting worker worker_3
+worker-1  | 12:55:02.405 [info] Starting worker worker_3
 worker-1  | 
-worker-1  | 04:13:10.004 [info] Starting worker worker_4
+worker-1  | 12:55:02.405 [info] Starting worker worker_4
 worker-1  | 
-worker-1  | 04:13:10.004 [info] Starting worker Elixir.ServicesHealthWorker
+worker-1  | 12:55:02.405 [info] Starting worker Elixir.ServicesHealthWorker
+nginx-1   | 2025/07/19 12:55:03 [error] 30#30: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.3:8080/payments-summary", host: "localhost:9999"
+nginx-1   | 2025/07/19 12:55:03 [error] 30#30: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://172.21.0.4:8081/payments-summary", host: "localhost:9999"
+api02-1   | 
+api02-1   | 12:55:06.690 [info] Running Rinha.Router with Bandit 1.7.0 at 0.0.0.0:8081 (http)
+api01-1   | 
+api01-1   | 12:55:06.736 [info] Running Rinha.Router with Bandit 1.7.0 at 0.0.0.0:8080 (http)
+nginx-1   | 2025/07/19 12:55:08 [error] 30#30: *4 no live upstreams while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://api/payments-summary", host: "localhost:9999"
+nginx-1   | 2025/07/19 12:55:13 [error] 30#30: *5 no live upstreams while connecting to upstream, client: 172.21.0.1, server: , request: "GET /payments-summary HTTP/1.1", upstream: "http://api/payments-summary", host: "localhost:9999"
+api02-1   | 
+api02-1   | 12:55:18.485 [info] GET /payments-summary
+api02-1   | 
+api02-1   | 12:55:18.498 [info] Sent 200 in 13ms
+api02-1   | 
+api02-1   | 12:55:24.299 [info] POST /purge-payments
+api02-1   | 
+api02-1   | 12:55:24.299 [info] Sent 200 in 398µs
+api01-1   | 
+api01-1   | 12:55:24.336 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:13.394 [info] Running Rinha.Router with Bandit 1.7.0 at 0.0.0.0:8080 (http)
+api01-1   | 12:55:24.336 [info] Sent 201 in 241µs
+worker-1  | 
+worker-1  | 12:55:24.342 [info] 5c1d33c9-8d60-4a4f-93c5-8be67b8a70d1 => default
+worker-1  | 
+worker-1  | 12:55:24.385 [info] 5c1d33c9-8d60-4a4f-93c5-8be67b8a70d1 OK
+api02-1   | 
+api02-1   | 12:55:24.441 [info] POST /payments
+worker-1  | 
+worker-1  | 12:55:24.442 [info] 40da12b5-d880-4555-b4d3-dd2109815a22 => default
 api02-1   | 
-api02-1   | 04:13:13.398 [info] Running Rinha.Router with Bandit 1.7.0 at 0.0.0.0:8081 (http)
+api02-1   | 12:55:24.441 [info] Sent 201 in 152µs
+worker-1  | 
+worker-1  | 12:55:24.445 [info] 40da12b5-d880-4555-b4d3-dd2109815a22 OK
 api01-1   | 
-api01-1   | 04:13:13.984 [info] GET /payments-summary
+api01-1   | 12:55:24.473 [info] GET /payments-summary
 api01-1   | 
-api01-1   | 04:13:13.993 [info] Sent 200 in 9ms
+api01-1   | 12:55:24.474 [info] Sent 200 in 1ms
 api02-1   | 
-api02-1   | 04:13:19.806 [info] POST /purge-payments
+api02-1   | 12:55:24.551 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:19.812 [info] Sent 200 in 6ms
+api02-1   | 12:55:24.551 [info] Sent 201 in 75µs
 worker-1  | 
-worker-1  | 04:13:19.848 [info] 5a79bfe3-76f3-4b46-9ae2-7f4128dddcd0 => default
+worker-1  | 12:55:24.551 [info] 1f18cba4-92a6-4053-8ce0-68a1723d3879 => default
+worker-1  | 
+worker-1  | 12:55:24.554 [info] 1f18cba4-92a6-4053-8ce0-68a1723d3879 OK
 api01-1   | 
-api01-1   | 04:13:19.847 [info] POST /payments
+api01-1   | 12:55:24.660 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:19.847 [info] Sent 201 in 65µs
+api01-1   | 12:55:24.661 [info] Sent 201 in 54µs
 worker-1  | 
-worker-1  | 04:13:19.898 [info] 5a79bfe3-76f3-4b46-9ae2-7f4128dddcd0 OK
+worker-1  | 12:55:24.661 [info] 45616a73-04d8-4ba3-a0d0-ada2ec81d209 => default
 worker-1  | 
-worker-1  | 04:13:19.956 [info] c1d5115d-e4c7-4d01-9417-4f92937dd086 => default
+worker-1  | 12:55:24.664 [info] 45616a73-04d8-4ba3-a0d0-ada2ec81d209 OK
 api02-1   | 
-api02-1   | 04:13:19.955 [info] POST /payments
+api02-1   | 12:55:24.769 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:19.956 [info] Sent 201 in 475µs
+api02-1   | 12:55:24.770 [info] Sent 201 in 60µs
 worker-1  | 
-worker-1  | 04:13:19.959 [info] c1d5115d-e4c7-4d01-9417-4f92937dd086 OK
+worker-1  | 12:55:24.770 [info] 7ac46469-dbf5-4787-8556-c0ac0d626b1d => default
+worker-1  | 
+worker-1  | 12:55:24.772 [info] 7ac46469-dbf5-4787-8556-c0ac0d626b1d OK
 api01-1   | 
-api01-1   | 04:13:19.981 [info] GET /payments-summary
+api01-1   | 12:55:24.879 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:19.982 [info] Sent 200 in 1ms
+api01-1   | 12:55:24.879 [info] Sent 201 in 58µs
+worker-1  | 
+worker-1  | 12:55:24.879 [info] f2434041-3b0e-4492-a3a5-9d21d71d2137 => default
+worker-1  | 
+worker-1  | 12:55:24.882 [info] f2434041-3b0e-4492-a3a5-9d21d71d2137 OK
 api02-1   | 
-api02-1   | 04:13:20.065 [info] POST /payments
+api02-1   | 12:55:24.988 [info] POST /payments
+worker-1  | 
+worker-1  | 12:55:24.989 [info] fc87e52a-33bb-40c0-a763-4395f85f7ced => default
 api02-1   | 
-api02-1   | 04:13:20.065 [info] Sent 201 in 55µs
+api02-1   | 12:55:24.988 [info] Sent 201 in 77µs
+worker-1  | 
+worker-1  | 12:55:24.991 [info] fc87e52a-33bb-40c0-a763-4395f85f7ced OK
+api01-1   | 
+api01-1   | 12:55:25.098 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:25.098 [info] Sent 201 in 55µs
 worker-1  | 
-worker-1  | 04:13:20.065 [info] 727bba71-9e79-4dd1-98ca-18b6ddbc13ad => default
+worker-1  | 12:55:25.098 [info] 5b80ec9b-d4d6-47db-9db6-72a0d2af5a0b => default
 worker-1  | 
-worker-1  | 04:13:20.068 [info] 727bba71-9e79-4dd1-98ca-18b6ddbc13ad OK
+worker-1  | 12:55:25.100 [info] 5b80ec9b-d4d6-47db-9db6-72a0d2af5a0b OK
+api02-1   | 
+api02-1   | 12:55:25.207 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:25.207 [info] Sent 201 in 56µs
 worker-1  | 
-worker-1  | 04:13:20.175 [info] 1a8d5aec-1a34-4870-9d5d-6f55e53cb351 => default
+worker-1  | 12:55:25.207 [info] 3c6e83cc-28dc-4142-8b73-862b7bd79963 => default
+worker-1  | 
+worker-1  | 12:55:25.209 [info] 3c6e83cc-28dc-4142-8b73-862b7bd79963 OK
 api01-1   | 
-api01-1   | 04:13:20.175 [info] POST /payments
+api01-1   | 12:55:25.329 [info] POST /payments
+worker-1  | 
+worker-1  | 12:55:25.329 [info] a1850d17-b7d9-4bc7-bfe3-fd05b4de3066 => default
 api01-1   | 
-api01-1   | 04:13:20.175 [info] Sent 201 in 67µs
+api01-1   | 12:55:25.329 [info] Sent 201 in 74µs
+worker-1  | 
+worker-1  | 12:55:25.331 [info] a1850d17-b7d9-4bc7-bfe3-fd05b4de3066 OK
 worker-1  | 
-worker-1  | 04:13:20.178 [info] 1a8d5aec-1a34-4870-9d5d-6f55e53cb351 OK
+worker-1  | 12:55:25.358 [info] 7714ae38-2e49-4d5d-8fac-d2ec33833257 => default
 api02-1   | 
-api02-1   | 04:13:20.283 [info] POST /payments
+api02-1   | 12:55:25.358 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:25.358 [info] Sent 201 in 121µs
+worker-1  | 
+worker-1  | 12:55:25.361 [info] 7714ae38-2e49-4d5d-8fac-d2ec33833257 OK
+api01-1   | 
+api01-1   | 12:55:25.425 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:25.426 [info] Sent 201 in 55µs
+worker-1  | 
+worker-1  | 12:55:25.426 [info] 0e9b89ed-b63d-4a8e-accb-5310d5146df1 => default
+worker-1  | 
+worker-1  | 12:55:25.428 [info] 0e9b89ed-b63d-4a8e-accb-5310d5146df1 OK
 api02-1   | 
-api02-1   | 04:13:20.283 [info] Sent 201 in 56µs
+api02-1   | 12:55:25.443 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:20.283 [info] fbfe52f0-81ed-4fa0-9e29-f1acbe324f80 => default
+api02-1   | 
+worker-1  | 12:55:25.444 [info] d0e3e7ac-1225-4732-88ee-dc5b16b94af9 => default
+api02-1   | 12:55:25.443 [info] Sent 201 in 105µs
 worker-1  | 
-worker-1  | 04:13:20.286 [info] fbfe52f0-81ed-4fa0-9e29-f1acbe324f80 OK
+worker-1  | 12:55:25.446 [info] d0e3e7ac-1225-4732-88ee-dc5b16b94af9 OK
 api01-1   | 
-api01-1   | 04:13:20.392 [info] POST /payments
+api01-1   | 12:55:25.535 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:20.393 [info] Sent 201 in 52µs
+api01-1   | 12:55:25.535 [info] Sent 201 in 71µs
 worker-1  | 
-worker-1  | 04:13:20.393 [info] 51ce4f6a-c2c8-4607-8cf4-4a279b522c69 => default
+worker-1  | 12:55:25.535 [info] cee28951-e2c9-4bf1-b320-f4885e0eea52 => default
 worker-1  | 
-worker-1  | 04:13:20.395 [info] 51ce4f6a-c2c8-4607-8cf4-4a279b522c69 OK
+worker-1  | 12:55:25.537 [info] cee28951-e2c9-4bf1-b320-f4885e0eea52 OK
 api02-1   | 
-api02-1   | 04:13:20.502 [info] POST /payments
+api02-1   | 12:55:25.553 [info] POST /payments
+worker-1  | 
+worker-1  | 12:55:25.553 [info] e0fd61b9-d795-49dc-b317-294cb638443b => default
 api02-1   | 
-api02-1   | 04:13:20.502 [info] Sent 201 in 56µs
+api02-1   | 12:55:25.553 [info] Sent 201 in 73µs
 worker-1  | 
-worker-1  | 04:13:20.502 [info] 973f994b-cf26-4259-b8d2-7b049af1ea0f => default
+worker-1  | 12:55:25.555 [info] e0fd61b9-d795-49dc-b317-294cb638443b OK
 worker-1  | 
-worker-1  | 04:13:20.505 [info] 973f994b-cf26-4259-b8d2-7b049af1ea0f OK
+worker-1  | 12:55:25.644 [info] b7b5a0fc-f1f8-4a01-a341-56d3250f94db => default
 api01-1   | 
-api01-1   | 04:13:20.611 [info] POST /payments
+api01-1   | 12:55:25.644 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:25.644 [info] Sent 201 in 70µs
+worker-1  | 
+worker-1  | 12:55:25.647 [info] b7b5a0fc-f1f8-4a01-a341-56d3250f94db OK
 worker-1  | 
-worker-1  | 04:13:20.612 [info] d874e488-f08a-4455-a027-2a005b5346ba => default
+worker-1  | 12:55:25.664 [info] 0c2e520e-545f-4da8-b4ad-de6833b585b0 => default
+api02-1   | 
+api02-1   | 12:55:25.663 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:25.663 [info] Sent 201 in 78µs
+worker-1  | 
+worker-1  | 12:55:25.666 [info] 0c2e520e-545f-4da8-b4ad-de6833b585b0 OK
 api01-1   | 
-api01-1   | 04:13:20.612 [info] Sent 201 in 56µs
+api01-1   | 12:55:25.753 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:25.754 [info] Sent 201 in 69µs
+worker-1  | 
+worker-1  | 12:55:25.754 [info] ce538c4a-b2cf-45be-bf4c-2f2a07605686 => default
 worker-1  | 
-worker-1  | 04:13:20.614 [info] d874e488-f08a-4455-a027-2a005b5346ba OK
+worker-1  | 12:55:25.756 [info] ce538c4a-b2cf-45be-bf4c-2f2a07605686 OK
 api02-1   | 
-api02-1   | 04:13:20.720 [info] POST /payments
+api02-1   | 12:55:25.772 [info] POST /payments
+worker-1  | 
+api02-1   | 
+worker-1  | 12:55:25.772 [info] 0f5a6146-4bea-4c0c-ad2c-ad40b2e531ff => default
+api02-1   | 12:55:25.772 [info] Sent 201 in 84µs
+worker-1  | 
+worker-1  | 12:55:25.774 [info] 0f5a6146-4bea-4c0c-ad2c-ad40b2e531ff OK
+api01-1   | 
+api01-1   | 12:55:25.863 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:25.863 [info] Sent 201 in 59µs
+worker-1  | 
+worker-1  | 12:55:25.863 [info] 6ea7248d-3901-4a0c-878d-3dedfea58623 => default
+worker-1  | 
+worker-1  | 12:55:25.865 [info] 6ea7248d-3901-4a0c-878d-3dedfea58623 OK
 api02-1   | 
-api02-1   | 04:13:20.720 [info] Sent 201 in 64µs
+api02-1   | 12:55:25.881 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:20.720 [info] ebeb0113-8a8a-4938-8fdd-cdd8dce6eded => default
+worker-1  | 12:55:25.881 [info] 1bd75e8c-8d4b-4d91-939c-b0afdc1a77ae => default
+api02-1   | 
+api02-1   | 12:55:25.881 [info] Sent 201 in 66µs
 worker-1  | 
-worker-1  | 04:13:20.723 [info] ebeb0113-8a8a-4938-8fdd-cdd8dce6eded OK
+worker-1  | 12:55:25.883 [info] 1bd75e8c-8d4b-4d91-939c-b0afdc1a77ae OK
 worker-1  | 
-worker-1  | 04:13:20.830 [info] 18145896-e35b-47a7-adb6-d5338b8f7dd1 => default
 api01-1   | 
-api01-1   | 04:13:20.830 [info] POST /payments
+worker-1  | 12:55:25.972 [info] adaa22f0-86ec-4734-967d-3157166cb58f => default
+api01-1   | 12:55:25.972 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:20.830 [info] Sent 201 in 53µs
+api01-1   | 12:55:25.972 [info] Sent 201 in 54µs
 worker-1  | 
-worker-1  | 04:13:20.832 [info] 18145896-e35b-47a7-adb6-d5338b8f7dd1 OK
+worker-1  | 12:55:25.974 [info] adaa22f0-86ec-4734-967d-3157166cb58f OK
 api02-1   | 
-api02-1   | 04:13:20.849 [info] POST /payments
+api02-1   | 12:55:25.990 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:20.849 [info] Sent 201 in 58µs
+api02-1   | 12:55:25.990 [info] Sent 201 in 104µs
 worker-1  | 
-worker-1  | 04:13:20.849 [info] 196bdeb3-6f1b-476c-9dfe-28c8b28e7cbd => default
+worker-1  | 12:55:25.990 [info] 05efbe1f-4f74-4237-84d5-858569e7b9b3 => default
 worker-1  | 
-worker-1  | 04:13:20.852 [info] 196bdeb3-6f1b-476c-9dfe-28c8b28e7cbd OK
+worker-1  | 12:55:25.992 [info] 05efbe1f-4f74-4237-84d5-858569e7b9b3 OK
 api01-1   | 
-api01-1   | 04:13:20.939 [info] POST /payments
+api01-1   | 12:55:26.081 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:20.939 [info] Sent 201 in 69µs
+api01-1   | 12:55:26.081 [info] Sent 201 in 69µs
 worker-1  | 
-worker-1  | 04:13:20.939 [info] 75fa4835-2b48-4b76-bbc6-1622666874b6 => default
+worker-1  | 12:55:26.081 [info] 7aa8b14c-e173-4cda-9ae1-069600c32d01 => default
 worker-1  | 
-worker-1  | 04:13:20.941 [info] 75fa4835-2b48-4b76-bbc6-1622666874b6 OK
+worker-1  | 12:55:26.083 [info] 7aa8b14c-e173-4cda-9ae1-069600c32d01 OK
 api02-1   | 
-api02-1   | 04:13:20.958 [info] POST /payments
-api02-1   | 
-api02-1   | 04:13:20.958 [info] Sent 201 in 66µs
+api02-1   | 12:55:26.099 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:20.958 [info] 0d354989-4243-4572-b925-5240e02b3794 => default
+worker-1  | 12:55:26.100 [info] 76c190b9-21f8-4e7b-90ef-8a703fe10724 => default
+api02-1   | 
+api02-1   | 12:55:26.100 [info] Sent 201 in 79µs
 worker-1  | 
-worker-1  | 04:13:20.960 [info] 0d354989-4243-4572-b925-5240e02b3794 OK
+worker-1  | 12:55:26.102 [info] 76c190b9-21f8-4e7b-90ef-8a703fe10724 OK
 api01-1   | 
-api01-1   | 04:13:21.048 [info] POST /payments
+api01-1   | 12:55:26.191 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:21.048 [info] Sent 201 in 69µs
+api01-1   | 12:55:26.191 [info] Sent 201 in 70µs
 worker-1  | 
-worker-1  | 04:13:21.048 [info] 22ad3cf8-751a-4caf-80ce-c26f8ec71a54 => default
+worker-1  | 12:55:26.191 [info] 6ec7008d-e345-43ee-b060-57df121666b8 => default
 worker-1  | 
-worker-1  | 04:13:21.050 [info] 22ad3cf8-751a-4caf-80ce-c26f8ec71a54 OK
+worker-1  | 12:55:26.194 [info] 6ec7008d-e345-43ee-b060-57df121666b8 OK
+api02-1   | 
+api02-1   | 12:55:26.209 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:26.209 [info] Sent 201 in 71µs
+worker-1  | 
+worker-1  | 12:55:26.209 [info] 9a9b4947-159d-4df5-88b4-6ad087763870 => default
+worker-1  | 
+worker-1  | 12:55:26.212 [info] 9a9b4947-159d-4df5-88b4-6ad087763870 OK
+api01-1   | 
+api01-1   | 12:55:26.330 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:26.330 [info] Sent 201 in 71µs
 worker-1  | 
-worker-1  | 04:13:21.067 [info] 6ca23f97-0757-4a93-a9dd-b65ca4464f92 => default
+worker-1  | 12:55:26.330 [info] ecad4056-6920-4fbc-a6d6-98cdf6762094 => default
 api02-1   | 
-api02-1   | 04:13:21.066 [info] POST /payments
+api02-1   | 12:55:26.331 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:21.067 [info] Sent 201 in 96µs
+api02-1   | 12:55:26.331 [info] Sent 201 in 52µs
+worker-1  | 
+worker-1  | 12:55:26.332 [info] e46361e2-7fd4-4634-9ea5-58a96dc4f647 => default
 worker-1  | 
-worker-1  | 04:13:21.069 [info] 6ca23f97-0757-4a93-a9dd-b65ca4464f92 OK
+worker-1  | 12:55:26.333 [info] ecad4056-6920-4fbc-a6d6-98cdf6762094 OK
 worker-1  | 
-worker-1  | 04:13:21.158 [info] c3e2ac8d-abe6-4563-8ebd-4316aef86420 => default
+worker-1  | 12:55:26.334 [info] e46361e2-7fd4-4634-9ea5-58a96dc4f647 OK
 api01-1   | 
-api01-1   | 04:13:21.158 [info] POST /payments
+api01-1   | 12:55:26.360 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:21.158 [info] Sent 201 in 112µs
+api01-1   | 12:55:26.360 [info] Sent 201 in 59µs
 worker-1  | 
-worker-1  | 04:13:21.161 [info] c3e2ac8d-abe6-4563-8ebd-4316aef86420 OK
+worker-1  | 12:55:26.360 [info] 6bfd159f-14fa-4a59-b0cd-a5006c34e9d4 => default
 worker-1  | 
-worker-1  | 04:13:21.177 [info] ba9bd2fc-acd8-4802-ad43-62005c4a596f => default
+worker-1  | 12:55:26.362 [info] 6bfd159f-14fa-4a59-b0cd-a5006c34e9d4 OK
 api02-1   | 
-api02-1   | 04:13:21.177 [info] POST /payments
+api02-1   | 12:55:26.409 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:21.177 [info] Sent 201 in 89µs
+api02-1   | 12:55:26.409 [info] Sent 201 in 83µs
 worker-1  | 
-worker-1  | 04:13:21.180 [info] ba9bd2fc-acd8-4802-ad43-62005c4a596f OK
+worker-1  | 12:55:26.409 [info] 059e879e-9b85-4012-8da9-3fa616d6548c => default
+worker-1  | 
+worker-1  | 12:55:26.411 [info] 059e879e-9b85-4012-8da9-3fa616d6548c OK
 api01-1   | 
-api01-1   | 04:13:21.267 [info] POST /payments
+api01-1   | 12:55:26.428 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:21.268 [info] Sent 201 in 57µs
+api01-1   | 12:55:26.428 [info] Sent 201 in 55µs
 worker-1  | 
-worker-1  | 04:13:21.268 [info] abde3018-e160-4d07-9e9b-8df82b1de12a => default
+worker-1  | 12:55:26.428 [info] c4c19cae-29ce-447a-8057-fab3bc1d77ad => default
 worker-1  | 
-worker-1  | 04:13:21.270 [info] abde3018-e160-4d07-9e9b-8df82b1de12a OK
+worker-1  | 12:55:26.430 [info] c4c19cae-29ce-447a-8057-fab3bc1d77ad OK
 api02-1   | 
-api02-1   | 04:13:21.285 [info] POST /payments
+api02-1   | 12:55:26.445 [info] POST /payments
+api02-1   | 
+worker-1  | 
+api02-1   | 12:55:26.445 [info] Sent 201 in 69µs
+worker-1  | 12:55:26.445 [info] df5e0a26-21e9-4b5b-b98c-0508aa8eafec => default
 worker-1  | 
-worker-1  | 04:13:21.285 [info] 120e8888-965a-4a80-a5a2-ecfc86fd8d74 => default
+worker-1  | 12:55:26.448 [info] df5e0a26-21e9-4b5b-b98c-0508aa8eafec OK
+api01-1   | 
+api01-1   | 12:55:26.518 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:26.519 [info] Sent 201 in 68µs
+worker-1  | 
+worker-1  | 12:55:26.519 [info] 6782d407-2098-458f-9424-b8859104cf8a => default
+worker-1  | 
+worker-1  | 12:55:26.521 [info] 6782d407-2098-458f-9424-b8859104cf8a OK
+api02-1   | 
+api02-1   | 12:55:26.537 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:21.285 [info] Sent 201 in 95µs
+api02-1   | 12:55:26.537 [info] Sent 201 in 72µs
 worker-1  | 
-worker-1  | 04:13:21.288 [info] 120e8888-965a-4a80-a5a2-ecfc86fd8d74 OK
+worker-1  | 12:55:26.537 [info] 56494c26-5e56-499e-b711-979ce4e922a0 => default
 worker-1  | 
-worker-1  | 04:13:21.377 [info] 1ae34eaf-66f5-4181-a774-03bf41f22e71 => default
+worker-1  | 12:55:26.539 [info] 56494c26-5e56-499e-b711-979ce4e922a0 OK
 api01-1   | 
-api01-1   | 04:13:21.376 [info] POST /payments
+api01-1   | 12:55:26.555 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:21.377 [info] Sent 201 in 108µs
+api01-1   | 12:55:26.555 [info] Sent 201 in 68µs
 worker-1  | 
-worker-1  | 04:13:21.380 [info] 1ae34eaf-66f5-4181-a774-03bf41f22e71 OK
+worker-1  | 12:55:26.555 [info] 4bd4c148-ea91-44d3-be63-8b90fee7ce76 => default
+worker-1  | 
+worker-1  | 12:55:26.557 [info] 4bd4c148-ea91-44d3-be63-8b90fee7ce76 OK
 api02-1   | 
-api02-1   | 04:13:21.394 [info] POST /payments
+api02-1   | 12:55:26.628 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:21.395 [info] ecabca42-88ca-400c-8023-85b4e81b2591 => default
+worker-1  | 12:55:26.628 [info] 893e1550-ac78-42ea-80c4-b008deb2e4c3 => default
 api02-1   | 
-api02-1   | 04:13:21.395 [info] Sent 201 in 62µs
+api02-1   | 12:55:26.628 [info] Sent 201 in 61µs
 worker-1  | 
-worker-1  | 04:13:21.397 [info] ecabca42-88ca-400c-8023-85b4e81b2591 OK
+worker-1  | 12:55:26.630 [info] 893e1550-ac78-42ea-80c4-b008deb2e4c3 OK
 api01-1   | 
-api01-1   | 04:13:21.485 [info] POST /payments
+api01-1   | 12:55:26.648 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:21.485 [info] Sent 201 in 66µs
+api01-1   | 12:55:26.648 [info] Sent 201 in 71µs
 worker-1  | 
-worker-1  | 04:13:21.486 [info] 993fb510-23ac-48f6-af35-2b4f66c6010e => default
+worker-1  | 12:55:26.648 [info] ce3aa9e7-b459-4d51-ab6d-5b863f5a0580 => default
 worker-1  | 
-worker-1  | 04:13:21.487 [info] 993fb510-23ac-48f6-af35-2b4f66c6010e OK
+worker-1  | 12:55:26.651 [info] ce3aa9e7-b459-4d51-ab6d-5b863f5a0580 OK
 api02-1   | 
-api02-1   | 04:13:21.504 [info] POST /payments
+api02-1   | 12:55:26.665 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:21.504 [info] Sent 201 in 74µs
+api02-1   | 12:55:26.665 [info] Sent 201 in 54µs
 worker-1  | 
-worker-1  | 04:13:21.504 [info] b608c4a3-d4ad-4dc6-b379-645396802abe => default
+worker-1  | 12:55:26.665 [info] 9c39c777-3910-4998-8cb8-302fe185abe7 => default
 worker-1  | 
-worker-1  | 04:13:21.506 [info] b608c4a3-d4ad-4dc6-b379-645396802abe OK
+worker-1  | 12:55:26.667 [info] 9c39c777-3910-4998-8cb8-302fe185abe7 OK
 worker-1  | 
-worker-1  | 04:13:21.596 [info] 2f21b12d-bf15-44e6-bcfc-d585a4409296 => default
 api01-1   | 
-api01-1   | 04:13:21.595 [info] POST /payments
+worker-1  | 12:55:26.737 [info] ae78ecd1-2ffb-401c-b674-f3b5b9e396f6 => default
+api01-1   | 12:55:26.737 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:21.595 [info] Sent 201 in 88µs
+api01-1   | 12:55:26.737 [info] Sent 201 in 57µs
 worker-1  | 
-worker-1  | 04:13:21.598 [info] 2f21b12d-bf15-44e6-bcfc-d585a4409296 OK
+worker-1  | 12:55:26.739 [info] ae78ecd1-2ffb-401c-b674-f3b5b9e396f6 OK
 api02-1   | 
-api02-1   | 04:13:21.614 [info] POST /payments
-worker-1  | 
-worker-1  | 04:13:21.614 [info] 567697a2-1068-4ee6-bfe7-442ad0d5018e => default
+api02-1   | 12:55:26.755 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:21.614 [info] Sent 201 in 70µs
+api02-1   | 12:55:26.755 [info] Sent 201 in 71µs
 worker-1  | 
-worker-1  | 04:13:21.616 [info] 567697a2-1068-4ee6-bfe7-442ad0d5018e OK
+worker-1  | 12:55:26.756 [info] d4f35267-669d-421e-bae9-ee7b9e70981e => default
+worker-1  | 
+worker-1  | 12:55:26.757 [info] d4f35267-669d-421e-bae9-ee7b9e70981e OK
 api01-1   | 
-api01-1   | 04:13:21.704 [info] POST /payments
+api01-1   | 12:55:26.774 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:21.705 [info] Sent 201 in 86µs
+api01-1   | 12:55:26.774 [info] Sent 201 in 52µs
 worker-1  | 
-worker-1  | 04:13:21.705 [info] 7fe3dd1d-558c-4e29-b5d1-b722e9dcdaf1 => default
+worker-1  | 12:55:26.774 [info] 70e4e400-8fd8-4a75-90d1-5a288785b646 => default
 worker-1  | 
-worker-1  | 04:13:21.707 [info] 7fe3dd1d-558c-4e29-b5d1-b722e9dcdaf1 OK
+worker-1  | 12:55:26.776 [info] 70e4e400-8fd8-4a75-90d1-5a288785b646 OK
 api02-1   | 
-api02-1   | 04:13:21.722 [info] POST /payments
-worker-1  | 
-worker-1  | 04:13:21.722 [info] b541fc56-36c1-41e9-a065-42389473a646 => default
+api02-1   | 12:55:26.846 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:21.722 [info] Sent 201 in 133µs
+api02-1   | 12:55:26.846 [info] Sent 201 in 66µs
+worker-1  | 
+worker-1  | 12:55:26.846 [info] 99e1fc64-f3bc-413e-b7ed-52b788c87e61 => default
 worker-1  | 
-worker-1  | 04:13:21.725 [info] b541fc56-36c1-41e9-a065-42389473a646 OK
+worker-1  | 12:55:26.848 [info] 99e1fc64-f3bc-413e-b7ed-52b788c87e61 OK
 api01-1   | 
-api01-1   | 04:13:21.830 [info] POST /payments
+api01-1   | 12:55:26.865 [info] POST /payments
+worker-1  | 
+worker-1  | 12:55:26.865 [info] 4b7775d2-1d0b-4256-a670-0fdcaaf7f7e0 => default
 api01-1   | 
-api01-1   | 04:13:21.830 [info] Sent 201 in 58µs
+api01-1   | 12:55:26.865 [info] Sent 201 in 105µs
 worker-1  | 
-worker-1  | 04:13:21.830 [info] 3e12e598-3948-4d83-8422-56a22ee08846 => default
+worker-1  | 12:55:26.867 [info] 4b7775d2-1d0b-4256-a670-0fdcaaf7f7e0 OK
 api02-1   | 
-api02-1   | 04:13:21.831 [info] POST /payments
+api02-1   | 12:55:26.883 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:21.831 [info] Sent 201 in 59µs
-worker-1  | 
-worker-1  | 04:13:21.831 [info] 9f7dfe2f-e2dd-4123-9760-26cb349f8064 => default
+api02-1   | 12:55:26.883 [info] Sent 201 in 68µs
 worker-1  | 
-worker-1  | 04:13:21.834 [info] 3e12e598-3948-4d83-8422-56a22ee08846 OK
+worker-1  | 12:55:26.883 [info] 145a5aab-3397-42f0-a646-ade2736d5a42 => default
 worker-1  | 
-worker-1  | 04:13:21.835 [info] 9f7dfe2f-e2dd-4123-9760-26cb349f8064 OK
+worker-1  | 12:55:26.885 [info] 145a5aab-3397-42f0-a646-ade2736d5a42 OK
 api01-1   | 
-api01-1   | 04:13:21.851 [info] POST /payments
+api01-1   | 12:55:26.955 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:21.851 [info] Sent 201 in 78µs
+api01-1   | 12:55:26.955 [info] Sent 201 in 72µs
 worker-1  | 
-worker-1  | 04:13:21.851 [info] fad97ca6-d00b-4ccf-8cef-0cff77a123f2 => default
+worker-1  | 12:55:26.955 [info] 362cec5a-dd87-45c7-bfb1-8b0591b2d739 => default
 worker-1  | 
-worker-1  | 04:13:21.854 [info] fad97ca6-d00b-4ccf-8cef-0cff77a123f2 OK
+worker-1  | 12:55:26.957 [info] 362cec5a-dd87-45c7-bfb1-8b0591b2d739 OK
 api02-1   | 
-api02-1   | 04:13:21.923 [info] POST /payments
+api02-1   | 12:55:26.974 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:21.923 [info] Sent 201 in 72µs
+api02-1   | 12:55:26.974 [info] Sent 201 in 59µs
 worker-1  | 
-worker-1  | 04:13:21.923 [info] ecff3b0e-dcf3-49d3-ad2f-fd8b965a1cb8 => default
+worker-1  | 12:55:26.974 [info] d7d7bde3-323d-4a64-a46a-fa731bdce08d => default
 worker-1  | 
-worker-1  | 04:13:21.925 [info] ecff3b0e-dcf3-49d3-ad2f-fd8b965a1cb8 OK
+worker-1  | 12:55:26.976 [info] d7d7bde3-323d-4a64-a46a-fa731bdce08d OK
 api01-1   | 
-api01-1   | 04:13:21.942 [info] POST /payments
+api01-1   | 12:55:26.992 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:21.942 [info] Sent 201 in 70µs
+api01-1   | 12:55:26.992 [info] Sent 201 in 97µs
 worker-1  | 
-worker-1  | 04:13:21.942 [info] 9b9b503b-51a4-44a1-b901-2bf11f6d77cb => default
+worker-1  | 12:55:26.993 [info] b2b93c86-c564-402f-aa09-e31df2557fe4 => default
 worker-1  | 
-worker-1  | 04:13:21.944 [info] 9b9b503b-51a4-44a1-b901-2bf11f6d77cb OK
+worker-1  | 12:55:26.995 [info] b2b93c86-c564-402f-aa09-e31df2557fe4 OK
 api02-1   | 
-api02-1   | 04:13:21.960 [info] POST /payments
-worker-1  | 
-worker-1  | 04:13:21.960 [info] ba040b6a-171e-4121-b538-49633d771fac => default
+api02-1   | 12:55:27.065 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:21.960 [info] Sent 201 in 91µs
+api02-1   | 12:55:27.065 [info] Sent 201 in 91µs
 worker-1  | 
-worker-1  | 04:13:21.963 [info] ba040b6a-171e-4121-b538-49633d771fac OK
+worker-1  | 12:55:27.065 [info] 3fe86617-3c86-4c28-931d-1cd28c422422 => default
 worker-1  | 
-worker-1  | 04:13:22.032 [info] f5288be3-381a-4dbc-9f63-1c99bafab413 => default
+worker-1  | 12:55:27.068 [info] 3fe86617-3c86-4c28-931d-1cd28c422422 OK
 api01-1   | 
-api01-1   | 04:13:22.032 [info] POST /payments
+api01-1   | 12:55:27.082 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.032 [info] Sent 201 in 70µs
+api01-1   | 12:55:27.083 [info] Sent 201 in 58µs
 worker-1  | 
-worker-1  | 04:13:22.034 [info] f5288be3-381a-4dbc-9f63-1c99bafab413 OK
+worker-1  | 12:55:27.083 [info] 0753efc6-44aa-4381-a5f4-a557a47df13d => default
+worker-1  | 
+worker-1  | 12:55:27.085 [info] 0753efc6-44aa-4381-a5f4-a557a47df13d OK
 api02-1   | 
-api02-1   | 04:13:22.050 [info] POST /payments
+api02-1   | 12:55:27.101 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.051 [info] Sent 201 in 98µs
+api02-1   | 12:55:27.101 [info] Sent 201 in 70µs
+worker-1  | 
+worker-1  | 12:55:27.102 [info] f0fcbc07-cf45-4e89-9a8f-2e2525ff437e => default
 worker-1  | 
-worker-1  | 04:13:22.051 [info] f6aed43e-ddeb-41e1-aa2f-c8e2fe663ed6 => default
+worker-1  | 12:55:27.104 [info] f0fcbc07-cf45-4e89-9a8f-2e2525ff437e OK
+api01-1   | 
+api01-1   | 12:55:27.173 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:27.174 [info] Sent 201 in 53µs
+worker-1  | 
+worker-1  | 12:55:27.174 [info] d4ae2a13-f2cc-4d04-916f-6ed92ddcdb4b => default
+worker-1  | 
+worker-1  | 12:55:27.176 [info] d4ae2a13-f2cc-4d04-916f-6ed92ddcdb4b OK
+api02-1   | 
+api02-1   | 12:55:27.193 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:27.193 [info] Sent 201 in 94µs
 worker-1  | 
-worker-1  | 04:13:22.053 [info] f6aed43e-ddeb-41e1-aa2f-c8e2fe663ed6 OK
+worker-1  | 12:55:27.193 [info] 2296a46f-3c50-4ebd-9f23-d7f80cf1ea75 => default
 worker-1  | 
-worker-1  | 04:13:22.069 [info] 67ad8404-c1ee-4b2f-a2f6-19d2a99afdd3 => default
+worker-1  | 12:55:27.196 [info] 2296a46f-3c50-4ebd-9f23-d7f80cf1ea75 OK
 api01-1   | 
-api01-1   | 04:13:22.069 [info] POST /payments
+api01-1   | 12:55:27.211 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.069 [info] Sent 201 in 108µs
+api01-1   | 12:55:27.211 [info] Sent 201 in 68µs
+worker-1  | 
+worker-1  | 12:55:27.211 [info] 39e8c954-a289-40a8-9504-4d93cd06b140 => default
 worker-1  | 
-worker-1  | 04:13:22.071 [info] 67ad8404-c1ee-4b2f-a2f6-19d2a99afdd3 OK
+worker-1  | 12:55:27.213 [info] 39e8c954-a289-40a8-9504-4d93cd06b140 OK
 api02-1   | 
-api02-1   | 04:13:22.141 [info] POST /payments
+api02-1   | 12:55:27.283 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:27.283 [info] Sent 201 in 73µs
+worker-1  | 
+worker-1  | 12:55:27.283 [info] 22de429d-947a-4e8c-a6d5-c920299251f3 => default
+worker-1  | 
+worker-1  | 12:55:27.285 [info] 22de429d-947a-4e8c-a6d5-c920299251f3 OK
 worker-1  | 
-worker-1  | 04:13:22.142 [info] e7d890e6-392b-4147-9a6a-851721edd034 => default
+worker-1  | 12:55:27.332 [info] 30a5cb7c-4dbc-4c8a-bf08-36a15aa1f1df => default
+api01-1   | 
+api01-1   | 12:55:27.332 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:27.332 [info] Sent 201 in 65µs
 api02-1   | 
-api02-1   | 04:13:22.141 [info] Sent 201 in 88µs
+api02-1   | 12:55:27.333 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:27.333 [info] Sent 201 in 67µs
+worker-1  | 
+worker-1  | 12:55:27.333 [info] da8a0042-2141-4399-9e76-9842453dddb4 => default
+worker-1  | 
+worker-1  | 12:55:27.334 [info] 30a5cb7c-4dbc-4c8a-bf08-36a15aa1f1df OK
 worker-1  | 
-worker-1  | 04:13:22.144 [info] e7d890e6-392b-4147-9a6a-851721edd034 OK
+worker-1  | 12:55:27.335 [info] da8a0042-2141-4399-9e76-9842453dddb4 OK
 api01-1   | 
-api01-1   | 04:13:22.160 [info] POST /payments
+api01-1   | 12:55:27.362 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:22.160 [info] 14678bd3-1480-42ce-9f28-db59a62a184e => default
+worker-1  | 12:55:27.362 [info] 71ba7cd8-d564-4f57-8775-9bea853f3108 => default
 api01-1   | 
-api01-1   | 04:13:22.160 [info] Sent 201 in 56µs
+api01-1   | 12:55:27.362 [info] Sent 201 in 67µs
 worker-1  | 
-worker-1  | 04:13:22.162 [info] 14678bd3-1480-42ce-9f28-db59a62a184e OK
+worker-1  | 12:55:27.364 [info] 71ba7cd8-d564-4f57-8775-9bea853f3108 OK
 api02-1   | 
-api02-1   | 04:13:22.179 [info] POST /payments
+api02-1   | 12:55:27.393 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.180 [info] Sent 201 in 59µs
+api02-1   | 12:55:27.393 [info] Sent 201 in 78µs
 worker-1  | 
-worker-1  | 04:13:22.180 [info] e1712216-4813-42d9-985e-3810551dbce1 => default
+worker-1  | 12:55:27.393 [info] adfaaafc-5232-481d-bdaf-2cabab5ba895 => default
 worker-1  | 
-worker-1  | 04:13:22.182 [info] e1712216-4813-42d9-985e-3810551dbce1 OK
+worker-1  | 12:55:27.395 [info] adfaaafc-5232-481d-bdaf-2cabab5ba895 OK
 api01-1   | 
-api01-1   | 04:13:22.251 [info] POST /payments
+api01-1   | 12:55:27.411 [info] POST /payments
 api01-1   | 
+api01-1   | 12:55:27.411 [info] Sent 201 in 63µs
 worker-1  | 
-api01-1   | 04:13:22.251 [info] Sent 201 in 52µs
-worker-1  | 04:13:22.251 [info] 664317fd-c4ee-4885-a56d-f9dc22ae6d82 => default
+worker-1  | 12:55:27.411 [info] a584c0a3-dc0e-4e0e-9d0d-aea8e3efde2c => default
 worker-1  | 
-worker-1  | 04:13:22.253 [info] 664317fd-c4ee-4885-a56d-f9dc22ae6d82 OK
+worker-1  | 12:55:27.413 [info] a584c0a3-dc0e-4e0e-9d0d-aea8e3efde2c OK
 api02-1   | 
-api02-1   | 04:13:22.269 [info] POST /payments
+api02-1   | 12:55:27.429 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.270 [info] Sent 201 in 69µs
+api02-1   | 12:55:27.430 [info] Sent 201 in 70µs
 worker-1  | 
-worker-1  | 04:13:22.270 [info] 63947493-b0c8-45c6-bc08-2e524b8b34ab => default
+worker-1  | 12:55:27.430 [info] 9f7e3b66-e7ce-4db2-ad71-cc1ad584eed7 => default
 worker-1  | 
-worker-1  | 04:13:22.272 [info] 63947493-b0c8-45c6-bc08-2e524b8b34ab OK
+worker-1  | 12:55:27.434 [info] 9f7e3b66-e7ce-4db2-ad71-cc1ad584eed7 OK
 api01-1   | 
-api01-1   | 04:13:22.288 [info] POST /payments
+api01-1   | 12:55:27.447 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.288 [info] Sent 201 in 68µs
+api01-1   | 12:55:27.447 [info] Sent 201 in 67µs
 worker-1  | 
-worker-1  | 04:13:22.288 [info] 6342361b-7191-462b-82c9-81d0ec479f10 => default
+worker-1  | 12:55:27.448 [info] 6f6b29be-ff2e-4df7-a738-c15a7f098d32 => default
 worker-1  | 
-worker-1  | 04:13:22.290 [info] 6342361b-7191-462b-82c9-81d0ec479f10 OK
-worker-1  | 
-worker-1  | 04:13:22.361 [info] faf1447b-2b91-4bc8-b158-1bcffe88c6c1 => default
+worker-1  | 12:55:27.450 [info] 6f6b29be-ff2e-4df7-a738-c15a7f098d32 OK
 api02-1   | 
-api02-1   | 04:13:22.360 [info] POST /payments
+api02-1   | 12:55:27.502 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.360 [info] Sent 201 in 67µs
+api02-1   | 12:55:27.502 [info] Sent 201 in 66µs
+worker-1  | 
+worker-1  | 12:55:27.502 [info] fad8bada-2b6e-4f4a-a5ac-df53c83666f1 => default
 worker-1  | 
-worker-1  | 04:13:22.363 [info] faf1447b-2b91-4bc8-b158-1bcffe88c6c1 OK
+worker-1  | 12:55:27.503 [info] fad8bada-2b6e-4f4a-a5ac-df53c83666f1 OK
 api01-1   | 
-api01-1   | 04:13:22.379 [info] POST /payments
+api01-1   | 12:55:27.520 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.379 [info] Sent 201 in 71µs
+api01-1   | 12:55:27.520 [info] Sent 201 in 81µs
 worker-1  | 
-worker-1  | 04:13:22.379 [info] 39f21002-4491-4512-af2c-160fb3553d8b => default
+worker-1  | 12:55:27.520 [info] fe45d545-f012-4005-a71b-32c465c7d34a => default
 worker-1  | 
-worker-1  | 04:13:22.381 [info] 39f21002-4491-4512-af2c-160fb3553d8b OK
+worker-1  | 12:55:27.522 [info] fe45d545-f012-4005-a71b-32c465c7d34a OK
 api02-1   | 
-api02-1   | 04:13:22.397 [info] POST /payments
-worker-1  | 
-worker-1  | 04:13:22.397 [info] c4c49b21-3487-4083-9328-609e9388edf0 => default
+api02-1   | 12:55:27.539 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.397 [info] Sent 201 in 70µs
+api02-1   | 12:55:27.539 [info] Sent 201 in 77µs
 worker-1  | 
-worker-1  | 04:13:22.399 [info] c4c49b21-3487-4083-9328-609e9388edf0 OK
+worker-1  | 12:55:27.539 [info] 307ff78d-ecb3-4ee4-9e73-e426fa08c58e => default
+worker-1  | 
+worker-1  | 12:55:27.541 [info] 307ff78d-ecb3-4ee4-9e73-e426fa08c58e OK
 api01-1   | 
-api01-1   | 04:13:22.469 [info] POST /payments
+api01-1   | 12:55:27.557 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.469 [info] Sent 201 in 68µs
+api01-1   | 12:55:27.557 [info] Sent 201 in 89µs
+worker-1  | 
+worker-1  | 12:55:27.557 [info] 550ceac8-1a53-4cba-a8e7-2b1c139c347a => default
 worker-1  | 
-worker-1  | 04:13:22.469 [info] 4ffd4a59-2a2e-4f81-9544-2617c296082e => default
+worker-1  | 12:55:27.559 [info] 550ceac8-1a53-4cba-a8e7-2b1c139c347a OK
+api02-1   | 
+api02-1   | 12:55:27.611 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:27.611 [info] Sent 201 in 60µs
+worker-1  | 
+worker-1  | 12:55:27.611 [info] 8e3d7b62-614d-4aaa-aa0b-c1b3513a11fa => default
+worker-1  | 
+worker-1  | 12:55:27.613 [info] 8e3d7b62-614d-4aaa-aa0b-c1b3513a11fa OK
+api01-1   | 
+api01-1   | 12:55:27.630 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:22.471 [info] 4ffd4a59-2a2e-4f81-9544-2617c296082e OK
+worker-1  | 12:55:27.630 [info] c05aed04-c7da-4e98-a355-ed4d8a6b1ec6 => default
+api01-1   | 
+api01-1   | 12:55:27.630 [info] Sent 201 in 68µs
 worker-1  | 
-worker-1  | 04:13:22.487 [info] 53c38fc9-bbea-4045-b1bb-a47146bfd2b5 => default
+worker-1  | 12:55:27.632 [info] c05aed04-c7da-4e98-a355-ed4d8a6b1ec6 OK
 api02-1   | 
-api02-1   | 04:13:22.487 [info] POST /payments
+api02-1   | 12:55:27.650 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.487 [info] Sent 201 in 80µs
+api02-1   | 12:55:27.650 [info] Sent 201 in 56µs
+worker-1  | 
+worker-1  | 12:55:27.650 [info] 6011e367-c7c3-4f16-b963-10aee273b61f => default
 worker-1  | 
-worker-1  | 04:13:22.489 [info] 53c38fc9-bbea-4045-b1bb-a47146bfd2b5 OK
+worker-1  | 12:55:27.652 [info] 6011e367-c7c3-4f16-b963-10aee273b61f OK
 api01-1   | 
-api01-1   | 04:13:22.506 [info] POST /payments
+api01-1   | 12:55:27.668 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:22.506 [info] 5a9df3aa-864b-4b6f-8340-23ee29718910 => default
+worker-1  | 12:55:27.668 [info] 4a9c8f2a-5c6b-4f66-841e-497a9bd143b1 => default
 api01-1   | 
-api01-1   | 04:13:22.506 [info] Sent 201 in 83µs
+api01-1   | 12:55:27.668 [info] Sent 201 in 66µs
 worker-1  | 
-worker-1  | 04:13:22.508 [info] 5a9df3aa-864b-4b6f-8340-23ee29718910 OK
+worker-1  | 12:55:27.670 [info] 4a9c8f2a-5c6b-4f66-841e-497a9bd143b1 OK
 api02-1   | 
-api02-1   | 04:13:22.579 [info] POST /payments
+api02-1   | 12:55:27.720 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:22.579 [info] be6f379e-8b81-4a6e-8ede-21d331ba44d2 => default
+worker-1  | 12:55:27.721 [info] f496d375-17e8-4f7f-889a-bd7c21040a86 => default
 api02-1   | 
-api02-1   | 04:13:22.579 [info] Sent 201 in 57µs
+api02-1   | 12:55:27.721 [info] Sent 201 in 156µs
 worker-1  | 
-worker-1  | 04:13:22.580 [info] be6f379e-8b81-4a6e-8ede-21d331ba44d2 OK
+worker-1  | 12:55:27.723 [info] f496d375-17e8-4f7f-889a-bd7c21040a86 OK
 api01-1   | 
-api01-1   | 04:13:22.597 [info] POST /payments
+api01-1   | 12:55:27.738 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.597 [info] Sent 201 in 54µs
+api01-1   | 12:55:27.738 [info] Sent 201 in 54µs
 worker-1  | 
-worker-1  | 04:13:22.597 [info] f519a7fd-d41c-4fd8-b624-8a8c32144ea9 => default
+worker-1  | 12:55:27.738 [info] f5c455b2-0a1d-48e6-86fb-a860557d695e => default
 worker-1  | 
-worker-1  | 04:13:22.599 [info] f519a7fd-d41c-4fd8-b624-8a8c32144ea9 OK
+worker-1  | 12:55:27.740 [info] f5c455b2-0a1d-48e6-86fb-a860557d695e OK
 api02-1   | 
-api02-1   | 04:13:22.616 [info] POST /payments
+api02-1   | 12:55:27.757 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.616 [info] Sent 201 in 55µs
+api02-1   | 12:55:27.757 [info] Sent 201 in 110µs
 worker-1  | 
-worker-1  | 04:13:22.616 [info] 7447f46e-3fd8-46ac-b29a-f84087ada143 => default
+worker-1  | 12:55:27.757 [info] e945ed90-07c3-406d-b454-fe01c681dd8f => default
 worker-1  | 
-worker-1  | 04:13:22.618 [info] 7447f46e-3fd8-46ac-b29a-f84087ada143 OK
+worker-1  | 12:55:27.759 [info] e945ed90-07c3-406d-b454-fe01c681dd8f OK
 api01-1   | 
-api01-1   | 04:13:22.688 [info] POST /payments
-worker-1  | 
-worker-1  | 04:13:22.688 [info] eeee6319-5934-4be6-a240-151d2e01f9f3 => default
+api01-1   | 12:55:27.775 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.688 [info] Sent 201 in 67µs
+api01-1   | 12:55:27.776 [info] Sent 201 in 76µs
 worker-1  | 
-worker-1  | 04:13:22.690 [info] eeee6319-5934-4be6-a240-151d2e01f9f3 OK
+worker-1  | 12:55:27.776 [info] 8061600a-8359-4d7a-8f34-1df12af95a9c => default
+worker-1  | 
+worker-1  | 12:55:27.778 [info] 8061600a-8359-4d7a-8f34-1df12af95a9c OK
 api02-1   | 
-api02-1   | 04:13:22.707 [info] POST /payments
+api02-1   | 12:55:27.829 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.707 [info] Sent 201 in 70µs
+api02-1   | 12:55:27.830 [info] Sent 201 in 71µs
 worker-1  | 
-worker-1  | 04:13:22.707 [info] 21decf19-07d5-4d85-9801-f0a3ff14e708 => default
+worker-1  | 12:55:27.830 [info] 301e2855-c5bc-4a0f-8353-6f407b392cbf => default
 worker-1  | 
-worker-1  | 04:13:22.709 [info] 21decf19-07d5-4d85-9801-f0a3ff14e708 OK
+worker-1  | 12:55:27.831 [info] 301e2855-c5bc-4a0f-8353-6f407b392cbf OK
 api01-1   | 
-api01-1   | 04:13:22.724 [info] POST /payments
-worker-1  | 
-worker-1  | 04:13:22.725 [info] 24bf3cb9-8b32-412a-8c7f-2e5c7a181508 => default
+api01-1   | 12:55:27.848 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.724 [info] Sent 201 in 68µs
+api01-1   | 12:55:27.848 [info] Sent 201 in 67µs
 worker-1  | 
-worker-1  | 04:13:22.726 [info] 24bf3cb9-8b32-412a-8c7f-2e5c7a181508 OK
-api02-1   | 
-api02-1   | 04:13:22.798 [info] POST /payments
+worker-1  | 12:55:27.848 [info] 270e4a7d-cf1c-4609-b618-c270d6fb0f00 => default
 worker-1  | 
+worker-1  | 12:55:27.850 [info] 270e4a7d-cf1c-4609-b618-c270d6fb0f00 OK
+api02-1   | 
+api02-1   | 12:55:27.868 [info] POST /payments
 api02-1   | 
-worker-1  | 04:13:22.798 [info] 5123ca79-4c66-475c-b3df-d64a4dcb6e56 => default
-api02-1   | 04:13:22.798 [info] Sent 201 in 67µs
+api02-1   | 12:55:27.868 [info] Sent 201 in 58µs
 worker-1  | 
-worker-1  | 04:13:22.800 [info] 5123ca79-4c66-475c-b3df-d64a4dcb6e56 OK
+worker-1  | 12:55:27.868 [info] 4527bcee-b32f-403e-b9cb-49475fad49ca => default
+worker-1  | 
+worker-1  | 12:55:27.869 [info] 4527bcee-b32f-403e-b9cb-49475fad49ca OK
 api01-1   | 
-api01-1   | 04:13:22.831 [info] POST /payments
+api01-1   | 12:55:27.885 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.831 [info] Sent 201 in 66µs
+api01-1   | 12:55:27.885 [info] Sent 201 in 70µs
 worker-1  | 
-worker-1  | 04:13:22.832 [info] d0240183-c64f-4e65-8158-8397e5bc252b => default
-api02-1   | 
-api02-1   | 04:13:22.832 [info] POST /payments
+worker-1  | 12:55:27.885 [info] 056abd00-88bf-4641-a2a9-b9b7e61d0ce2 => default
 worker-1  | 
-worker-1  | 04:13:22.833 [info] 14fd52fe-fb2c-4981-a1e0-4d80e86660b1 => default
+worker-1  | 12:55:27.887 [info] 056abd00-88bf-4641-a2a9-b9b7e61d0ce2 OK
+api02-1   | 
+api02-1   | 12:55:27.939 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.833 [info] Sent 201 in 83µs
+api02-1   | 12:55:27.939 [info] Sent 201 in 54µs
 worker-1  | 
-worker-1  | 04:13:22.835 [info] d0240183-c64f-4e65-8158-8397e5bc252b OK
+worker-1  | 12:55:27.939 [info] f0434695-7438-40e5-a7dc-7eeb41287830 => default
 worker-1  | 
-worker-1  | 04:13:22.835 [info] 14fd52fe-fb2c-4981-a1e0-4d80e86660b1 OK
+worker-1  | 12:55:27.941 [info] f0434695-7438-40e5-a7dc-7eeb41287830 OK
 api01-1   | 
-api01-1   | 04:13:22.853 [info] POST /payments
+api01-1   | 12:55:27.957 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.853 [info] Sent 201 in 59µs
+api01-1   | 12:55:27.957 [info] Sent 201 in 60µs
 worker-1  | 
-worker-1  | 04:13:22.853 [info] 4fdf4e37-7775-4593-9d01-17ab82dc7c25 => default
+worker-1  | 12:55:27.957 [info] 5b20f5cf-8eb0-493d-ac22-0db682b1ae92 => default
 worker-1  | 
-worker-1  | 04:13:22.855 [info] 4fdf4e37-7775-4593-9d01-17ab82dc7c25 OK
+worker-1  | 12:55:27.959 [info] 5b20f5cf-8eb0-493d-ac22-0db682b1ae92 OK
 api02-1   | 
-api02-1   | 04:13:22.906 [info] POST /payments
+api02-1   | 12:55:27.975 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.906 [info] Sent 201 in 62µs
+api02-1   | 12:55:27.976 [info] Sent 201 in 68µs
 worker-1  | 
-worker-1  | 04:13:22.906 [info] b349d17e-8e85-4339-aa88-49f82c441a62 => default
+worker-1  | 12:55:27.976 [info] 1c482851-aec2-47c1-8813-eff13bfb4932 => default
 worker-1  | 
-worker-1  | 04:13:22.908 [info] b349d17e-8e85-4339-aa88-49f82c441a62 OK
+worker-1  | 12:55:27.978 [info] 1c482851-aec2-47c1-8813-eff13bfb4932 OK
 api01-1   | 
-api01-1   | 04:13:22.925 [info] POST /payments
+api01-1   | 12:55:27.994 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:27.994 [info] Sent 201 in 69µs
+worker-1  | 
+worker-1  | 12:55:27.994 [info] 9025453a-2085-4d28-9102-dd1c293fba37 => default
+worker-1  | 
+worker-1  | 12:55:27.996 [info] 9025453a-2085-4d28-9102-dd1c293fba37 OK
+api02-1   | 
+api02-1   | 12:55:28.048 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:28.048 [info] Sent 201 in 88µs
 worker-1  | 
-worker-1  | 04:13:22.925 [info] dfc9d849-d22a-4678-8cb2-b6b6e5d09ab5 => default
+worker-1  | 12:55:28.048 [info] e5596b22-1bfe-4af5-9e0a-4f09430cb64b => default
+worker-1  | 
+worker-1  | 12:55:28.051 [info] e5596b22-1bfe-4af5-9e0a-4f09430cb64b OK
+api01-1   | 
+api01-1   | 12:55:28.067 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.925 [info] Sent 201 in 66µs
+api01-1   | 12:55:28.067 [info] Sent 201 in 66µs
 worker-1  | 
-worker-1  | 04:13:22.927 [info] dfc9d849-d22a-4678-8cb2-b6b6e5d09ab5 OK
+worker-1  | 12:55:28.067 [info] 4eac6754-024b-4fc5-8a45-7410add9375d => default
+worker-1  | 
+worker-1  | 12:55:28.069 [info] 4eac6754-024b-4fc5-8a45-7410add9375d OK
 api02-1   | 
-api02-1   | 04:13:22.943 [info] POST /payments
+api02-1   | 12:55:28.084 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:22.944 [info] Sent 201 in 69µs
+api02-1   | 12:55:28.084 [info] Sent 201 in 71µs
 worker-1  | 
-worker-1  | 04:13:22.944 [info] fa19da33-1c2d-40b5-8989-b548fe975732 => default
+worker-1  | 12:55:28.084 [info] 9cea5241-d484-47e9-a5a7-86e8771ee485 => default
 worker-1  | 
-worker-1  | 04:13:22.945 [info] fa19da33-1c2d-40b5-8989-b548fe975732 OK
+worker-1  | 12:55:28.086 [info] 9cea5241-d484-47e9-a5a7-86e8771ee485 OK
 api01-1   | 
-api01-1   | 04:13:22.962 [info] POST /payments
+api01-1   | 12:55:28.104 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:22.962 [info] Sent 201 in 93µs
+api01-1   | 12:55:28.104 [info] Sent 201 in 71µs
 worker-1  | 
-worker-1  | 04:13:22.963 [info] 5633548b-e765-4109-b757-b81d7dcafca4 => default
+worker-1  | 12:55:28.104 [info] a0a63df7-f7c8-4bea-b923-ddd3f152eec7 => default
 worker-1  | 
-worker-1  | 04:13:22.964 [info] 5633548b-e765-4109-b757-b81d7dcafca4 OK
+worker-1  | 12:55:28.106 [info] a0a63df7-f7c8-4bea-b923-ddd3f152eec7 OK
 api02-1   | 
-api02-1   | 04:13:23.016 [info] POST /payments
+api02-1   | 12:55:28.158 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:28.158 [info] Sent 201 in 62µs
+worker-1  | 
+worker-1  | 12:55:28.158 [info] d1b8476f-d448-41ee-8f77-ff8d6350c99f => default
 worker-1  | 
-worker-1  | 04:13:23.016 [info] e26e40f3-cd79-4c23-8f67-aefc12ee46f7 => default
+worker-1  | 12:55:28.160 [info] d1b8476f-d448-41ee-8f77-ff8d6350c99f OK
+api01-1   | 
+api01-1   | 12:55:28.175 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:28.176 [info] Sent 201 in 70µs
+worker-1  | 
+worker-1  | 12:55:28.176 [info] 18b6d03e-0439-46ea-9baf-205954f0eeb9 => default
+worker-1  | 
+worker-1  | 12:55:28.177 [info] 18b6d03e-0439-46ea-9baf-205954f0eeb9 OK
+api02-1   | 
+api02-1   | 12:55:28.195 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:23.016 [info] Sent 201 in 67µs
+api02-1   | 12:55:28.195 [info] Sent 201 in 84µs
 worker-1  | 
-worker-1  | 04:13:23.018 [info] e26e40f3-cd79-4c23-8f67-aefc12ee46f7 OK
+worker-1  | 12:55:28.195 [info] 82d3291d-2d9f-43b0-9a09-fd282e005d8a => default
 worker-1  | 
-worker-1  | 04:13:23.034 [info] 448dd724-e717-4cac-8b6e-6b55824315a0 => default
+worker-1  | 12:55:28.197 [info] 82d3291d-2d9f-43b0-9a09-fd282e005d8a OK
 api01-1   | 
-api01-1   | 04:13:23.034 [info] POST /payments
+api01-1   | 12:55:28.213 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:23.034 [info] Sent 201 in 78µs
+api01-1   | 12:55:28.213 [info] Sent 201 in 78µs
 worker-1  | 
-worker-1  | 04:13:23.036 [info] 448dd724-e717-4cac-8b6e-6b55824315a0 OK
+worker-1  | 12:55:28.213 [info] f27f6e67-9053-4ff0-9115-0608be2de15a => default
+worker-1  | 
+worker-1  | 12:55:28.215 [info] f27f6e67-9053-4ff0-9115-0608be2de15a OK
+worker-1  | 
+worker-1  | 12:55:28.268 [info] 2484ccbe-5ceb-4956-8785-30e4dc9c9c3f => default
 api02-1   | 
-api02-1   | 04:13:23.053 [info] POST /payments
+api02-1   | 12:55:28.267 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:23.053 [info] Sent 201 in 69µs
+api02-1   | 12:55:28.268 [info] Sent 201 in 76µs
+worker-1  | 
+worker-1  | 12:55:28.270 [info] 2484ccbe-5ceb-4956-8785-30e4dc9c9c3f OK
+api01-1   | 
+api01-1   | 12:55:28.286 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:28.286 [info] Sent 201 in 86µs
 worker-1  | 
-worker-1  | 04:13:23.053 [info] 513dc16a-9c75-4b73-aaa7-5afbeacbd56c => default
+worker-1  | 12:55:28.286 [info] 1335fb48-14b4-4ba3-9ee6-b49eed51bc06 => default
 worker-1  | 
-worker-1  | 04:13:23.055 [info] 513dc16a-9c75-4b73-aaa7-5afbeacbd56c OK
+worker-1  | 12:55:28.289 [info] 1335fb48-14b4-4ba3-9ee6-b49eed51bc06 OK
+worker-1  | 
+worker-1  | 12:55:28.334 [info] bad21d9a-c36b-413f-900c-4920b6facf4d => default
+api02-1   | 
+api02-1   | 12:55:28.333 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:28.333 [info] Sent 201 in 71µs
 api01-1   | 
-api01-1   | 04:13:23.071 [info] POST /payments
+api01-1   | 12:55:28.335 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:23.071 [info] Sent 201 in 77µs
+api01-1   | 12:55:28.335 [info] Sent 201 in 95µs
 worker-1  | 
-worker-1  | 04:13:23.071 [info] 4d2130d4-f5f7-44ae-ba2e-da8b6f399061 => default
+worker-1  | 12:55:28.335 [info] bb26e3cd-d622-4e94-9126-b52e4acb4c7b => default
 worker-1  | 
-worker-1  | 04:13:23.073 [info] 4d2130d4-f5f7-44ae-ba2e-da8b6f399061 OK
+worker-1  | 12:55:28.336 [info] bad21d9a-c36b-413f-900c-4920b6facf4d OK
+worker-1  | 
+worker-1  | 12:55:28.337 [info] bb26e3cd-d622-4e94-9126-b52e4acb4c7b OK
 api02-1   | 
-api02-1   | 04:13:23.125 [info] POST /payments
+api02-1   | 12:55:28.364 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:23.125 [info] Sent 201 in 73µs
+api02-1   | 12:55:28.364 [info] Sent 201 in 81µs
 worker-1  | 
-worker-1  | 04:13:23.126 [info] 8a28d54a-1371-4d74-b85b-8832b90e703e => default
+worker-1  | 12:55:28.364 [info] fe1e0ade-e924-4820-a326-f25a5e7bf39f => default
 worker-1  | 
-worker-1  | 04:13:23.128 [info] 8a28d54a-1371-4d74-b85b-8832b90e703e OK
+worker-1  | 12:55:28.366 [info] fe1e0ade-e924-4820-a326-f25a5e7bf39f OK
 api01-1   | 
-api01-1   | 04:13:23.143 [info] POST /payments
+api01-1   | 12:55:28.376 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:23.143 [info] Sent 201 in 55µs
+api01-1   | 12:55:28.376 [info] Sent 201 in 79µs
 worker-1  | 
-worker-1  | 04:13:23.143 [info] b9b31bcf-e8c4-42fa-b5f7-09294910051c => default
+worker-1  | 12:55:28.376 [info] cbf4e89c-df45-4908-901b-80db0cafe954 => default
 worker-1  | 
-worker-1  | 04:13:23.145 [info] b9b31bcf-e8c4-42fa-b5f7-09294910051c OK
+worker-1  | 12:55:28.378 [info] cbf4e89c-df45-4908-901b-80db0cafe954 OK
 api02-1   | 
-api02-1   | 04:13:23.162 [info] POST /payments
+api02-1   | 12:55:28.395 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:23.162 [info] d7cfbe65-7196-4173-968d-6a8afc792478 => default
+worker-1  | 12:55:28.395 [info] 42382d25-b23d-4af4-a6a2-ebe7c7c48484 => default
 api02-1   | 
-api02-1   | 04:13:23.162 [info] Sent 201 in 79µs
+api02-1   | 12:55:28.395 [info] Sent 201 in 76µs
+worker-1  | 
+worker-1  | 12:55:28.397 [info] 42382d25-b23d-4af4-a6a2-ebe7c7c48484 OK
 worker-1  | 
-worker-1  | 04:13:23.164 [info] d7cfbe65-7196-4173-968d-6a8afc792478 OK
+worker-1  | 12:55:28.413 [info] 86b25013-6f09-455e-a6b7-c45ac0fb4a54 => default
 api01-1   | 
-api01-1   | 04:13:23.182 [info] POST /payments
+api01-1   | 12:55:28.412 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:23.182 [info] Sent 201 in 52µs
+api01-1   | 12:55:28.413 [info] Sent 201 in 68µs
 worker-1  | 
-worker-1  | 04:13:23.182 [info] 2c243c70-b9c4-4094-b1e6-a7ad57cbe34b => default
-worker-1  | 
-worker-1  | 04:13:23.183 [info] 2c243c70-b9c4-4094-b1e6-a7ad57cbe34b OK
+worker-1  | 12:55:28.414 [info] 86b25013-6f09-455e-a6b7-c45ac0fb4a54 OK
 api02-1   | 
-api02-1   | 04:13:23.234 [info] POST /payments
+api02-1   | 12:55:28.432 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:23.234 [info] Sent 201 in 60µs
+api02-1   | 12:55:28.432 [info] Sent 201 in 55µs
 worker-1  | 
-worker-1  | 04:13:23.234 [info] c6c29a98-fca1-4ca2-92cd-9ccaa033076b => default
+worker-1  | 12:55:28.432 [info] 4f50adec-2cad-441b-b05e-5544bd755cd9 => default
 worker-1  | 
-worker-1  | 04:13:23.236 [info] c6c29a98-fca1-4ca2-92cd-9ccaa033076b OK
+worker-1  | 12:55:28.434 [info] 4f50adec-2cad-441b-b05e-5544bd755cd9 OK
 worker-1  | 
-worker-1  | 04:13:23.253 [info] 8a417a6f-580e-4c06-b475-73bcb751597e => default
 api01-1   | 
-api01-1   | 04:13:23.252 [info] POST /payments
+worker-1  | 12:55:28.450 [info] 2b47f29d-b6b9-4839-bb46-99a02f638d2d => default
+api01-1   | 12:55:28.450 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:23.252 [info] Sent 201 in 69µs
+api01-1   | 12:55:28.450 [info] Sent 201 in 76µs
 worker-1  | 
-worker-1  | 04:13:23.255 [info] 8a417a6f-580e-4c06-b475-73bcb751597e OK
+worker-1  | 12:55:28.452 [info] 2b47f29d-b6b9-4839-bb46-99a02f638d2d OK
 api02-1   | 
-api02-1   | 04:13:23.272 [info] POST /payments
+api02-1   | 12:55:28.486 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:23.272 [info] Sent 201 in 68µs
+api02-1   | 12:55:28.486 [info] Sent 201 in 100µs
 worker-1  | 
-worker-1  | 04:13:23.272 [info] ab124004-6d13-41db-b244-cd7df164283f => default
+worker-1  | 12:55:28.486 [info] 3302d163-7109-47c5-88c2-36a2065d181e => default
 worker-1  | 
-worker-1  | 04:13:23.274 [info] ab124004-6d13-41db-b244-cd7df164283f OK
+worker-1  | 12:55:28.488 [info] 3302d163-7109-47c5-88c2-36a2065d181e OK
 api01-1   | 
-api01-1   | 04:13:23.290 [info] POST /payments
+api01-1   | 12:55:28.504 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:23.290 [info] Sent 201 in 66µs
+api01-1   | 12:55:28.504 [info] Sent 201 in 55µs
 worker-1  | 
-worker-1  | 04:13:23.291 [info] 3c0f3f86-a551-4ae2-87e3-8d9b6a1c4237 => default
+worker-1  | 12:55:28.504 [info] e3dc0366-81ae-47e7-b246-334e1f518dcc => default
 worker-1  | 
-worker-1  | 04:13:23.293 [info] 3c0f3f86-a551-4ae2-87e3-8d9b6a1c4237 OK
+worker-1  | 12:55:28.506 [info] e3dc0366-81ae-47e7-b246-334e1f518dcc OK
 api02-1   | 
-api02-1   | 04:13:23.344 [info] POST /payments
+api02-1   | 12:55:28.522 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:23.344 [info] Sent 201 in 73µs
+api02-1   | 12:55:28.522 [info] Sent 201 in 71µs
 worker-1  | 
-worker-1  | 04:13:23.344 [info] 780cfc6f-0377-402b-b62b-e4c5bb7719df => default
+worker-1  | 12:55:28.523 [info] bb26bade-9b2f-46db-8abc-140d3088890b => default
 worker-1  | 
-worker-1  | 04:13:23.346 [info] 780cfc6f-0377-402b-b62b-e4c5bb7719df OK
+worker-1  | 12:55:28.524 [info] bb26bade-9b2f-46db-8abc-140d3088890b OK
 api01-1   | 
-api01-1   | 04:13:23.362 [info] POST /payments
+api01-1   | 12:55:28.541 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:23.362 [info] Sent 201 in 66µs
+api01-1   | 12:55:28.541 [info] Sent 201 in 66µs
 worker-1  | 
-worker-1  | 04:13:23.363 [info] 04feb889-749a-4ac2-ad5a-20a29e5c96b6 => default
+worker-1  | 12:55:28.541 [info] 76bdffb1-3546-4a7f-93fc-d774ba112961 => default
 worker-1  | 
-worker-1  | 04:13:23.364 [info] 04feb889-749a-4ac2-ad5a-20a29e5c96b6 OK
+worker-1  | 12:55:28.543 [info] 76bdffb1-3546-4a7f-93fc-d774ba112961 OK
 api02-1   | 
-api02-1   | 04:13:23.381 [info] POST /payments
+api02-1   | 12:55:28.559 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:23.381 [info] Sent 201 in 70µs
+api02-1   | 12:55:28.559 [info] Sent 201 in 67µs
 worker-1  | 
-worker-1  | 04:13:23.381 [info] 42503002-ac8d-4c69-8416-14fa13499f7f => default
+worker-1  | 12:55:28.559 [info] 88af27bb-c33b-4fd2-9a28-271d49e1de07 => default
 worker-1  | 
-worker-1  | 04:13:23.383 [info] 42503002-ac8d-4c69-8416-14fa13499f7f OK
+worker-1  | 12:55:28.561 [info] 88af27bb-c33b-4fd2-9a28-271d49e1de07 OK
+api01-1   | 
+api01-1   | 12:55:28.610 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:23.399 [info] POST /payments
+api01-1   | 12:55:28.610 [info] Sent 201 in 66µs
+worker-1  | 
+worker-1  | 12:55:28.610 [info] 95489a61-7d4e-45d5-b0e6-f43dfdc2c6d8 => default
+worker-1  | 
+worker-1  | 12:55:28.612 [info] 95489a61-7d4e-45d5-b0e6-f43dfdc2c6d8 OK
+api02-1   | 
+api02-1   | 12:55:28.613 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:28.613 [info] Sent 201 in 61µs
+worker-1  | 
+worker-1  | 12:55:28.613 [info] c63ce434-4904-4a1a-a4fc-0f5862f1d1db => default
+worker-1  | 
+worker-1  | 12:55:28.616 [info] c63ce434-4904-4a1a-a4fc-0f5862f1d1db OK
 api01-1   | 
-api01-1   | 04:13:23.399 [info] Sent 201 in 62µs
+api01-1   | 12:55:28.632 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:23.399 [info] 8f2d1d85-7e31-4918-92ac-a61897a4e312 => default
+worker-1  | 12:55:28.632 [info] ac10b587-4c1a-4d4e-9628-d6552941be05 => default
+api01-1   | 
+api01-1   | 12:55:28.632 [info] Sent 201 in 83µs
 worker-1  | 
-worker-1  | 04:13:23.400 [info] 8f2d1d85-7e31-4918-92ac-a61897a4e312 OK
+worker-1  | 12:55:28.634 [info] ac10b587-4c1a-4d4e-9628-d6552941be05 OK
 api02-1   | 
-api02-1   | 04:13:23.453 [info] POST /payments
+api02-1   | 12:55:28.651 [info] POST /payments
 api02-1   | 
-api02-1   | 04:13:23.453 [info] Sent 201 in 76µs
+api02-1   | 12:55:28.652 [info] Sent 201 in 58µs
 worker-1  | 
-worker-1  | 04:13:23.453 [info] f7971911-abec-450f-a64d-53de898109c5 => default
+worker-1  | 12:55:28.652 [info] f675fa66-80dc-45d0-b82a-3f9122b3d8b8 => default
 worker-1  | 
-worker-1  | 04:13:23.455 [info] f7971911-abec-450f-a64d-53de898109c5 OK
+worker-1  | 12:55:28.653 [info] f675fa66-80dc-45d0-b82a-3f9122b3d8b8 OK
 api01-1   | 
-api01-1   | 04:13:23.471 [info] POST /payments
+api01-1   | 12:55:28.670 [info] POST /payments
 api01-1   | 
-api01-1   | 04:13:23.471 [info] Sent 201 in 56µs
+api01-1   | 12:55:28.670 [info] Sent 201 in 58µs
+worker-1  | 
+worker-1  | 12:55:28.670 [info] 306f8d78-4653-4e64-bedc-fa5139a4c965 => default
 worker-1  | 
-worker-1  | 04:13:23.471 [info] 35ffb72a-ef40-486d-8be7-6b12396f64e2 => default
+worker-1  | 12:55:28.672 [info] 306f8d78-4653-4e64-bedc-fa5139a4c965 OK
+api02-1   | 
+api02-1   | 12:55:28.704 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:23.473 [info] 35ffb72a-ef40-486d-8be7-6b12396f64e2 OK
+worker-1  | 12:55:28.705 [info] 190664a3-ceb9-4932-b293-58d611961fd4 => default
 api02-1   | 
-api02-1   | 04:13:23.488 [info] POST /payments
+api02-1   | 12:55:28.704 [info] Sent 201 in 68µs
+worker-1  | 
+worker-1  | 12:55:28.706 [info] 190664a3-ceb9-4932-b293-58d611961fd4 OK
+api01-1   | 
+api01-1   | 12:55:28.723 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:28.723 [info] Sent 201 in 106µs
+worker-1  | 
+worker-1  | 12:55:28.723 [info] 17d33321-b570-4b6b-a3c7-705fb8a7134a => default
 worker-1  | 
-worker-1  | 04:13:23.489 [info] e225d0cd-46f7-46c7-a6f3-bf3d18cf7832 => default
+worker-1  | 12:55:28.725 [info] 17d33321-b570-4b6b-a3c7-705fb8a7134a OK
 api02-1   | 
-api02-1   | 04:13:23.489 [info] Sent 201 in 69µs
+api02-1   | 12:55:28.740 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:28.740 [info] Sent 201 in 93µs
+worker-1  | 
+worker-1  | 12:55:28.740 [info] 595fa494-f874-4f82-9c9f-7c124b395d99 => default
 worker-1  | 
-worker-1  | 04:13:23.491 [info] e225d0cd-46f7-46c7-a6f3-bf3d18cf7832 OK
+worker-1  | 12:55:28.741 [info] 595fa494-f874-4f82-9c9f-7c124b395d99 OK
 api01-1   | 
-api01-1   | 04:13:23.508 [info] POST /payments
+api01-1   | 12:55:28.759 [info] POST /payments
+worker-1  | 
+worker-1  | 12:55:28.760 [info] b29b6345-98d1-47b1-b18d-7aee3b4eb951 => default
 api01-1   | 
-api01-1   | 04:13:23.508 [info] Sent 201 in 65µs
+api01-1   | 12:55:28.759 [info] Sent 201 in 67µs
 worker-1  | 
-worker-1  | 04:13:23.509 [info] 66fb6858-0ba3-4359-89dd-6542a90b36e3 => default
+worker-1  | 12:55:28.761 [info] b29b6345-98d1-47b1-b18d-7aee3b4eb951 OK
+api02-1   | 
+api02-1   | 12:55:28.777 [info] POST /payments
 worker-1  | 
-worker-1  | 04:13:23.510 [info] 66fb6858-0ba3-4359-89dd-6542a90b36e3 OK
+worker-1  | 12:55:28.777 [info] 99a9fc98-444a-4094-88a7-b14796bdef5a => default
 api02-1   | 
-api02-1   | 04:13:23.561 [info] POST /payments
+api02-1   | 12:55:28.777 [info] Sent 201 in 95µs
+worker-1  | 
+worker-1  | 12:55:28.779 [info] 99a9fc98-444a-4094-88a7-b14796bdef5a OK
+api01-1   | 
+api01-1   | 12:55:28.813 [info] POST /payments
+api01-1   | 
+api01-1   | 12:55:28.813 [info] Sent 201 in 87µs
 worker-1  | 
-worker-1  | 04:13:23.562 [info] 9c625e34-427e-44bc-b075-d8cd50f5040e => default
+worker-1  | 12:55:28.814 [info] 3bc8ea1d-c8dc-41f5-97e2-83c0f8e75190 => default
+worker-1  | 
+worker-1  | 12:55:28.815 [info] 3bc8ea1d-c8dc-41f5-97e2-83c0f8e75190 OK
 api02-1   | 
-api02-1   | 04:13:23.561 [info] Sent 201 in 69µs
+api02-1   | 12:55:28.831 [info] POST /payments
+api02-1   | 
+api02-1   | 12:55:28.831 [info] Sent 201 in 63µs
+worker-1  | 
+worker-1  | 12:55:28.831 [info] e0b7044e-1ce0-4755-8197-31d4e98477a0 => default
 worker-1  | 
-worker-1  | 04:13:23.563 [info] 9c625e34-427e-44bc-b075-d8cd50f5040e OK
+worker-1  | 12:55:28.833 [info] e0b7044e-1ce0-4755-8197-31d4e98477a0 OK
 api01-1   | 
 log truncated at line 1000

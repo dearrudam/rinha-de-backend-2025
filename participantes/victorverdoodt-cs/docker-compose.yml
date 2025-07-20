@@ -46,8 +46,8 @@ services:
       - Gateways__Fallback=http://payment-processor-fallback:8080
       - DB_HOSTNAME=Host=db;Database=rinha;Username=admin;Password=123;No Reset On Close=true;Max Auto Prepare=10;Auto Prepare Min Usages=1;Pooling=true;Maximum Pool Size=100
       - Workers__ConcurrencyLevel=1
-      - Workers__BatchSize=10  
-      - Workers__FlushTimeoutMs=0
+      - Workers__BatchSize=200
+      - Workers__FlushTimeoutMs=20
     deploy:
       resources:
         limits:
@@ -71,8 +71,8 @@ services:
     deploy:
       resources:
         limits:
-          cpus: "0.15"
-          memory: "10MB"
+          cpus: "0.2"
+          memory: "15MB"
 
   db:
     image: postgres:17-alpine
@@ -96,7 +96,7 @@ services:
     deploy:
       resources:
         limits:
-          cpus: "0.4"
+          cpus: "0.35"
           memory: "120MB"
 
 

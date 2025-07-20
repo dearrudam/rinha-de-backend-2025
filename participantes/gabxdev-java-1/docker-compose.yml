@@ -18,45 +18,33 @@ services:
       BACK_END_URL: http://backend-2:8080
       JAVA_OPTS: >-
         -server
-        -Xms64g -Xmx64g
         -XX:+UseG1GC
         -XX:+UseFastAccessorMethods
         -Xlog:disable
-        -XX:G1HeapRegionSize=32m
-        -XX:G1NewSizePercent=40
-        -XX:G1MaxNewSizePercent=60
-        -XX:G1MixedGCCountTarget=8
-        -XX:G1HeapWastePercent=5
-        -XX:G1MixedGCLiveThresholdPercent=85
-        -XX:G1OldCSetRegionThresholdPercent=10
-        -XX:+UseLargePages
-        -XX:+UseNUMA
-        -XX:+TieredCompilation
-        -XX:TieredStopAtLevel=4
-        -XX:+AggressiveOpts
-        -XX:+OptimizeStringConcat
-        -XX:-UseCounterDecay
-        -XX:+DisableExplicitGC
-        -XX:+UseStringCache
         -XX:-PrintGC
+        -XX:+UseStringCache
         -XX:-PrintGCDetails
         -XX:-FlightRecorder
+        -XX:+DisableExplicitGC
+        -XX:+UseLargePages
+        -XX:+UseNUMA
+        -XX:+OptimizeStringConcat
+        -XX:+AggressiveOpts
+        -XX:-UseCounterDecay
         -XX:+UseTransparentHugePages
-        -XX:LargePageSizeInBytes=2m
         -XX:+UseNUMAInterleaving
         -XX:+UseCompressedOops
         -XX:+UseCompressedClassPointers
         -XX:+UseFastUnorderedTimeStamps
         -XX:+UnlockExperimentalVMOptions
         -XX:-UseBiasedLocking
-        -XX:MaxGCPauseMillis=200
     networks:
       - backend
       - payment-processor
     deploy:
       resources:
         limits:
-          cpus: '0.625'
+          cpus: '0.62'
           memory: '140MB'
 
   backend-2:
@@ -77,45 +65,33 @@ services:
       BACK_END_URL: http://backend-1:8080
       JAVA_OPTS: >-
         -server
-        -Xms64g -Xmx64g
         -XX:+UseG1GC
         -XX:+UseFastAccessorMethods
         -Xlog:disable
-        -XX:G1HeapRegionSize=32m
-        -XX:G1NewSizePercent=40
-        -XX:G1MaxNewSizePercent=60
-        -XX:G1MixedGCCountTarget=8
-        -XX:G1HeapWastePercent=5
-        -XX:G1MixedGCLiveThresholdPercent=85
-        -XX:G1OldCSetRegionThresholdPercent=10
-        -XX:+UseLargePages
-        -XX:+UseNUMA
-        -XX:+TieredCompilation
-        -XX:TieredStopAtLevel=4
-        -XX:+AggressiveOpts
-        -XX:+OptimizeStringConcat
-        -XX:-UseCounterDecay
-        -XX:+DisableExplicitGC
-        -XX:+UseStringCache
         -XX:-PrintGC
+        -XX:+UseStringCache
         -XX:-PrintGCDetails
         -XX:-FlightRecorder
+        -XX:+DisableExplicitGC
+        -XX:+UseLargePages
+        -XX:+UseNUMA
+        -XX:+OptimizeStringConcat
+        -XX:+AggressiveOpts
+        -XX:-UseCounterDecay
         -XX:+UseTransparentHugePages
-        -XX:LargePageSizeInBytes=2m
         -XX:+UseNUMAInterleaving
         -XX:+UseCompressedOops
         -XX:+UseCompressedClassPointers
         -XX:+UseFastUnorderedTimeStamps
         -XX:+UnlockExperimentalVMOptions
         -XX:-UseBiasedLocking
-        -XX:MaxGCPauseMillis=200
     networks:
       - backend
       - payment-processor
     deploy:
       resources:
         limits:
-          cpus: '0.625'
+          cpus: '0.62'
           memory: '140MB'
 
   load-balancer:
@@ -134,7 +110,7 @@ services:
     deploy:
       resources:
         limits:
-          cpus: "0.25"
+          cpus: "0.26"
           memory: "70MB"
 
 networks:
